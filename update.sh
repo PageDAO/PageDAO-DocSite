@@ -1,2 +1,2 @@
-cd ~/sites/wipp/PageDao-doc/
+cd ~/sites/wipp/PageDAO-doc/
 git fetch && git pull
