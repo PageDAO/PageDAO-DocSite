@@ -4,15 +4,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'PageDAO',
+  tagline: 'Metaverse writers guild',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'PageDAO', // Usually your GitHub org/user name.
+  projectName: 'PageDAO', // Usually your repo name.
 
   presets: [
     [
@@ -41,21 +41,36 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'PageDAO',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Page Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'whitepaper',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Whitepaper',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://bit.ly/page-swap',
+            label: 'Uniswap',
+            position: 'left',
+          },
+          {
+            href: 'https://bit.ly/page-staking',
+            label: 'Tosdis',
+            position: 'left',
+          },
+          {
+            href: 'https://bit.ly/page-dt',
+            label: 'DexTools',
+            position: 'left',
+          },
+          {
+            href: 'https://github.com/wippublishing/PageDAO-DocSite',
             label: 'GitHub',
             position: 'right',
           },
@@ -68,25 +83,26 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: '$PAGE Whitepaper',
+                to: '/docs/whitepaper',
               },
             ],
           },
           {
             title: 'Community',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
+              
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://bit.ly/wipp-discord',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/page_dao',
+              },
+              {
+                label: 'Medium',
+                href: 'https://medium.com/work-in-progress-publishing',
               },
             ],
           },
@@ -99,12 +115,29 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/wippublishing/PageDAO-DocSite',
+              },
+            ],
+          },
+          {
+            title: 'Trading',
+            items: [
+              {
+                label: 'Swap $PAGE on Uniswap',
+                href: 'https://bit.ly/page-uniswap',
+              },
+              {
+                label: 'Stake $PAGE on Tosdis',
+                href: 'https://bit.ly/page-staking',
+              },
+              {
+                label: 'View $PAGE on DexTools',
+                href: 'https://bit.ly/page-staking',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} PageDAO`,
       },
       prism: {
         theme: lightCodeTheme,
