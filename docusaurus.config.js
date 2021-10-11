@@ -53,7 +53,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            label: 'Medium',
+            href: 'https://medium.com/work-in-progress-publishing',
+            position: 'left',
+          },
           
           {
             href: 'https://github.com/wippublishing/PageDAO-DocSite',
