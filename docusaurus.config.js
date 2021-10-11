@@ -4,9 +4,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'PageDAO',
-  tagline: 'Metaverse writers guild',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'We are PageDAO',
+  tagline: 'Our mission is to fuel creative literary pursuits in blockchain, the metaverse and beyond.',
+  url: 'https://pagedao.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -22,13 +22,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/wippublishing/PageDAO-DocSite/edit/master',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            'https://github.com/wippublishing/PageDAO-DocSite/edit/master',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -51,24 +51,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             type: 'doc',
             docId: 'whitepaper',
             position: 'left',
-            label: 'Whitepaper',
+            label: 'Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://bit.ly/page-swap',
-            label: 'Uniswap',
-            position: 'left',
-          },
-          {
-            href: 'https://bit.ly/page-staking',
-            label: 'Tosdis',
-            position: 'left',
-          },
-          {
-            href: 'https://bit.ly/page-dt',
-            label: 'DexTools',
-            position: 'left',
-          },
+          
           {
             href: 'https://github.com/wippublishing/PageDAO-DocSite',
             label: 'GitHub',
@@ -83,9 +69,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'Docs',
             items: [
               {
-                label: '$PAGE Whitepaper',
+                label: 'Whitepaper',
                 to: '/docs/whitepaper',
               },
+
             ],
           },
           {
@@ -97,21 +84,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 href: 'https://bit.ly/wipp-discord',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/page_dao',
-              },
-              {
-                label: 'Medium',
-                href: 'https://medium.com/work-in-progress-publishing',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Snapshot',
+                href: 'https://vote.pagedao.org/#/pagedao.eth',
               },
               {
                 label: 'GitHub',
@@ -120,18 +94,32 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
           {
+            title: 'Social',
+            items: [
+              {
+                label: 'Twitter',
+                href: 'https://twitter.com/page_dao',
+              },
+              {
+                label: 'Medium',
+                href: 'https://medium.com/work-in-progress-publishing',
+              },
+              
+            ],
+          },
+          {
             title: 'Trading',
             items: [
               {
-                label: 'Swap $PAGE on Uniswap',
+                label: 'Swap on Uniswap',
                 href: 'https://bit.ly/page-uniswap',
               },
               {
-                label: 'Stake $PAGE on Tosdis',
+                label: 'Stake on Tosdis',
                 href: 'https://bit.ly/page-staking',
               },
               {
-                label: 'View $PAGE on DexTools',
+                label: 'View on DexTools',
                 href: 'https://bit.ly/page-staking',
               },
             ],
