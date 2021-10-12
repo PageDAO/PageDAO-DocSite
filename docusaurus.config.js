@@ -116,7 +116,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'Swap on Uniswap',
-                href: 'https://bit.ly/page-uniswap',
+                href: 'https://bit.ly/swap-page',
               },
               {
                 label: 'Stake on Tosdis',
@@ -124,7 +124,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
               {
                 label: 'View on DexTools',
-                href: 'https://bit.ly/page-staking',
+                href: 'https://bit.ly/page-dt',
               },
             ],
           },
