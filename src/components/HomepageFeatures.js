@@ -9,7 +9,7 @@ const FeatureList = [
     description: (
       <>
         Our community is comprised of writers, readers and all creatives working to bring literature to blockchain. 
-        <div class="button"><a href = "https://discord.com/invite/MTWhQjnMVh">Join the discord</a></div>
+        <br></br><div class="button"><a href = "https://discord.com/invite/MTWhQjnMVh">Join the discord</a></div>
       </>
     ),
     
@@ -20,7 +20,7 @@ const FeatureList = [
     description: (
       <>
         Our $PAGE utility token serves as a currency within the PAGE Network to reward literary creatives and supporters for their contributions in the DAO.
-        <div class="button"><a href = "https://v2.info.uniswap.org/pair/0x9a25d21e204f10177738edb0c3345bd88478aaa2">Trade on Uniswap</a></div>
+        <br></br><div class="button"><a href = "https://v2.info.uniswap.org/pair/0x9a25d21e204f10177738edb0c3345bd88478aaa2">Trade on Uniswap</a></div>
       </>
     ),
   },
@@ -30,7 +30,7 @@ const FeatureList = [
     description: (
       <>
         Our decentralized autonomous organization is self-governing and works collectively to further our vision to bring Web 3.0 literature to life.
-        <div class="button"><a href = "https://vote.pagedao.org/#/pagedao.eth">Snapshot Governance</a></div>
+        <br></br><div class="button"><a href = "https://vote.pagedao.org/#/pagedao.eth">Snapshot Governance</a></div>
       </>
     ),
   },

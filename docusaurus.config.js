@@ -22,13 +22,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/wippublishing/PageDAO-DocSite/edit/master',
+          editUrl: 'https://github.com/PageDAO/PageDAO-DocSite/edit/master',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/wippublishing/PageDAO-DocSite/edit/master',
+            'https://github.com/PageDAO/PageDAO-DocSite/edit/master',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -60,7 +60,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           },
           
           {
-            href: 'https://github.com/wippublishing/PageDAO-DocSite',
+            href: 'https://github.com/PageDAO/PageDAO-DocSite',
             label: 'GitHub',
             position: 'right',
           },
@@ -93,7 +93,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/wippublishing/PageDAO-DocSite',
+                href: 'https://github.com/PageDAO/PageDAO-DocSite',
               },
             ],
           },
