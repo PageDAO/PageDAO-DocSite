@@ -1,6 +1,6 @@
 # Space Pirates Psychedelic Booty
 
-## Part 1 - THE INVASION
+## Part 1
 
  Captain is getting through. 50/50 chance of passing through safely.
 Dialogue between AI and captain.
@@ -434,7 +434,7 @@ What is their conflict or sacrifice?:in the past it's the CEO and Diamond beard.
 -jedi
 
 
-And heeeeeere….we go!!!
+And heeeeeere….we go!
 
 
 
