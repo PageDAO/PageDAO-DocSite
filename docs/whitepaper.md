@@ -384,5 +384,3 @@ In addition to the primary, publisher-run NFTBook stores, secondary markets won'
 * ❌ Scalable Support for open-source/off-copyright NFTBook creation via grants and LP incentives securely.
 * ❌ Liquidity Pools (LPs) for NFTBooks vs. PAGE token on PAGE Blockchain to automate price discovery and adaptable demand response and simultaneously facilitate real-time secondary market price discovery to increase NFTBook liquidity.
 * ❌ Secondary LPs enable users to create their own NFTBook vs. Other NFTBooks and PAGE token pools and/or farms on Cosmos to explore curation-based marketplaces and non-traditional releases.
-
-Test editasdlfj;aksdjfoiajsd
