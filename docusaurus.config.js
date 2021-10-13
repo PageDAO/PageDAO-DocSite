@@ -56,7 +56,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           {
             type: 'doc',
             label: 'Pass the Pen',
-            docId: 'Pass-the-Pen/Space-Pirates/pt1',
+            docId: 'pass-the-pen/space-pirates/pt1',
             position: 'left',
           },
           {

@@ -3,6 +3,7 @@ slug: part-1
 title: 'Part 1 - The Invasion'
 ---
 
+## Chapter 1
 Captain is getting through. 50/50 chance of passing through safely.
 Dialogue between AI and captain.
 “It’s happening.”
@@ -48,6 +49,7 @@ And that’s not all. The ground shakes, their cocktails spill, and smoke billow
 This was his crowning jewel to the legacy he spent these months building. Officers running, bureaucrats scrambling - but it’s too late.
 
 
+## Chapter 2
 AUGUST 13th 2021
 
 The alarms have started to go off. The warship has blown up, the signal is ruined - but whereas the imperialists don’t have their way of contacting Earth, some members still have access to back-up escape ships. Our pirates are already on their way out - but they’ve got a tail. The pirates crew is on edge - our captain is too confident given the risk, they think. Yet in his eyes he is envisioning something far more hopeful.
@@ -70,6 +72,7 @@ We’re going to work something out,” - the CEO lies.
 
 Of course, the CEO plans for an ambush - but their tech hardly works at this point. THE CEO is slimy and conniving but still severely weakened. The Captain, eyes still gleamy with that hope he is envisioning, had but a fair chance still.
 
+## Chapter 3
 20th August 2021 - Parley?
 
 NOte: CEO chose the life of the harsh world of centralised business in this flashback. The captain has chosen chivalry and emotional maturity and Robinhoodness with what he’s been through. 
@@ -103,6 +106,7 @@ Away in the distance, a security guard opens a closet. A red hair earring falls 
 
 The Captain takes out a cigar - one from the CEO’s inventory earlier. He won’t accept gifts, but no normal pirate wouldn’t be without picking up some loot.
 
+## Chapter 4
 27th August 2021 - The Smoking Room
 
 “What’s your attitude?”
@@ -139,6 +143,7 @@ In walks a young lady with red hair and a pantless pirate with one earring missi
 
 “Enough of these reunions, gentle pirate-men. If you want to survive, you must follow me, for I know the innerworkings of this whole corrupt system’s tunnels.”
 
+## Chapter 5
 TOKENSMART SHOW 1st September - THE TUNNEL PLIGHT
 
 Trident leads the two pirates through a darkened tunnel. They’re going to SPORE BAR.
