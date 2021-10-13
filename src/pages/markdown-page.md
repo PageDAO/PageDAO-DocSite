@@ -1,5 +1,5 @@
 ---
-title: Markdown page example
+title: Join the Metaverse Writers Guild
 ---
 
 # Markdown page example

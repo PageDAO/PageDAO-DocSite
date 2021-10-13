@@ -54,8 +54,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             label: 'Docs',
           },
           {
+            type: 'doc',
+            label: 'Pass the Pen',
+            docId: 'Pass-the-Pen/Space-Pirates/pt1',
+            position: 'left',
+          },
+          {
             label: 'Medium',
             href: 'https://medium.com/work-in-progress-publishing',
+            position: 'left',
+          },
+
+          {
+            label: 'Join the Guild',
+            href: 'https://airtable.com/shrwskd6403xPAQSW',
             position: 'left',
           },
           
@@ -76,6 +88,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 label: 'Whitepaper',
                 to: '/docs/whitepaper',
               },
+              
 
             ],
           },
@@ -94,6 +107,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               {
                 label: 'GitHub',
                 href: 'https://github.com/PageDAO/PageDAO-DocSite',
+              },
+              {
+                label: 'Join the PageDAO Guild',
+                href: 'https://airtable.com/shrwskd6403xPAQSW',
               },
             ],
           },
