@@ -146,6 +146,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               {
                 label: 'Etherscan',
                 href: 'https://etherscan.io/address/0x60e683c6514edd5f758a55b6f393bebbafaa8d5e',
+              },
+              {
+                label: 'Coingecko',
+                href: 'https://www.coingecko.com/en/coins/page',
               }
             ],
           },

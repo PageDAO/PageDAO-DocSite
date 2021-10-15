@@ -148,7 +148,8 @@ PAGE Network Development: 30%
 Community Support Incentives: 15%
 Founding Team Rewards: 5%
 
-![Summary of PAGE Token Distribution](https://github.com/wippublishing/page-dao/blob/main/resources/summary-of-page-token-dist.png)
+![Summary of PAGE Token Distribution](https://github.com/PageDAO/PageDAO-DocSite/static/img/whitepaper/summary-of-page-token-dist.png)
+
 
 
 
@@ -164,13 +165,13 @@ Rather than duplicating locked-down files whose purchase serves only to line the
 
 ## Detailed PAGE Token Breakdown ###########################################################
 
-![Token Release Schedule graphic](https://github.com/wippublishing/page-dao/blob/main/resources/token-release-schedule.png)
+![Token Release Schedule graphic](https://github.com/PageDAO/PageDAO-DocSite/static/img/whitepaper/token-release-schedule.png)
 
 
 
 PAGE Token Distribution Strategy
 
-![Token Distribution](https://github.com/wippublishing/page-dao/blob/main/resources/page-token-dist.png)
+![Token Distribution](https://github.com/PageDAO/PageDAO-DocSite/static/img/whitepaper/page-token-dist.png)
 
 
 PAGE tokens will be distributed to ETH users via a network including TrustSwap locks and vesting contracts as well as three Gnosis Safe Multisig Wallets set up to automatically distribute tokens to partner destinations in the community, among PAGEDAO Founders, and in return for services WIPP will initially provide such as developing technology and marketing. 
@@ -179,7 +180,7 @@ Particular beneficiaries of the PAGE development strategy will include 3 classes
 
 ### Decentralized Network Creation Via LP & Volume Incentives: 50%
 
-![Funding and Mining graphic](https://github.com/wippublishing/page-dao/blob/main/resources/funding-mining.png)
+![Funding and Mining graphic](https://github.com/PageDAO/PageDAO-DocSite/static/img/whitepaper/funding-mining.png)
 
 
 
@@ -206,7 +207,7 @@ As a result, though the founding team will begin with a claim to 5% of the total
 
 ### PAGE Network Development: 30%
 
-![Development and Strategic Reserve](https://github.com/wippublishing/page-dao/blob/main/resources/development-strategic-reserve.png)
+![Development and Strategic Reserve](https://github.com/PageDAO/PageDAO-DocSite/static/img/whitepaper/development-strategic-reserve.png)
 
 30% of the token will be distributed to PAGE Network participants in return for specific development milestones.  The initial plan will release the 30% development budget for the initial token issuance to the WIPP Company over the next 1.5 years; WIPP will be empowered to delegate this benefit to other contractors or hire subcontractors including via the exchange of PAGE through the Liquidity Pool infrastructure for ETH or another token to then exchange for USD or other fiat currency to compensate them for their services.
 
@@ -340,7 +341,7 @@ Liquidity can be provided by WIPP or other publishers, community members, collec
 
 ## NFTBook Liquidity Pool Structure ###########################################################
 
-![NFTBook vs Kindle](https://github.com/wippublishing/page-dao/blob/main/resources/NFTBookBazaarFlow.jpeg)
+![NFTBook vs Kindle](https://github.com/PageDAO/PageDAO-DocSite/static/img/whitepaper/NFTBookBazaarFlow.jpeg)
 
 NFTBook Liquidity pools will be used to issue NFTBooks into the marketplace at a Target Price (TP) set by vote by quorum of LP DAO members (Each is ultimately a blockchain-based publishing house that issues NFTs instead or in addition to printed physical books). The liquidity pools will feature a PAGE token with which any given NFTBook can be paired. The TP is enforced by the minting of additional assets as required by the market to keep the price of any individual asset beneath a given threshold, thus automatically pairing increased supply to increased demand for an asset or by depositing excess PAGE tokens from the LP into the wallets of LP Token holders on the basis of the % of the LPT held by each individual. Undesired price decreases can be mitigated by similarly burning assets or depositing additional PAGE tokens into the pool. 
 
