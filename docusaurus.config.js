@@ -54,18 +54,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             label: '$PAGE Whitepaper',
           },
           {
-            type: 'doc',
-            label: 'Pass the Pen',
-            docId: 'pass-the-pen/space-pirates/pt1',
-            position: 'left',
-          },
-          {
-            label: 'Medium',
-            href: 'https://medium.com/work-in-progress-publishing',
-            position: 'left',
-          },
-
-          {
             label: 'Join the Guild',
             href: 'https://airtable.com/shrwskd6403xPAQSW',
             position: 'left',
@@ -86,7 +74,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'Whitepaper',
-                to: '/docs/whitepaper',
+                to: '/docs/whitepaper/intro',
               },
               
 
