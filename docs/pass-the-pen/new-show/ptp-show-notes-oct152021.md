@@ -109,7 +109,13 @@ They blast out of the portal into a new foreign place.
 
 Somebody comes out to greet them (NPC ofcourse)... "WELCOME! DO YOU WANT TO PLAY A GAME?"
 
---->>> START WRITING NOW!
+---
+# START WRITING NOW!
+This story must conclude before 10/31 (2wks)
+
+---
+
+
 
 
 
