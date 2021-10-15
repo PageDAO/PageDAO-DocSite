@@ -1,6 +1,4 @@
 ---
-# slug: part-1
-# id: pt1
 title: 'Part 1 - The Invasion'
 ---
 
