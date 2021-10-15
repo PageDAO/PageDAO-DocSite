@@ -1,0 +1,50 @@
+---
+sidebar_position: 2
+title: The Vision for PAGE Network
+---
+
+### Introduction
+There is an uncountable number of authors and ideas that will not be allowed to move forward with their dreams, their work, or their obsessions. Financial considerations dictate that these people focus their time and energy on something else. This oversight, that many people would love to create but cannot afford to, is a simple fact of the inefficient present-day publishing system; a publishing market designed around barriers to entry for unknown individuals and characterized by go-to-market difficulties faced by book publishers as a whole. There is an access problem on the other side of the coin as well: many nations today suffer limited access to the funds needed to secure the latest books, and aside from local economies, the means needed to raise funds for studies are non-existent, which hampers education even among people who desire it. And we mean to end that by creating a blockchain for books capable of storing, pricing, sorting, distributing and settling transactions. As the market becomes more efficient, books will become more universally accessible.
+
+Blockchain technology can make the world’s literature available to the world’s people at an entirely new level by minimizing waste and making use of finance-oriented protocols to create and fund new literary explorations. What if reading books for free wasn’t enough? If you’d like to be paid to read, there are possibilities for you here. A small number of tokens should allow you to buy and sell books on the blockchain for a fraction of the cost you’d pay to read so many titles on competing platforms selling eBooks, or perhaps you’d prefer to lend your titles to friends or deposit them into a vault.
+
+Decentralized distribution allows all market entrants equal access to the technology and financial tooling needed to create excellent new properties… for books. Enabling NFT technologies will allow an entirely new set of properties to be integrated into the book market for the first time in history. 
+
+It is possible to create a fully decentralized blockchain-based library of NFTBooks that pay their authors and promoters more to make and distribute books than traditional markets have previously paid such people. By bringing financial tools from DeFi to the publishing industry, it is possible to allow the purchasers and readers of books on the blockchain to financially benefit from their involvement in this reshaped and renewed publishing industry. To do this, it is first necessary to create a blockchain capable of efficiently and automatically creating and distributing NFTBooks. 
+
+In this case, that blockchain consists of a standard, 3-part, publicly owned Cosmos SDK blockchain involving a network, a token, and a virtual machine. At the time of writing, this blockchain does not exist. The PAGEDAO will take effect at such time that this blockchain is ready to go live, allowing control of the network and buildout of features by the PAGEDAO community, in addition to principal developer WIP Publishing. 
+
+The virtual machine will be a standard EVM-capable Cosmos SDK Ethermint state machine, the token will be the new WIPP-proprietary PAGE token, and the network will be created in a decentralized manner very similar to the $OSMO network’s creation--a fairdrop to NFTBook-holders and community members. In this way, an efficient and extraordinarily decentralized app-specific blockchain for NFTBook trading can be created almost overnight, with benefits accruing to three specific initiatives: development, liquidity, and volume.
+
+The lessons learned from the $OSMO quadratic fairdrop are applicable to all new chain launches moving forward. $PAGE will be a powerful early use case for ICAs, or initial coin airdrops. This launch strategy will entail substantially less risk than ICOs and comparable fundraising methods due to the lack of offering at a structured price. There is risk in trusting the community to adequately price the token of the project, but projects which are approved of and supported by the community will face few barriers to entry for the immediate future. Economics has fundamentally changed; governance and trust have been modified as well.
+
+### What is an NFTBook?
+The NFTBook Standard is under development by the WIP (Work in Progress) Publishing Company. Currently, the development has reached Alpha status after a warm reception of the Genesis NFTBook series. NFTBook Alpha supports beautiful visuals and can be viewed in the WIP Publishing collections on OpenSea. Each NFTBook is a digital certificate of ownership which tracks and values the content of the work and has the property of digital scarcity, which enables the set of innovations to be outlined in this document.
+
+### Background
+The WIP Publishing Company was originally founded as a spinoff of Libernet DAO, an organization dedicated to bringing the world’s books to the world’s people for the first time. Democratizing access to literature has remained a priority for the WIPP team, though the structure became a C-Corporation geared toward raising venture capital to bring a series of books to market when we broke away from Libernet. 
+
+Why couldn’t the art market’s success in NFT Art be used as a model for a market designed to distribute books? Even a profit-incentivized corporation could be used to create a network and application suite geared toward the production of books as NFTs. Each of the benefits enjoyed by artists could become a selling point for such a network:
+
+NFTs eliminate the middleman. Artists don’t have to wait around and pay lump sums to gallery owners or show organizers anymore. NFT distribution allows artists to network directly with collectors, saving time and money.
+Digital permanent ownership is desirable. Artists are able to trust in the blockchain record of the transaction to remain immutable. NFT immutability allows artists to achieve maximum credit for their work, even online.
+Royalties, in perpetuity over the life of a widely traded NFT asset, will be substantial. Even resellable print books only pay their dealers. NFTBooks can be tagged with royalties that never fail to pay the author on time.
+Novel content is possible here. A book can now have 20+ authors and trustlessly pay each of them, on time every time. It can contain audio, or print book creation functionality. Who knows what people will eventually use NFTBooks to store? Everything from physical objects to virtual worlds is possible.
+
+
+A variety of issues stood in the way of widespread NFTBooks: royalties, unstable prices, book layout, book security. Each of these hurdles has been addressed by a small team of innovative and dedicated NFT pioneers. We are pleased to announce that we believe we have found a technological system worthy of the loftiest pursuit in the history of literature: uploading all of the world’s books to the blockchain.
+
+The WIPP company minted the first PAGE ERC-20 token in July of 2021. A few months of hard work and dedicated market research had revealed a need in the market: eBooks are a deficient content delivery system because they rely upon centralized (read: censorable) servers under the control of singular, for-profit institutions. Even without malice on the part of these organizations, GeoCities teaches a lesson to internet users everywhere: your content has a finite shelf life. The web does not record its history effectively.
+
+This key market lesson uncovered the core of the value proposition of the NFTBook: an immutable decentralized storage system capable of storing, remembering, and making available all of the world’s content; with unexpected benefits including royalties payable to authors attachable to on-platform secondary sales, decentralized DRM options, and scalability far exceeding any other solution technology has yet made possible. The vibrant open source community in and around the blockchain space has made these technologies available to savvy entrepreneurs at little or no cost, with minimal coding and/or development required to spin up functional solutions.
+
+This perfect storm of benefits has led to the term Web3.0 being used to describe blockchain development environments and the products created by the labors of these talented teams of developers. Open source software is entering a Renaissance, and the overhead associated with application development is nearing an all-time low. As people everywhere begin to become familiar with the tech stack that will make up the internet of the future, the most logical question to ask is how history will rhyme with itself here: how will people mold the backbone of knowledge, the book, to suit this new online environment?
+
+ 
+### Rapid Development Opportunity
+
+PAGE provides an opportunity to use market incentives and inflation to rapidly deploy a universal currency around books. Ultimately, it would be ideal to create automated market makers (AMMs) around NFTBooks to maximize the liquidity of the assets themselves, thus transforming books into value-backed currency, which of course will also include all utility points: text, audio, image, video, interactive, and other content forms can all be worked into the NFTBook Standards. The result of this vision is a book market like the world has never seen before--eBooks are non-transferable and there are no secondary markets, and paper books can never be thought of as immutable. 
+
+What if there was an NFTBook that contained the option to have a high quality print of the text drop-shipped from a Print-on-Demand center near you, wherever you are in the world?
+
+PAGE can create this technology by applying DeFi and the principles of decentralized governance to raise funds, hire additional developers and marketers to build a robust team to create and maintain rapidly scaling architecture capable of challenging the established players in the publishing industry with help from Tendermint and the Cosmos ecosystem. 
