@@ -54,6 +54,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             label: '$PAGE Whitepaper',
           },
           {
+            label: 'Community',
+            to: 'community/space-pirates/pt1',
+            activeBaseRegex: 'community/.*',
+          },
+          {
             label: 'Join the Guild',
             href: 'https://airtable.com/shrwskd6403xPAQSW',
             position: 'left',
@@ -149,4 +154,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         darkTheme: darkCodeTheme,
       },
     }),
+
+    plugins: [
+      [
+        '@docusaurus/plugin-content-docs',
+        {
+          id: 'community',
+          path: 'community',
+          routeBasePath: 'community',
+          sidebarPath: require.resolve('./community/sidebars.js'),
+          showLastUpdateTime: true,
+        },
+      ],
+    ]
 });

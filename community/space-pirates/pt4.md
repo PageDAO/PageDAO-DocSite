@@ -1,7 +1,5 @@
 ---
-slug: part-4
 title: 'Part 4 - ???'
-
 ---
 
 When the CEO wakes up from his flashback, it has infuriated him even more having been dreaming, deep memories of the conflict from all that time ago - the conflict that broke the friendship of him and the captain apart.

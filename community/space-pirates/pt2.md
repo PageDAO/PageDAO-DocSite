@@ -1,5 +1,4 @@
 ---
-slug: part-2
 title: 'Part 2 - Dazerine Takes the Torch'
 ---
 

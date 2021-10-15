@@ -1,5 +1,4 @@
 ---
-slug: part-1
 title: 'Part 1 - The Invasion'
 ---
 
