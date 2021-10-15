@@ -1,5 +1,6 @@
 ---
-slug: part-2
+# slug: part-2
+id: pt2
 title: 'Part 2 - Dazerine Takes the Torch'
 ---
 

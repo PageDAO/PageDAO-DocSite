@@ -1,5 +1,5 @@
 ---
-slug: part-3
+# slug: part-3
 title: 'Part 3 - ???'
 ---
 

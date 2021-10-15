@@ -1,5 +1,5 @@
 ---
-slug: appendix
+# slug: appendix
 title: 'Appendix'
 ---
 
