@@ -1,5 +1,4 @@
 ---
-slug: part-3
 title: 'Part 3 - ???'
 ---
 
