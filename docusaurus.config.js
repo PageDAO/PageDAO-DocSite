@@ -65,9 +65,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           },
           
           {
-            href: 'https://github.com/PageDAO/PageDAO-DocSite',
-            label: 'GitHub',
+            href: 'https://forum.pagedao.org',
+            label: 'Forum',
             position: 'right',
+          },
+          {
+          href: 'https://github.com/PageDAO/PageDAO-DocSite',
+          label: 'GitHub',
+          position: 'right',
           },
         ],
       },
@@ -96,6 +101,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               {
                 label: 'Snapshot',
                 href: 'https://vote.pagedao.org/#/pagedao.eth',
+              },
+              {
+                label: 'Discourse',
+                href: 'https://forum.pagedao.org/',
               },
               {
                 label: 'GitHub',
