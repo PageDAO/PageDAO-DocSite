@@ -1,9 +1,9 @@
 ---
-title: 'Live Show Notes'
+title: 'Live Show Story Notes'
 ---
+# ZOMBIEVERSE
 
-Oct 15th, 2021
-## OCTOBER FEST PASS THE PEN
+**OCTOBER FEST PASS THE PEN - Oct 15th, 2021**
 
 Pizza is up for grabs!! Start contributing now. :)
 

@@ -14,11 +14,11 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'NEW SHOW - WHO DIS?',
+      label: 'Zombieverse',
       collapsed: true,
       items: [
-        'new-show/ptp-show-notes-oct152021'
-      ]
+        'zombieverse/story-notes',
+      ],
     },
   ],
 };
