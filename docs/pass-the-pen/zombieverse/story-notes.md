@@ -111,10 +111,29 @@ Somebody comes out to greet them (NPC ofcourse)... "WELCOME! DO YOU WANT TO PLAY
 
 ---
 # START WRITING NOW!
-This story must conclude before 10/31 (2wks)
+This story must conclude on Friday 10/28 (in 2wks) when we will MINT the final product! Royalties will be attributed fairly amoungst all contributors who work to put this together. 
 
 ---
 
+## @MARIAVERDE contribution made on 10/16...
+
+When they enter the portal they arrive at the meta host parcel where they must complete the first mission to move on to the next one. Whoever fails to do so dies. 
+
+"Okay, the first mission is this: each of you must put on these virtual reality glasses.  You will each see different things; three creepy things for each of you. You will have to face them and take each of them down before time runs out."
+They each have 10 minutes to complete the mission, if they fail they will be immortalized in a NFT that he will put in his NFT gallery. And will never know the real world again. 
+In 3, 2, 1...
+The three of them put on their glasses and the journey begins. One of them had to fight wild Apes. Another will have to fight Yetis and the last one will have to fight zombies, hungry for blood and guts.
+
+Unfortunately, the last one's greatest fear has always been zombies. He couldn't do much, he was instantly eaten by the zombies.
+Game over.
+
+The other two will have to go on their way, while he spends the rest of his days as part of the meta host's gallery. 
+In the Zombieverse there is no time for fear.
+
+Characters:
+- Protagonist: Charlie: brown eyes, adventurous spirit, brown hair, NFT collector.
+- Emily: blue eyes, competitive, brown hair. Ready to win.
+- Chris: blue eyes, brown hair, scary. His fears are stronger than he is.
 
 
 
