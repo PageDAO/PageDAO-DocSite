@@ -163,7 +163,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           path: 'community',
           routeBasePath: 'community',
           sidebarPath: require.resolve('./community/sidebars.js'),
-          showLastUpdateTime: true,
+          editUrl: 'https://github.com/PageDAO/PageDAO-DocSite/blob/master',
         },
       ],
     ]
