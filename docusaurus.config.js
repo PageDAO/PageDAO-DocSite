@@ -12,7 +12,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'PageDAO', // Usually your GitHub org/user name.
-  projectName: 'PageDAO', // Usually your repo name.
+  projectName: 'PageDAO-DocSite', // Usually your repo name.
 
   presets: [
     [
@@ -172,7 +172,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           path: 'community',
           routeBasePath: 'community',
           sidebarPath: require.resolve('./community/sidebars.js'),
-          editUrl: 'https://github.com/PageDAO/PageDAO-DocSite/blob/master',
+          editUrl: 'https://github.com/PageDAO/PageDAO-DocSite/edit/master',
         },
       ],
     ]
