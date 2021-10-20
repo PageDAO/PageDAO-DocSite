@@ -1,9 +1,23 @@
 ---
 title: 'Live Show Story Notes'
 ---
-## ZOMBIEVERSE short story by PAGEDAO
+# ZOMBIEVERSE 
+A short halloween-themed Metaverse story written in collaboration by PAGEDAO Metaverse Writers Guild. It's open to anyone to contribute! We will be minting the NFTBook on Oct 31 with royalties attributed fairly to all who contributed. 
 
-![zombieverse](https://cdn.discordapp.com/attachments/879225108793815042/898631182001012806/unknown.png)
+### $PAGE Grant
+The PageDAO is providing 20k PAGE to fund the creation of this project to be paid out upon completion. 
+- 10,000 PAGE > Writers
+- 10,000 PAGE > Artists / Illustrators
+
+### How to contribute
+- Scroll to bottom of this page, and click EDIT to be redirected to Github page
+- Make your edits (add/edit text or graphics) in a commit, confirm
+- Make a Pull Request (PR) to be added to the live version
+- A maintainer will then review your PR and approve OR request edits
+
+### Join the #zombieverse chat in Discord [here](https://bit.ly/wipp-discord)
+![discord](https://cdn.discordapp.com/attachments/898658952953352192/900444050019217478/Screen_Shot_2021-10-20_at_1.03.04_PM.png)
+
 
 ### Premise...
 
@@ -20,7 +34,12 @@ Chapter Outline:
 
 ### Characters
 
+- Protagonist: Charlie: brown eyes, adventurous spirit, brown hair, NFT collector.
+- Emily: blue eyes, competitive, brown hair. Ready to win.
+- Chris: blue eyes, brown hair, scary. His fears are stronger than he is.
 
+# Story start!
+![zombieverse](https://cdn.discordapp.com/attachments/879225108793815042/898631182001012806/unknown.png)
 
 ## CH1 - Game on (or game over?)
 
@@ -71,7 +90,7 @@ Now they all go out to the next house, and someone actually opens the door!
 
 Uh... no thanks, I already ate. We have to go to another party. (they continue on)
 
-## CH2: The Meta Host Appears
+### The Meta Host Appears
 Finally they get into the city.
 
 They meet the "meta host" that welcomes them to Zombieverse. 
@@ -100,7 +119,7 @@ They go through the portal and the quest begins.
 
 ---
 
-## CH3: Quest accepted.
+## CH2: Quest accepted. 1st challenge
 
 They blast out of the portal into a new foreign place.
 
@@ -127,12 +146,13 @@ Game over.
 The other two will have to go on their way, while he spends the rest of his days as part of the meta host's gallery. 
 In the Zombieverse there is no time for fear.
 
-Characters:
-- Protagonist: Charlie: brown eyes, adventurous spirit, brown hair, NFT collector.
-- Emily: blue eyes, competitive, brown hair. Ready to win.
-- Chris: blue eyes, brown hair, scary. His fears are stronger than he is.
 
 
+## Ch3: 2nd Challenge
+
+## Ch4: Final Challenge
+
+## Ch5: Return home
 
 
 
