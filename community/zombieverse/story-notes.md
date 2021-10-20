@@ -170,3 +170,21 @@ Here is your second challenge -he says with a wicked smile on his face- you will
 
 The challenge begins and the three of them run off on their quest. The first attack against the ASIC miners begins and they give the high voltage attack but manage to dodge it.
 
+
+@dazerine
+The host laughes in a menacing way, clearing enojoying watching the friends scramble around to survive. They have fought terrible monsters, overcoming fears and even had to hunt down the first Bitcoin and they were now exhausted and weary. Only adrenaline propelled them on now. And the hope of reaching home alive.
+"So you have made it this far" the host jeered, "possibly just by luck, but let us test that theory. Your next challenge is a maze and you must reach the center. It is surrounded by high hedges with thorns dig into your skin. There are also some plants that have grown a taste for the human flesh, but this should not be a worry to you wonder kids!" 
+On the other side of the room they were in a door creaked open slowly. It lead out into the darkness where the faint rustle of leaves on the wind could be heard.
+"So just a maze?" the main character asks, thinking this is all too easy compared to the other ordeals they've had to endure.
+"Yes, but there is a keeper of the maze also. You will have to be quicker then him to get to the portal!" He laughed again in a sinister way.
+
+The group stepped up to the door and looked out into the night. The maze seemed expansive and tall. There was no way to climb it and no way to walk the perimeter, it seemed to stretch on as far as the eye could see.
+A loud thudding suddenly filled the air. Like footsteps, but louder and slower. They turned in unison to see an ogre the size of a bus lumbering toward them. "The keeper!" they squealed as they all ran into the maze. They could here the footsteps pounding behind them.
+
+They searched and scrambled for any path, but it was all too confusing and no path or way was evident. They hurried on more to keep a distance from the ogre who never seemed too far behind.
+All the hedges looked the same and a cloudy night meant they could not use stars as navigation. They thought they could use leaves to mark where they had been, but as soon as they approached a hedge to rip one off, a giant mouth appeared from the plant and attempted to swallow them while. They stuck to the middle of the path form then on.
+The had been in the maze for what felt like ages when they closed in near the center. They could see the portals light reflecting off the leaves and hear the slow, buzzing hum of the power. But alas! They were on the other side of the hedge and were faced with a dead end. 
+"I have an idea," main character said and he put both his hands to his mouth and bellowed loudly "Ogre! Ogre, one of my friends has fallen in some gravy!"
+A distant rumbling could be heard. Footsteps as loud as battle drums came closer and closer. They could also hear the breaking down of the hedges as a hungry ogre smashed through them to find the straightest line to a quick treat. 
+They stood aside just in time to see him crash through one hedge, and he did not even see them as his momentum carried him through the next. Large holes as wide as small cottages where in the hedge grove now and as they heard the ogre continue to break through the rest, they stepped through one and into the portal 
+
