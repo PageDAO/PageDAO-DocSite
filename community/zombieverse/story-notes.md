@@ -161,6 +161,7 @@ With these things he should be ready to face the challenge. Although in zombieve
 
 
 
+@MariaVerde
 After finishing the first challenge, the three pass through the portal to a new city, but none of them know where the other is. They don't know if they are alive or dead. 
 They arrive in a cyberpunk city, many years ahead of its time. Technology overflows everywhere. That's when the three realize they are alive.
 They meet the governor, a guy eager for money and technology. He's the only human alive in that city; the others were turned into robots and Bitcoin mining machines.
