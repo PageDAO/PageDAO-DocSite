@@ -1,28 +1,26 @@
 ---
 title: 'Live Show Story Notes'
 ---
-# ZOMBIEVERSE
+## ZOMBIEVERSE short story by PAGEDAO
 
-**OCTOBER FEST PASS THE PEN - Oct 15th, 2021**
+![zombieverse](https://cdn.discordapp.com/attachments/879225108793815042/898631182001012806/unknown.png)
 
-Pizza is up for grabs!! Start contributing now. :)
-
-### Concept ideas
-- [ ] Haunted?
-- [ ] Escape zombies or witches in the metaverse
-- [ ] Magic candy
-- [ ] Halloween night
-- [ ] 
-- [ ] 
-
-### It's a start...
+### Premise...
 
 Halloween night, main character gets transported to the metaverse and is required to fulfill a quest to return home.
 
-### Location?
-(Decentraland? Metaland? Zombieland? Hallowverse? Zombieverse!)
+### Outline
 
-![zombieverse](https://cdn.discordapp.com/attachments/879225108793815042/898631182001012806/unknown.png)
+Chapter Outline:
+- Enter the Zombieverse
+- 1st challenge
+- 2nd challenge
+- final challenge
+- return to the real world
+
+### Characters
+
+
 
 ## CH1 - Game on (or game over?)
 
