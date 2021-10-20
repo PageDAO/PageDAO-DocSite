@@ -4,26 +4,25 @@ title: 'Live Show Story Notes'
 # ZOMBIEVERSE 
 A short halloween-themed Metaverse story written in collaboration by PAGEDAO Metaverse Writers Guild. It's open to anyone to contribute! We will be minting the NFTBook on Oct 31 with royalties attributed fairly to all who contributed. 
 
-### $PAGE Grant
+#### Premise...
+
+Halloween night, main character gets transported to the metaverse and is required to fulfill a quest to return home.
+
+#### $PAGE Grant
 The PageDAO is providing 20k PAGE to fund the creation of this project to be paid out upon completion. 
 - 10,000 PAGE > Writers
 - 10,000 PAGE > Artists / Illustrators
 
-### How to contribute
+#### How to contribute
 - Scroll to bottom of this page, and click EDIT to be redirected to Github page
 - Make your edits (add/edit text or graphics) in a commit, confirm
 - Make a Pull Request (PR) to be added to the live version
 - A maintainer will then review your PR and approve OR request edits
 
-### Join the #zombieverse chat in Discord [here](https://bit.ly/wipp-discord)
+#### Join the #zombieverse chat in Discord [here](https://bit.ly/wipp-discord)
 ![discord](https://cdn.discordapp.com/attachments/898658952953352192/900444050019217478/Screen_Shot_2021-10-20_at_1.03.04_PM.png)
 
-
-### Premise...
-
-Halloween night, main character gets transported to the metaverse and is required to fulfill a quest to return home.
-
-### Outline
+## Outline
 
 Chapter Outline:
 - Enter the Zombieverse
@@ -32,7 +31,7 @@ Chapter Outline:
 - final challenge
 - return to the real world
 
-### Characters
+## Characters
 
 - Protagonist: Charlie: brown eyes, adventurous spirit, brown hair, NFT collector.
 - Emily: blue eyes, competitive, brown hair. Ready to win.
@@ -125,13 +124,8 @@ They blast out of the portal into a new foreign place.
 
 Somebody comes out to greet them (NPC ofcourse)... "WELCOME! DO YOU WANT TO PLAY A GAME?"
 
----
-# START WRITING NOW!
-This story must conclude on Friday 10/28 (in 2wks) when we will MINT the final product! Royalties will be attributed fairly amoungst all contributors who work to put this together. 
-
----
-
-## @MARIAVERDE contribution made on 10/16...
+--- 
+> BY @MARIAVERDE contribution made on 10/16...
 
 When they enter the portal they arrive at the meta host parcel where they must complete the first mission to move on to the next one. Whoever fails to do so dies. 
 
