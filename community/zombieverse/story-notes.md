@@ -148,5 +148,13 @@ In the Zombieverse there is no time for fear.
 
 ## Ch5: Return home
 
+---
+BY @careverdeazul contribution made on 10/20
 
+The friends must fight with zombies, and go through places where they will overcome challenges, a kind of labyrinth.
+The first participant who has to face the zombies, is with nothing but a map where he can get weapons to face one of those creepy things that the meta host assigned to them. He goes deep into the game, looking for the places that are marked on the map, the first weapon is a firearm.
+He still has two more weapons to go, to get to the place where he will face the creepy zombies.
+The player must walk a lot, climb trees and mountains to get the next weapon, he finds it in a waterfall, it is a knife.
+Although tired, he continues his way, until he finds in a cave the next weapon, there are the bullets of the firearm.
+With these things he should be ready to face the challenge. Although in zombieverse everything can change in a moment.
 
