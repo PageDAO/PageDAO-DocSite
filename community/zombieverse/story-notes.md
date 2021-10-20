@@ -158,3 +158,14 @@ The player must walk a lot, climb trees and mountains to get the next weapon, he
 Although tired, he continues his way, until he finds in a cave the next weapon, there are the bullets of the firearm.
 With these things he should be ready to face the challenge. Although in zombieverse everything can change in a moment.
 
+
+
+
+After finishing the first challenge, the three pass through the portal to a new city, but none of them know where the other is. They don't know if they are alive or dead. 
+They arrive in a cyberpunk city, many years ahead of its time. Technology overflows everywhere. That's when the three realize they are alive.
+They meet the governor, a guy eager for money and technology. He's the only human alive in that city; the others were turned into robots and Bitcoin mining machines.
+
+Here is your second challenge -he says with a wicked smile on his face- you will have to get the first Bitcoin ever created. You will have to navigate among the thousands of robots and technology in the city. But it won't be easy; in that same search there are also the ASIC miners. Good luck, hahaha.
+
+The challenge begins and the three of them run off on their quest. The first attack against the ASIC miners begins and they give the high voltage attack but manage to dodge it.
+
