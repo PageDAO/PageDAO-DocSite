@@ -23,20 +23,48 @@ LIVE DEMO HERE! https://www.loom.com/share/7b78f948a93d438e85741cb22605e761
 #### Join the #zombieverse chat in Discord [here](https://bit.ly/wipp-discord)
 ![discord](https://cdn.discordapp.com/attachments/898658952953352192/900444050019217478/Screen_Shot_2021-10-20_at_1.03.04_PM.png)
 
-## ARTISTS TODO
-- [ ] Book cover (???)
-- [ ] CH1 illustration (???)
+## OUTLINE / TODOS / CONTRIBUTIONS
+
+- CH1: Enter the Zombieverse
+    - [x] Outline rough idea (@EZ, @philofaustin)
+    - [ ] First Draft
+    - [ ] Editing
+    - [ ] Illustration
+    - [ ] Finalize / transfer to master story page
+- CH2: 1st challenge
+    - [x] Outline rough idea (@MariaVerde, @careverdeazul, @dazerine)
+    - [x] First Draft (@MariaVerde, @careverdeazul, @dazerine)
+    - [ ] Editing
+    - [ ] Illustration
+    - [ ] Finalize / transfer to master story page
+- CH3: 2nd challenge
+    - [x] Outline rough idea (@d0nim0)
+    - [x] First Draft (@d0nim0)
+    - [ ] Editing
+    - [ ] Illustration
+    - [ ] Finalize / transfer to master story page
+- CH4: final challenge (???)
+    - [ ] Outline rough idea
+    - [ ] First Draft
+    - [ ] Editing
+    - [ ] Illustration
+    - [ ] Finalize / transfer to master story page
+- CH5: return to the real world (???)
+    - [ ] Outline rough idea
+    - [ ] First Draft
+    - [ ] Editing
+    - [ ] Illustration
+    - [ ] Finalize / transfer to master story page
+- Misc:
+    - [ ] NFTBook cover
+
+### ARTIST NOTES
+
+- [ ] CH1 illustration: Show what first Zombieverse scene would look like. (???)
 - [ ] CH2 illustration (???)
 - [ ] CH3 illustration (???)
 - [ ] CH4 illustration (???)
 - [ ] CH5 illustration (???)
-
-## Outline
-1. Enter the Zombieverse (@EZ)
-2. 1st challenge (@MariaVerde, @careverdeazul, @dazerine)
-3. 2nd challenge (@d0nim0)
-4. final challenge (???)
-5. return to the real world (???)
 
 ## Characters
 @MariaVerde:
@@ -259,6 +287,10 @@ With a nudge he twisted the lock and the gate squealed open to reveal the final 
 ## Ch4: Final Challenge - The Crucible
 
 @EZ / PHIL NOTES (live show)
+
+Ideas...
+- Zombie dragon!
+- @PHILOFAUSTIN: I'd love to see an illustration of the slain dragon and see he has a nametag saying "@DragoNate"
 
 
 
