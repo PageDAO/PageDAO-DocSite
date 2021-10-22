@@ -14,6 +14,7 @@ The PageDAO is providing 20k PAGE to fund the creation of this project to be pai
 - 10,000 PAGE > Artists / Illustrators
 
 #### How to contribute
+LIVE DEMO HERE! https://www.loom.com/share/7b78f948a93d438e85741cb22605e761
 - Scroll to bottom of this page, and click EDIT to be redirected to Github page
 - Make your edits (add/edit text or graphics) in a commit, confirm
 - Make a Pull Request (PR) to be added to the live version
@@ -22,26 +23,35 @@ The PageDAO is providing 20k PAGE to fund the creation of this project to be pai
 #### Join the #zombieverse chat in Discord [here](https://bit.ly/wipp-discord)
 ![discord](https://cdn.discordapp.com/attachments/898658952953352192/900444050019217478/Screen_Shot_2021-10-20_at_1.03.04_PM.png)
 
-## Outline
+## ARTISTS TODO
+- [ ] Book cover (???)
+- [ ] CH1 illustration (???)
+- [ ] CH2 illustration (???)
+- [ ] CH3 illustration (???)
+- [ ] CH4 illustration (???)
+- [ ] CH5 illustration (???)
 
-Chapter Outline:
-- Enter the Zombieverse
-- 1st challenge
-- 2nd challenge
-- final challenge
-- return to the real world
+## Outline
+1. Enter the Zombieverse (@EZ)
+2. 1st challenge (@MariaVerde, @careverdeazul, @dazerine)
+3. 2nd challenge (@d0nim0)
+4. final challenge (???)
+5. return to the real world (???)
 
 ## Characters
-
-- Protagonist: Charlie: brown eyes, adventurous spirit, brown hair, NFT collector.
+@MariaVerde:
+- Charlie: brown eyes, adventurous spirit, brown hair, NFT collector.
 - Emily: blue eyes, competitive, brown hair. Ready to win.
-- Chris: blue eyes, brown hair, scary. His fears are stronger than he is.
+- Chris: blue eyes, brown hair, scary. His fears are stronger than he is. Protagonist: 
+
+---
 
 # Story start!
-![zombieverse](https://cdn.discordapp.com/attachments/879225108793815042/898631182001012806/unknown.png)
+![zombieverse](https://cdn.discordapp.com/attachments/879225108793815042/898631182001012806/unknown.png) Credit: @indefatigable.eth
 
 ## CH1 - Game on (or game over?)
 
+@EZ / PHIL PTP live show notes
 
 ~~Person is at their computer on halloween night. Got stood up for a date... there's a huge storm outside.~~
 
@@ -53,11 +63,13 @@ Main Char: "Sure, I guess"
 
 *They're having trouble logging on with the storm going on... Then CRASH! A bolt of lightning teleports them to the unknown.*
 
-*Wake up in the metavers in a rural part of town. See the lights of a city in the distance.*
+*Wake up in the metaverse in a rural part of town. See the lights of a city in the distance.*
 
 They could be spirits for all we know...
 
 They start traveling. Strange sounds all around. Could they be animals? 
+
+> **INSERT ILLUSTRATION OF THE FIRST ZOMBIEVERSE SCENE HERE!**
 
 Farmhouses... A chase scene begins... The two run to the nearest house and bangs on the door. No one appears to be home, but the porch light is on.
 
@@ -65,11 +77,15 @@ Knocks, knocks... "PLEASE HELP. SOMEBODY!"
 
 ---
 
-(Maybe there were more than 2 people who got sucked out to the metaverse with the main char. Maybe they run into a couple others in the metaverse they don't know and make friends.)
+@SUPERBAN Alternate introduction: 
+This is the story of our friend Charley he and two friends were invited to a party on halloween night, but he decides not to go and stay home to do some things on his computer.
 
-Who all need to be in this story?
-- Main char
-- 2 friends (one gets killed off immediately!)
+At midnight charly starts to see his NFT collection of zombies and something very strange happens, his shadowy NFTs come to life on his pc screen and he falls into a deep sleep.
+
+When he wakes up he is in ZOMBIELAND a dimension where they are all zombies is a beautiful forest where all the dreams that the dream could come true.
+But some evil zombies wanted to eat it and he runs to survive but not everything was bad in the forest he saw a river and he remembers that the shadows hate water and desude to cross it.
+
+Some see that were also somber guide him to some trees where he climbs to take shelter and evade the evil ones, ayi falls asleep and when he wakes up he is in his room and realizes that it is a dream but a sonbie feather is on his keyboard and he realizes that he was in ZOMBIELAD.
 
 ---
 
@@ -89,7 +105,7 @@ Now they all go out to the next house, and someone actually opens the door!
 
 Uh... no thanks, I already ate. We have to go to another party. (they continue on)
 
-### The Meta Host Appears
+#### The Meta Host Appears
 Finally they get into the city.
 
 They meet the "meta host" that welcomes them to Zombieverse. 
@@ -242,9 +258,43 @@ With a nudge he twisted the lock and the gate squealed open to reveal the final 
 
 ## Ch4: Final Challenge - The Crucible
 
+@EZ / PHIL NOTES (live show)
+
+
+
 ## Ch5: Return home
+
+@EZ / PHIL NOTES (live show)
+
+Ideas...
+- Drink the crucible, but it's like taking shrooms or acid. Super trippy
+- They have a trippy scene after drinking before they go back home
+- JIM: Emily wakes up and she's actually in a nightmare at home and the story was an analogy of her home life... face your fears, fight your demons
 
 
 ---
 PTP SHOW NOTES FRIDAY, 10/22
+
+![POAP](https://cdn.discordapp.com/attachments/879225108793815042/901172488757735444/image0.gif)
+
+@EZ plans to write Chapter 1 and replace my notes
+
+@D0NIM0: Well there was a plan in my mind to have one 'pass to the other side'. Emily had a secret crush that informed a dilemma she had to make during the crucible event
+
+
+@EZ: Maybe instead of killing him off right away, we could kill them later and have their death be revisited and having some sort of meaning in a later chapter.... in some way they died to give the others a chance to proceed to the next challenge
+
+Through this journey the characters have grown closer. His friend sacrificed himself to save Emily. 
+
+What if the crucible is they have get a dragon's scale to add to the crucible and drink it to transport back to the real world.
+
+@PHILOFAUSTIN: zombie dragon for sure.
+
+@D0NIM0: I wanted Emily and Charlie's to have to battle Chris, where Chris has been transformed into a some devilish beast. There would be guilt, psychological conflict followed by survivors remorse
+
+@D0NIM0: Well when they went through the portal, the claw that reached through I wanted to leave a tiny flesh wound, that would later be revealed to have coursed through his veins changing his DNA. It would eventually turn him, but he shows courage and strength whilst still in human form to help the other two friends escape. Chris becomes a fallen hero. Something like that **(EZ LIKES THIS)**
+
+
+
+
 
