@@ -243,3 +243,8 @@ With a nudge he twisted the lock and the gate squealed open to reveal the final 
 ## Ch4: Final Challenge - The Crucible
 
 ## Ch5: Return home
+
+
+---
+PTP SHOW NOTES FRIDAY, 10/22
+
