@@ -25,37 +25,37 @@ LIVE DEMO HERE! https://www.loom.com/share/7b78f948a93d438e85741cb22605e761
 
 ## OUTLINE / TODOS / CONTRIBUTIONS
 
-- CH1: Enter the Zombieverse
+* [CH1: Enter the Zombieverse](#ch1---game-on-or-game-over)
     - [x] Outline rough idea (@EZ, @philofaustin)
     - [ ] First Draft
     - [ ] Editing
     - [ ] Illustration
     - [ ] Finalize / transfer to master story page
-- CH2: 1st challenge
+* [CH2: 1st challenge](#ch2-1st-challenge)
     - [x] Outline rough idea (@MariaVerde, @careverdeazul, @dazerine)
     - [x] First Draft (@MariaVerde, @careverdeazul, @dazerine)
     - [ ] Editing
     - [ ] Illustration
     - [ ] Finalize / transfer to master story page
-- CH3: 2nd challenge
+* [CH3: 2nd challenge](#ch3-2nd-challenge)
     - [x] Outline rough idea (@d0nim0)
     - [x] First Draft (@d0nim0)
     - [ ] Editing
     - [ ] Illustration
     - [ ] Finalize / transfer to master story page
-- CH4: final challenge (???)
+* [CH4: final challenge (???)](#ch4-final-challenge---the-crucible)
     - [ ] Outline rough idea
     - [ ] First Draft
     - [ ] Editing
     - [ ] Illustration
     - [ ] Finalize / transfer to master story page
-- CH5: return to the real world (???)
+* [CH5: return to the real world (???)](#ch5-return-home)
     - [ ] Outline rough idea
     - [ ] First Draft
     - [ ] Editing
     - [ ] Illustration
     - [ ] Finalize / transfer to master story page
-- Misc:
+* Misc:
     - [ ] NFTBook cover
 
 ### ARTIST NOTES
