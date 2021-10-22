@@ -188,3 +188,58 @@ The had been in the maze for what felt like ages when they closed in near the ce
 A distant rumbling could be heard. Footsteps as loud as battle drums came closer and closer. They could also hear the breaking down of the hedges as a hungry ogre smashed through them to find the straightest line to a quick treat. 
 They stood aside just in time to see him crash through one hedge, and he did not even see them as his momentum carried him through the next. Large holes as wide as small cottages where in the hedge grove now and as they heard the ogre continue to break through the rest, they stepped through one and into the portal 
 
+d0nim0#6749
+Courageous as he thought it sounded, in retrospect it dawned on Charlie that baiting a starving Orge, the size of a two story building, was beginning to feel like a bad idea. As they tumbled out of the far side of the portal, for a moment all was dark. It was cold. It was silent.
+
+“Ha! We made it! We are safe” cheered Chris. He picked himself up off Emily who had served as a cushion to his fall, with a sigh of relief.
+
+“Looks like it” Emily pondered brushing herself down she looked at Chris “You are not as light as you look”. Chris laughed “I’m a full time desk jockey, what are you going to do, eh?”
+
+They both turned in tandem to see Charlie’s face drain of blood. 
+
+“What Charli….?” Before she could even complete the word, the portal began vibrating. It flashed a bright momentary light. She turned with renewed anxiety to witness the regular sized portal morph into a giant fluid blue oval. A hand the size of the canopy of a palm tree appeared through the plasma as if suspended in mid air.
+
+“You have got to be kidding me!” Chris exclaimed.
+
+“RUNNNN!!!”
+
+No sooner had the three stood and motioned back away from the portal, the hand swiped. It was close enough to snag Chris’s hoodie and enough motivation for him to leap backwards, almost knocking Charlie down this time.
+
+The room there were in was darkly, large and cavernous. A faint cool damp breeze passed across their cheeks. Charlies trekking instincts kicked in fuelled by renewed adrenaline.
+
+“Follow that breeze!” “It’s damp, which means there is water nearby”
+
+The three launched themselves forward along a narrow path. Their forward sight was reduced. They used their hands to feel their way along a wall. This wall became a tunnel. The tunnel was moist to the touch: sparkly as a distant ray of light bounced upon it.
+
+The sound of rushing water could be heard. The mouth of the tunnel gave way to bright light and bright blue sky. As they emerged, the halted abruptly. The was no more ground. The entrance ended where a sheer cliff face below began. In front of them was a what appeared to be a cascading water fall on either side of the path ahead…but there was no path. It was as if the water appeared from mid air down into a never ending distance. They could a shiny gate on the far side.
+
+“Holy….! There is nothing here! How are supposed to get to the other side?” Charlie mused.
+
+“Damned if I know” Emily replied “…but we’d best thing of something..fast!!” She wheeled around and gestured in the direction they had come from. A gut wrenching roar emanated from the tunnels mouth. seismic foot steps could be heard gathering pace. Time was short.
+
+“SPLIT UP IN DIFFERENT DIRECTIONS!’ Charlie yelled. 
+“…and go where? Replied Emily. “ That orge is looking for a toothpick. Track and field was never my strength, remember? I don’t run and I swear it can smell me the most!” She had faced demons, orcs and fifth level mages countless times in her time playing Dungeons ’n’ Dragons for many years…as a board game. The closet thing she had ever faced to an orge in her short life had been on the big screen during a marathon movie night.
+
+Chris paused for a moment. As adventurous as he had been growing up, nothing had prepared him for battle with the undead, not least a house shaped orge with breathe could make steel buckle. “I’ll keep shouting to draw its attention. 
+
+“..you go left! Chris, you go right. I’ll stand here. Press up against the ledge. “I have an idea…”
+
+The crushing footsteps were growing louder and more rapid. Nothing that large should be able to move that fast thought Charlie. As Emily went on way and Chris the other, Charlie saw two large boulders either side of the tunnels entrance. He reach behind and drew his climbing rope from his backpack. Tying it around one boulder he fashioned a mask shift trip rope and stepped it into the ground.
+
+Barely had he made it twice around the second boulder with the rope, when an almighty roar and the orge with it rampaged from the tunnel. He pulled the rope. Just as the orge lifted his right leg, it caught the rope. Charlie leaned back hard on it, to maximize the tension. The boulder shifted, just a little. It was not enough. It held it’s footing while the orge did not. It caught the rope with its foot, stumbled forwards clumsily, turning in the same motion to see Charlie beside the rock. It had such size and forward momentum, that it could not stop in time. It fell, breaking the flow of the water falling either side of the invisible expanse. Chris looked down to witness the confusion etched across the beast face as it slowly turned in to complete fear and panic.
+
+The orge turned as it bounced of what looked like nothing. It wheeled and spun, falling hysterically down into the abyss. It’s earsplitting shriek shrinking as quickly has the orge did. Then…nothing. Nothing but the continued rush of falling water and the pulse of beating pulses in their ear. The trio each drew a large breath, giggling at their success. 
+
+“We did it!” Chris yelled. Charlie nodded, bent over while he recovered from his exertion. 
+
+“When it fell it hit an invisible bridge” Emily pointed out. “It reminds me of the Bridge of Etheragon during one of our fire missions” “It was a bridge of faith, those that had it could pass”
+
+Enlightened by this idea, Charlie stepped forward, sliding his foot where the bridge should be. He applied pressure and there was resistance. He turned to gave a thumbs up to the others. With renewed vigor they splashed their way over the abyss, enjoying the refreshing mist of the waters on their parched lips. When the reached the far side they collapsed under the gate. 
+
+“Could this be the final challenge?” asked Emily. “I don’t think I can take much of of this”.
+
+“Och, we can take on anything we put our minds to” Chris replied in a tone of confidence that was a stark contrast to the convert terror behind his eyes.
+
+Charlie stood up “…well…there is nothing like the present to find out”
+
+With a nudge he twisted the lock and the gate squealed open to reveal the final challenge... the Crucible….
