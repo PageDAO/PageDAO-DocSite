@@ -118,11 +118,11 @@ They go through the portal and the quest begins.
 
 ---
 
-## CH2: Quest accepted. 1st challenge
+## CH2: 1st Challenge
 
 They blast out of the portal into a new foreign place.
 
-Somebody comes out to greet them (NPC ofcourse)... "WELCOME! DO YOU WANT TO PLAY A GAME?"
+~~Somebody comes out to greet them (NPC ofcourse)... "WELCOME! DO YOU WANT TO PLAY A GAME?"~~
 
 --- 
 > BY @MARIAVERDE contribution made on 10/16...
@@ -142,11 +142,7 @@ In the Zombieverse there is no time for fear.
 
 
 
-## Ch3: 2nd Challenge
 
-## Ch4: Final Challenge
-
-## Ch5: Return home
 
 ---
 BY @careverdeazul contribution made on 10/20
@@ -157,8 +153,6 @@ He still has two more weapons to go, to get to the place where he will face the 
 The player must walk a lot, climb trees and mountains to get the next weapon, he finds it in a waterfall, it is a knife.
 Although tired, he continues his way, until he finds in a cave the next weapon, there are the bullets of the firearm.
 With these things he should be ready to face the challenge. Although in zombieverse everything can change in a moment.
-
-
 
 
 @MariaVerde
@@ -187,6 +181,8 @@ The had been in the maze for what felt like ages when they closed in near the ce
 "I have an idea," main character said and he put both his hands to his mouth and bellowed loudly "Ogre! Ogre, one of my friends has fallen in some gravy!"
 A distant rumbling could be heard. Footsteps as loud as battle drums came closer and closer. They could also hear the breaking down of the hedges as a hungry ogre smashed through them to find the straightest line to a quick treat. 
 They stood aside just in time to see him crash through one hedge, and he did not even see them as his momentum carried him through the next. Large holes as wide as small cottages where in the hedge grove now and as they heard the ogre continue to break through the rest, they stepped through one and into the portal 
+
+## Ch3: 2nd Challenge
 
 d0nim0#6749
 Courageous as he thought it sounded, in retrospect it dawned on Charlie that baiting a starving Orge, the size of a two story building, was beginning to feel like a bad idea. As they tumbled out of the far side of the portal, for a moment all was dark. It was cold. It was silent.
@@ -243,3 +239,7 @@ Enlightened by this idea, Charlie stepped forward, sliding his foot where the br
 Charlie stood up “…well…there is nothing like the present to find out”
 
 With a nudge he twisted the lock and the gate squealed open to reveal the final challenge... the Crucible….
+
+## Ch4: Final Challenge - The Crucible
+
+## Ch5: Return home
