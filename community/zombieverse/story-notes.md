@@ -1,3 +1,4 @@
+![Cover-Zombieverse](https://user-images.githubusercontent.com/92602939/138750549-ea031944-1765-440e-ac67-f43a607b4c2e.png)
 ---
 title: 'Live Show Story Notes'
 ---
