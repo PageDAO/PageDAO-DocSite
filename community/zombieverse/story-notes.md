@@ -1,8 +1,11 @@
 ---
 title: 'Live Show Story Notes'
 ---
+
 # ZOMBIEVERSE 
 A short halloween-themed Metaverse story written in collaboration by PAGEDAO Metaverse Writers Guild. It's open to anyone to contribute! We will be minting the NFTBook on Oct 31 with royalties attributed fairly to all who contributed. 
+
+![Cover-Zombieverse](https://user-images.githubusercontent.com/92602939/138750549-ea031944-1765-440e-ac67-f43a607b4c2e.png)
 
 #### Premise...
 
@@ -56,7 +59,7 @@ LIVE DEMO HERE! https://www.loom.com/share/7b78f948a93d438e85741cb22605e761
     - [ ] Illustration
     - [ ] Finalize / transfer to master story page
 * Misc:
-    - [ ] NFTBook cover
+    - [x] NFTBook cover (@MARIAVERDE)
 
 ### ARTIST NOTES
 
