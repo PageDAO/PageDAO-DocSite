@@ -187,11 +187,8 @@ Game over.
 The other two will have to go on their way, while he spends the rest of his days as part of the meta host's gallery. 
 In the Zombieverse there is no time for fear.
 
-
-
-
-
 ---
+
 BY @careverdeazul contribution made on 10/20
 
 The friends must fight with zombies, and go through places where they will overcome challenges, a kind of labyrinth.
@@ -201,6 +198,7 @@ The player must walk a lot, climb trees and mountains to get the next weapon, he
 Although tired, he continues his way, until he finds in a cave the next weapon, there are the bullets of the firearm.
 With these things he should be ready to face the challenge. Although in zombieverse everything can change in a moment.
 
+## Ch3: 2nd Challenge
 
 @MariaVerde
 After finishing the first challenge, the three pass through the portal to a new city, but none of them know where the other is. They don't know if they are alive or dead. 
@@ -228,8 +226,6 @@ The had been in the maze for what felt like ages when they closed in near the ce
 "I have an idea," main character said and he put both his hands to his mouth and bellowed loudly "Ogre! Ogre, one of my friends has fallen in some gravy!"
 A distant rumbling could be heard. Footsteps as loud as battle drums came closer and closer. They could also hear the breaking down of the hedges as a hungry ogre smashed through them to find the straightest line to a quick treat. 
 They stood aside just in time to see him crash through one hedge, and he did not even see them as his momentum carried him through the next. Large holes as wide as small cottages where in the hedge grove now and as they heard the ogre continue to break through the rest, they stepped through one and into the portal 
-
-## Ch3: 2nd Challenge
 
 d0nim0#6749
 Courageous as he thought it sounded, in retrospect it dawned on Charlie that baiting a starving Orge, the size of a two story building, was beginning to feel like a bad idea. As they tumbled out of the far side of the portal, for a moment all was dark. It was cold. It was silent.
@@ -287,6 +283,8 @@ Charlie stood up “…well…there is nothing like the present to find out”
 
 With a nudge he twisted the lock and the gate squealed open to reveal the final challenge... the Crucible….
 
+---
+
 ## Ch4: Final Challenge - The Crucible
 
 @EZ / PHIL NOTES (live show)
@@ -294,6 +292,10 @@ With a nudge he twisted the lock and the gate squealed open to reveal the final 
 Ideas...
 - Zombie dragon!
 - @PHILOFAUSTIN: I'd love to see an illustration of the slain dragon and see he has a nametag saying "@DragoNate"
+
+---
+
+
 
 
 
