@@ -51,11 +51,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             type: 'doc',
             docId: 'whitepaper/intro',
             position: 'left',
-            label: '$PAGE Whitepaper',
+            label: 'Docs',
           },
           {
             label: 'Community',
-            to: 'community/space-pirates/pt1',
+            to: 'community/space-pirates',
             activeBaseRegex: 'community/.*',
           },
           {

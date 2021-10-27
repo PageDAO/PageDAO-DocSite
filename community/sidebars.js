@@ -2,22 +2,11 @@ module.exports = {
   community: [
     {
       type: 'category',
-      label: 'Space Pirates and the Psychedelic Booty',
+      label: 'Pass the Pen',
       collapsed: false,
       items: [
-        'space-pirates/pt1',
-        'space-pirates/pt2',
-        'space-pirates/pt3',
-        'space-pirates/pt4',
-        'space-pirates/pt5-appendix',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Zombieverse',
-      collapsed: true,
-      items: [
-        'zombieverse/story-notes',
+        'space-pirates',
+        'zombieverse',
       ],
     },
   ],
