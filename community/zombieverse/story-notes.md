@@ -6,6 +6,7 @@ title: 'Live Show Story Notes'
 A short halloween-themed Metaverse story written in collaboration by PAGEDAO Metaverse Writers Guild. It's open to anyone to contribute! We will be minting the NFTBook on Oct 31 with royalties attributed fairly to all who contributed. 
 
 ![Cover-Zombieverse](https://user-images.githubusercontent.com/92602939/138750549-ea031944-1765-440e-ac67-f43a607b4c2e.png)
+Credit: @MariaVerde
 
 #### Premise...
 
@@ -24,7 +25,7 @@ LIVE DEMO HERE! https://www.loom.com/share/7b78f948a93d438e85741cb22605e761
 - A maintainer will then review your PR and approve OR request edits
 
 #### Join the #zombieverse chat in Discord [here](https://bit.ly/wipp-discord)
-<img width="1116" alt="WIPP Discord" src="https://user-images.githubusercontent.com/84144261/138964916-5fc07506-fd9b-401b-994c-8fddb091af1f.png">
+![WIPP Discord](https://user-images.githubusercontent.com/84144261/138964916-5fc07506-fd9b-401b-994c-8fddb091af1f.png)
 
 ## OUTLINE / TODOS / CONTRIBUTIONS
 
@@ -318,7 +319,6 @@ PTP SHOW NOTES FRIDAY, 10/22
 
 @D0NIM0: Well there was a plan in my mind to have one 'pass to the other side'. Emily had a secret crush that informed a dilemma she had to make during the crucible event
 
-
 @EZ: Maybe instead of killing him off right away, we could kill them later and have their death be revisited and having some sort of meaning in a later chapter.... in some way they died to give the others a chance to proceed to the next challenge
 
 Through this journey the characters have grown closer. His friend sacrificed himself to save Emily. 
@@ -330,8 +330,3 @@ What if the crucible is they have get a dragon's scale to add to the crucible an
 @D0NIM0: I wanted Emily and Charlie's to have to battle Chris, where Chris has been transformed into a some devilish beast. There would be guilt, psychological conflict followed by survivors remorse
 
 @D0NIM0: Well when they went through the portal, the claw that reached through I wanted to leave a tiny flesh wound, that would later be revealed to have coursed through his veins changing his DNA. It would eventually turn him, but he shows courage and strength whilst still in human form to help the other two friends escape. Chris becomes a fallen hero. Something like that **(EZ LIKES THIS)**
-
-
-
-
-
