@@ -24,7 +24,7 @@ LIVE DEMO HERE! https://www.loom.com/share/7b78f948a93d438e85741cb22605e761
 - A maintainer will then review your PR and approve OR request edits
 
 #### Join the #zombieverse chat in Discord [here](https://bit.ly/wipp-discord)
-![discord](https://cdn.discordapp.com/attachments/898658952953352192/900444050019217478/Screen_Shot_2021-10-20_at_1.03.04_PM.png)
+<img width="1116" alt="WIPP Discord" src="https://user-images.githubusercontent.com/84144261/138964916-5fc07506-fd9b-401b-994c-8fddb091af1f.png">
 
 ## OUTLINE / TODOS / CONTRIBUTIONS
 
