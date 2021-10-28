@@ -168,6 +168,42 @@ They go through the portal and the quest begins.
 
 ## CH2: 1st Challenge
 
+You know that feeling you get when you think you're going to throw up but then you never do? That was what it felt like - except it went on and on until they had all closed their eyes and at that moment, they were blasted out of the portal like babies being propelled from the room to a rice paddy. It took a few moments for any of them to recover, but the first was Emily. Of course it was Emily. She always had to be first at everything. 
+
+"Charlie! Chris! Get your shit together!" She said it as if her shit hadn't of been scattered just moments before. The boys were used to her at this point and knew that if they didn't do what she said, there would be hell to pay. Of course, from the looks of things, there was going to be hell to pay anyway. 
+
+"Come on." Emily wasn't going to wait for them, she was already moving towards the only spot in this world that looked any different from where they had landed. 
+
+A booming voice stopped her in her tracks and caused Chris to fall onto the ground whimpering. 
+
+"Complete the mission, or die!" This was the meta host. It wouldn't be the first or last time they heard him. 
+
+"You will face three challenges based on each of your worst fears. You have ten minutes. If you fail, you will die but can know that you will suffer forever as a crappy NFT. Go!" 
+
+"Fuck, fuck, fuck!" Chris was still on the ground. 
+
+"What's wrong with you man?" Charlie demanded. 
+
+"My greatest fear is Zombies!" Chris said. This created a shocked expression on both Charlie and Emily's faces. 
+
+"Me too!" They both said at the same time. 
+
+Suddenly a wall of Zombies was flowing at them from what had looked like an abandoned farmhouse seconds before. 
+
+"Run, you fools!" Emily shouted. She was past them and on her way. 
+
+Charlie helped Chris up even as the zombies got closer and closer. "You okay man?" 
+
+Chris seemed better. He nodded yes. "We better go man, they look fast, I don't know if we can outrun them at this point."
+
+Charlie shoved Chris to the ground hard. "I'm not going to need to outrun them because I'm sure they'll stop to snack on you!"
+
+Charlie ran away. It was a totally unexpected asshole move. 
+
+"Zombies don't actually bother me," Charlie mused as he ran. "What I'm really scare of are women." 
+
+Emily loped ahead of him, unaware of what had taken place behind her.
+
 They blast out of the portal into a new foreign place.
 
 ~~Somebody comes out to greet them (NPC ofcourse)... "WELCOME! DO YOU WANT TO PLAY A GAME?"~~
