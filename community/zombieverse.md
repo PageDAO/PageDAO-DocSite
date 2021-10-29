@@ -79,8 +79,8 @@ LIVE DEMO HERE! https://www.loom.com/share/7b78f948a93d438e85741cb22605e761
 ---
 
 # Story start!
-![zombieverse](https://cdn.discordapp.com/attachments/879225108793815042/898631182001012806/unknown.png) Credit: @indefatigable.eth
 
+---
 ## CH1 - Game on (or game over?)
 ![Crash](https://user-images.githubusercontent.com/84144261/139359717-4ce1d1b4-0a00-45ca-baa1-81d12ddf27b8.png)
 Credit: @MariaVerde
@@ -370,3 +370,6 @@ What if the crucible is they have get a dragon's scale to add to the crucible an
 @D0NIM0: I wanted Emily and Charlie's to have to battle Chris, where Chris has been transformed into a some devilish beast. There would be guilt, psychological conflict followed by survivors remorse
 
 @D0NIM0: Well when they went through the portal, the claw that reached through I wanted to leave a tiny flesh wound, that would later be revealed to have coursed through his veins changing his DNA. It would eventually turn him, but he shows courage and strength whilst still in human form to help the other two friends escape. Chris becomes a fallen hero. Something like that **(EZ LIKES THIS)**
+
+![zombieverse](https://cdn.discordapp.com/attachments/879225108793815042/898631182001012806/unknown.png) Credit: @indefatigable.eth
+
