@@ -82,6 +82,8 @@ LIVE DEMO HERE! https://www.loom.com/share/7b78f948a93d438e85741cb22605e761
 ![zombieverse](https://cdn.discordapp.com/attachments/879225108793815042/898631182001012806/unknown.png) Credit: @indefatigable.eth
 
 ## CH1 - Game on (or game over?)
+![Crash](https://user-images.githubusercontent.com/84144261/139359717-4ce1d1b4-0a00-45ca-baa1-81d12ddf27b8.png)
+Credit: @MariaVerde
 
 @EZ / PHIL PTP live show notes
 
@@ -323,6 +325,8 @@ With a nudge he twisted the lock and the gate squealed open to reveal the final 
 ---
 
 ## Ch4: Final Challenge - The Crucible
+![Cave-Zombieverse1](https://user-images.githubusercontent.com/84144261/139360028-031617de-83aa-4bb2-9369-b2290273e4fa.png)
+Credit: @MariaVerde
 
 @EZ / PHIL NOTES (live show)
 
