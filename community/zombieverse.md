@@ -168,7 +168,7 @@ They go through the portal and the quest begins.
 
 ---
 
-## CH2: 1st Challenge 
+## CH2: 1st Challenge
 
 (@CD) You know that feeling you get when you think you're going to throw up but then you never do? That was what it felt like - except it went on and on until they had all closed their eyes and at that moment, they were blasted out of the portal like babies being propelled from the room to a rice paddy. It took a few moments for any of them to recover, but the first was Emily. Of course it was Emily. She always had to be first at everything. 
 
@@ -328,11 +328,82 @@ With a nudge he twisted the lock and the gate squealed open to reveal the final 
 ![Cave-Zombieverse1](https://user-images.githubusercontent.com/84144261/139360028-031617de-83aa-4bb2-9369-b2290273e4fa.png)
 Credit: @MariaVerde
 
-@EZ / PHIL NOTES (live show)
+@jimhapax 
+**Go here to edit this section** >> https://docs.google.com/document/d/1Q-MHUYYDWxXgBCQ9jfy3FYRpZazfZi3vtcPq-WdaFrs/edit?usp=sharing
 
-Ideas...
-- Zombie dragon!
-- @PHILOFAUSTIN: I'd love to see an illustration of the slain dragon and see he has a nametag saying "@DragoNate"
+Emily and Charlie, when confronted about the last challenge, go through the portal and wind up at the front of a giant cave - the Zombie Dragon’s lair.
+
+Zombie Chris is not far behind - following them with a stupor; never strong to begin with, but the connection they have as friends leaves him aimless, not sure whether he wants catharsis and overcoming, or the brains of his friends. Emily and Charlie may need to fend him off of the hunger - perhaps squirrel brains, or anything dead or rotten scraps lying around.
+
+The friends become more hot and humid as they delve deeper into the cave. Golds, rubies, sapphires pile up as plentiful as the skeletons of those who dared pass before. At the end, there is an opening, and an enormous sombre being sleeps.
+
+“Hello?” Charlie utters, and the beast is disturbed from his dormancy.
+
+“WHO DARES INTERRUPT MY SLUMBER?” 
+
+The dragon’s eyes pierce a glowing light; one near impossible to flee the gaze of. It occurs to the two that are yet still lucid that the dragon’s mouth has moved - he speaks with his mind.
+
+“YOUR ENDURANCE TO BRING YOU HERE IS NOT WITHOUT VALOUR; I AM IMPRESSED. HOWEVER, FEW HAVE EVER OVERCOME THE CRUCIBLE.”
+
+“What’s the crucible?”
+
+“ZOMBIES, DRAGONS, VAMPIRES - THESE FOLK TALES HAVE SHAKEN MANY. BUT THE FEARS OF THESE TIMES HAVE DISTURBED SO MANY TODAY, THAT THROUGH DISTRACTION AND AVOIDANCE, THEY NEVER NEED TO FACE THAT WHICH SCARES THEM THE MOST.”
+
+“And what’s that? We’ve slayed an ogre with a boulder! We’ve overcome hordes of zombies! All these accomplishments, and you think we haven’t faced our fears.”
+
+There is a silence. And then, shaking the walls of the cave, the mighty dragon erupts in laughter.
+
+“YOU THINK THESE ARE FEARS?”
+
+Charlie and Emily look each other in the eyes, one last time, before turning back to the dragon’s. 
+
+“LOOK INTO THESE EYES. THERE YOU WILL FIND YOUR TRUE FEARS.”
+
+Charlie is too dazed to see Emily dissolve next to him. Chris has already been taken up by the hypnotic gaze. Everything melts, and there is darkness.
+
+> INSERT SCENE OF CHARLIE BATTLING BEING SHY TO GIRLS - OVERCOMES IT!
+
+
+> INSERT SCENE OF EMILY BATTLING ABUSIVE FATHER - OVERCOMES IT! 
+
+
+They approach the scenes of their dark memories differently, because they have become stronger people.
+
+They come back to reality, and see Chris fighting with himself…
+
+The teacher mocks him in the school. The piercing sounds of laughter of the rest of his classmates.
+
+“CAN’T YOU DO A SIMPLE MATHS EQUATION? DO I HAVE TO BRING YOU TO THE FRONT. SO YOU CAN EXPLAIN HOW STUPID YOU ARE TO EVERYONE ELSE?”
+
+Chris is shaking. He doesn’t know Emily and Charlie are in front of him, telling him to confront his fears.
+
+“OR WILL YOU PISS YOUR PANTS MAYBE?”
+
+Chris shakes, and the shaking turns from fear, to apprehension, to frustration, to fury.
+
+Chris flips the table. The teacher and the class recoil. There is silence.
+
+Emily and Charlie look at each other. Something has changed in Chris’ eyes.
+
+“He’s going to make it.” she says.
+
+“And WHO DO YOU THINK YOU ARE?”
+
+The teacher goes from malice to shock.
+
+“You come in here, you hand out your textbooks, you pick on the quietest kid in the class, and you make them feel terrible. No-one likes you, Mrs Frumpsworth. No-one ever did. I’m sorry you have to do this the kids you’re supposed to inspire. I’m sorry you never got over the worries and problems in your life. I’m sorry you have so little pwoer in your life, that you can only make children miserable.”
+
+The teacher sits down, and is silent. 
+
+The children applaud Chris on. 
+
+Of course, Chris would not say this as a 6 year old. But, Chris is not 6. The memory is the same; but Chris has changed.
+
+And everything goes dark. And then two faces appear. Emily, and Charlie, in an empty cave - no dragon in sight, and a tunnel to the exit strewn with blue daylight.
+
+Chris, through friendship of Emily and Charlie, help him overcome his greatest fears - he is and has always been the most afraid, but overcomes his fear like no-one else, and so is given the title of the highest heroism - overcoming his zombificiation, and earning some wonderful privilege! 
+
+
 
 ---
 
@@ -370,6 +441,3 @@ What if the crucible is they have get a dragon's scale to add to the crucible an
 @D0NIM0: I wanted Emily and Charlie's to have to battle Chris, where Chris has been transformed into a some devilish beast. There would be guilt, psychological conflict followed by survivors remorse
 
 @D0NIM0: Well when they went through the portal, the claw that reached through I wanted to leave a tiny flesh wound, that would later be revealed to have coursed through his veins changing his DNA. It would eventually turn him, but he shows courage and strength whilst still in human form to help the other two friends escape. Chris becomes a fallen hero. Something like that **(EZ LIKES THIS)**
-
-![zombieverse](https://cdn.discordapp.com/attachments/879225108793815042/898631182001012806/unknown.png) Credit: @indefatigable.eth
-
