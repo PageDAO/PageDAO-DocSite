@@ -1,4 +1,3 @@
-![Ogre-scene](https://user-images.githubusercontent.com/92602939/139521826-e049e2d3-ed26-49f4-896c-f4674e05398a.png)
 ---
 title: 'Zombieverse'
 ---
@@ -217,6 +216,9 @@ The had been in the maze for what felt like ages when they closed in near the ce
 A distant rumbling could be heard. Footsteps as loud as battle drums came closer and closer. They could also hear the breaking down of the hedges as a hungry ogre smashed through them to find the straightest line to a quick treat. 
 They stood aside just in time to see him crash through one hedge, and he did not even see them as his momentum carried him through the next. Large holes as wide as small cottages where in the hedge grove now and as they heard the ogre continue to break through the rest, they stepped through one and into the portal 
 
+![Ogre-scene](https://user-images.githubusercontent.com/92602939/139521826-e049e2d3-ed26-49f4-896c-f4674e05398a.png)
+Credit: @MariaVerde
+
 d0nim0#6749
 Courageous as he thought it sounded, in retrospect it dawned on Charlie that baiting a starving Orge, the size of a two story building, was beginning to feel like a bad idea. As they tumbled out of the far side of the portal, for a moment all was dark. It was cold. It was silent.
 
@@ -276,8 +278,6 @@ With a nudge he twisted the lock and the gate squealed open to reveal the final 
 ---
 
 ## Ch4: Final Challenge - The Crucible
-![Cave-Zombieverse1](https://user-images.githubusercontent.com/84144261/139360028-031617de-83aa-4bb2-9369-b2290273e4fa.png)
-Credit: @MariaVerde
 
 @jimhapax 
 **Go here to edit this section** >> https://docs.google.com/document/d/1Q-MHUYYDWxXgBCQ9jfy3FYRpZazfZi3vtcPq-WdaFrs/edit?usp=sharing
@@ -293,6 +293,9 @@ The friends become more hot and humid as they delve deeper into the cave. Golds,
 “WHO DARES INTERRUPT MY SLUMBER?” 
 
 The dragon’s eyes pierce a glowing light; one near impossible to flee the gaze of. It occurs to the two that are yet still lucid that the dragon’s mouth has moved - he speaks with his mind.
+
+![Cave-Zombieverse1](https://user-images.githubusercontent.com/84144261/139360028-031617de-83aa-4bb2-9369-b2290273e4fa.png)
+Credit: @MariaVerde
 
 “YOUR ENDURANCE TO BRING YOU HERE IS NOT WITHOUT VALOUR; I AM IMPRESSED. HOWEVER, FEW HAVE EVER OVERCOME THE CRUCIBLE.”
 
