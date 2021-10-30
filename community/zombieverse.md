@@ -92,7 +92,27 @@ Credit: @MariaVerde
 
 (@Dylan) Emily had always been a big fan of Discord servers, even though she'd gotten hacked once before. Ouch, she thinks, remembering what it was like to be surprised by her empty wallet. Today, her wallet held a different sort of surprise: a NEW ITEM that she hadn't even had to pay for! It had been airdropped to her by a Twitter account she followed--which meant she was a WINNER!!! She was so excited she could barely stand it. And what had she won? Why, three tickets to the scariest Halloween experience in the entire metaverse.
 
-(@MariaVerde)
+(@MariaVerde)"I'm so excited for this," Emily said to herself. Even though her past experiences told her something was odd, she wouldn't miss the best event that would happen on Halloween.
+"But, wait a second... Who am I going to give the tickets to? None of my friends like cryptocurrencies, NFT, etc. Much less an event where they're going to be naked in the Metaverse!"
+But she thought it would be a good idea to post on the NFT project's Discord server if there was anyone who had run out of tickets.
+"Hey y'all. I have two more tickets if anyone is interested. Hmu,", sent.
+
+Of course she got dozens of scam messages, but two of them caught her attention because they had the same servers in common. So she created a group for all three.
+
+"Errr hi, Emily. I'm Charlie. I love the events in the Metaverse and more I love that there will be wearable hunts! I love adventures."
+"Hi folks. Chris here. I was actually encouraged to attend the event because Halloween parties IRL scare the crap out of me! I'd rather stay home."
+"Hi! The event is at 3:33 am. We should all three of us enter at the same time. See you there."
+
+The time seemed a little spooky to them, but so what. It wouldn't be in real life anyway.
+At 3:33 a.m. the three of them log in.
+
+(@Dylan) Charlie was a member of the college waterski team, as all the sports had been moved outdoor to keep the kids further away from each other. In his dorm room, he had the greatest piece of technical hardware he'd ever imagined he would own: his OtherWorld 9000 headset. As he was setting up his cryptocurrency wallet to work with the new device, which his parents had just barely been able to afford at the beginning of the semester, he noticed a new NFT. That's odd, he thought, I don't remember entering a contest. (@CD) Somehow he had forgotten that he'd even applied to be Emily's +1 of 2, but the memory returned and lit up his cortex just as yet another bolt of lightning smashed down outside his dorm window. 
+
+(@Dylan) Chris was the oddball of the group. He didn't play any sports, and he'd only ever touched his BasicVRKit 2211 a few times before the fateful day. The third invitation to the party came to his wallet and he didn't even notice it was there until it activated at 11:59PM. He knew he shouldn't stay up this late, but it wasn't a school night and he had to finish a project for school. Until he met his new friends in-world, Chris had seriously been considering simply removing the headset and throwing it onto the floor. He could have gotten some sleep, and who knows? Maybe the fucking thing would work the next day.
+
+(@Dylan) Lightning struck and Charlie heard the thunder start to rumble, but then with a brief cry of surprise, he found he couldn't hear it anymore. His eyes still showed him the same image he'd been seeing before, but he wasn't wearing the headset anymore. He reached up and rubbed his eyes.
+He'd never seen Emily or Chris before, but there they both were too. In blocky pixels, but he was sure this was what they looked like otherwise because his own body was so close it had taken him a moment to make the connection between the blockiness and the VR environment
+
 
 
 
