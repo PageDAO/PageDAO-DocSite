@@ -8,6 +8,9 @@ A short halloween-themed Metaverse story written in collaboration by PAGEDAO Met
 ![Cover-Zombieverse](https://user-images.githubusercontent.com/92602939/138750549-ea031944-1765-440e-ac67-f43a607b4c2e.png)
 Credit: @MariaVerde
 
+
+
+
 #### Premise...
 
 Halloween night, main character gets transported to the metaverse and is required to fulfill a quest to return home.
@@ -85,86 +88,13 @@ LIVE DEMO HERE! https://www.loom.com/share/7b78f948a93d438e85741cb22605e761
 ![Crash](https://user-images.githubusercontent.com/84144261/139359717-4ce1d1b4-0a00-45ca-baa1-81d12ddf27b8.png)
 Credit: @MariaVerde
 
-@EZ / PHIL PTP live show notes
+(@CD) Disease had ravaged the IRL world for years and people had been forced to move their minds and their relationships to the metaverse. At first it was strange, but as the grim reaper's scythe swung to and fro - the world adapted and changed. The first year, the horrors of the non-digital world were more than anyone could bear and the time of dead souls arising and humans giddily encostuming themselves to hide their intent passed without notice. The next year, people had become awkward, they had grown uncomfortable among the breathing, living world - but they tried. The celebrants organized meet-ups and meat-ups, to eat, drink, dance and shake off the awkwardness of having to represent themselves instead of being represented by avatars and profile pics. Electrical storms rolled in to every city, not all at once, but at just the right pace to be unnoticed. There was something else afoot as well - something equally dangerous and equally unreal. On that night, friends who had never met were put on a collision course with a world they could never have known existed. 
 
-~~Person is at their computer on halloween night. Got stood up for a date... there's a huge storm outside.~~
+(@Dylan) Emily had always been a big fan of Discord servers, even though she'd gotten hacked once before. Ouch, she thinks, remembering what it was like to be surprised by her empty wallet. Today, her wallet held a different sort of surprise: a NEW ITEM that she hadn't even had to pay for! It had been airdropped to her by a Twitter account she followed--which meant she was a WINNER!!! She was so excited she could barely stand it. And what had she won? Why, three tickets to the scariest Halloween experience in the entire metaverse.
 
-Group of friends get together to go out to a party, but a storm hits and they decide to meetup online.
-
-Friend: "I don't know about going out in this weather... We should all go out to **Zombieverse** instead!"
-
-Main Char: "Sure, I guess"
-
-*They're having trouble logging on with the storm going on... Then CRASH! A bolt of lightning teleports them to the unknown.*
-
-*Wake up in the metaverse in a rural part of town. See the lights of a city in the distance.*
-
-They could be spirits for all we know...
-
-They start traveling. Strange sounds all around. Could they be animals? 
-
-> **INSERT ILLUSTRATION OF THE FIRST ZOMBIEVERSE SCENE HERE!**
-
-Farmhouses... A chase scene begins... The two run to the nearest house and bangs on the door. No one appears to be home, but the porch light is on.
-
-Knocks, knocks... "PLEASE HELP. SOMEBODY!"
-
----
-
-@SUPERBAN Alternate introduction: 
-This is the story of our friend Charley he and two friends were invited to a party on halloween night, but he decides not to go and stay home to do some things on his computer.
-
-At midnight charly starts to see his NFT collection of zombies and something very strange happens, his shadowy NFTs come to life on his pc screen and he falls into a deep sleep.
-
-When he wakes up he is in ZOMBIELAND a dimension where they are all zombies is a beautiful forest where all the dreams that the dream could come true.
-But some evil zombies wanted to eat it and he runs to survive but not everything was bad in the forest he saw a river and he remembers that the shadows hate water and desude to cross it.
-
-Some see that were also somber guide him to some trees where he climbs to take shelter and evade the evil ones, ayi falls asleep and when he wakes up he is in his room and realizes that it is a dream but a sonbie feather is on his keyboard and he realizes that he was in ZOMBIELAD.
-
----
-
-As he knocks on the door, behind him his friend is running up the driveway terrified. (first reunion with friend)
-
-WTF IS GOING ON. SOMEBODY WAS CHASING ME! (there was a noise in the bushes)
-
-IDK MAN. SHIT'S GETTING SPOOKY. LET'S KEEP GOIN. (they leave the house)
-
-... another guy from the zombieverse appears on the road. Seems friendly(?)
-
-The 3rd guy yells out "GUYS!". It appears to be their 3rd friend. "Can't believe I found you guys!"
-
-Now they all go out to the next house, and someone actually opens the door!
-
-"Here have some brains..." (not candy?? weird!)
-
-Uh... no thanks, I already ate. We have to go to another party. (they continue on)
-
-#### The Meta Host Appears
-Finally they get into the city.
-
-They meet the "meta host" that welcomes them to Zombieverse. 
-
-You only have 24hrs to fulfill this quest or else... you can't return. 
-
-Do they have to find a wizard or... ??? in order to go back home.
-
-(they are stuttering asking questions.) "Who is this wizard anyhow?"
-
-Maybe there's a portal they have to go through to begin the quest.
-
-... do they go in?
-
-They go through the portal and the quest begins.
+(@MariaVerde)
 
 
----
-@EZ: Is the meta host the "quest master"? like a NPC that only has scripted responses. ILIKETHIS.
-
-@DAZERINE: Maybe they go and knock on the door and a ghoul answers. And they say “wow, your dressed as a human” think they are there for trick or treat. So they world is inhabited by zombies ghosts etc but similar to ours
-
-@PENNYBAGS: what if they all get an ominous invitation to a metaverse costume party which they reluctantly go to or even get forced into somehow- then it turns into a murder party or some of the costumed guests turn out to be the real thing ( i.e zombie, vampire, etc) :light_bulb: tossing out ideas before we go full zombie direction
-
-@PHILOFAUSTIN: Maybe if they were in a play murder party IRL, they get sucked to zombiemetaverse and stumble upon a REAL murder party. High stakes. 
 
 ---
 
