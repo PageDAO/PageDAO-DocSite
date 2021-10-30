@@ -30,56 +30,7 @@ LIVE DEMO HERE! https://www.loom.com/share/7b78f948a93d438e85741cb22605e761
 #### Join the #zombieverse chat in Discord [here](https://bit.ly/wipp-discord)
 ![WIPP Discord](https://user-images.githubusercontent.com/84144261/138964916-5fc07506-fd9b-401b-994c-8fddb091af1f.png)
 
-## OUTLINE / TODOS / CONTRIBUTIONS
 
-* [CH1: Enter the Zombieverse](#ch1---game-on-or-game-over)
-    - [x] Outline rough idea (@EZ, @philofaustin)
-    - [ ] First Draft
-    - [ ] Editing
-    - [ ] Illustration
-    - [ ] Finalize / transfer to master story page
-* [CH2: 1st challenge](#ch2-1st-challenge)
-    - [x] Outline rough idea (@MariaVerde, @careverdeazul, @dazerine)
-    - [x] First Draft (@MariaVerde, @careverdeazul, @dazerine)
-    - [ ] Editing
-    - [ ] Illustration
-    - [ ] Finalize / transfer to master story page
-* [CH3: 2nd challenge](#ch3-2nd-challenge)
-    - [x] Outline rough idea (@d0nim0)
-    - [x] First Draft (@d0nim0)
-    - [ ] Editing
-    - [ ] Illustration
-    - [ ] Finalize / transfer to master story page
-* [CH4: final challenge (???)](#ch4-final-challenge---the-crucible)
-    - [ ] Outline rough idea
-    - [ ] First Draft
-    - [ ] Editing
-    - [ ] Illustration
-    - [ ] Finalize / transfer to master story page
-* [CH5: return to the real world (???)](#ch5-return-home)
-    - [ ] Outline rough idea
-    - [ ] First Draft
-    - [ ] Editing
-    - [ ] Illustration
-    - [ ] Finalize / transfer to master story page
-* Misc:
-    - [x] NFTBook cover (@MARIAVERDE)
-
-### ARTIST NOTES
-
-- [ ] CH1 illustration: Show what first Zombieverse scene would look like. (???)
-- [ ] CH2 illustration (???)
-- [ ] CH3 illustration (???)
-- [ ] CH4 illustration (???)
-- [ ] CH5 illustration (???)
-
-## Characters
-@MariaVerde:
-- Charlie: brown eyes, adventurous spirit, brown hair, NFT collector.
-- Emily: blue eyes, competitive, brown hair. Ready to win.
-- Chris: blue eyes, brown hair, scary. His fears are stronger than he is. Protagonist: 
-
----
 
 # Story start!
 
@@ -158,38 +109,12 @@ Emily loped ahead of him, unaware of what had taken place behind her.
 
 They blast out of the portal into a new foreign place.
 
-~~Somebody comes out to greet them (NPC ofcourse)... "WELCOME! DO YOU WANT TO PLAY A GAME?"~~
-
---- 
-> BY @MARIAVERDE contribution made on 10/16...
-
-When they enter the portal they arrive at the meta host parcel where they must complete the first mission to move on to the next one. Whoever fails to do so dies. 
-
-"Okay, the first mission is this: each of you must put on these virtual reality glasses.  You will each see different things; three creepy things for each of you. You will have to face them and take each of them down before time runs out."
-They each have 10 minutes to complete the mission, if they fail they will be immortalized in a NFT that he will put in his NFT gallery. And will never know the real world again. 
-In 3, 2, 1...
-The three of them put on their glasses and the journey begins. One of them had to fight wild Apes. Another will have to fight Yetis and the last one will have to fight zombies, hungry for blood and guts.
-
-Unfortunately, the last one's greatest fear has always been zombies. He couldn't do much, he was instantly eaten by the zombies.
-Game over.
-
-The other two will have to go on their way, while he spends the rest of his days as part of the meta host's gallery. 
-In the Zombieverse there is no time for fear.
 
 ---
 
-BY @careverdeazul contribution made on 10/20
-
-The friends must fight with zombies, and go through places where they will overcome challenges, a kind of labyrinth.
-The first participant who has to face the zombies, is with nothing but a map where he can get weapons to face one of those creepy things that the meta host assigned to them. He goes deep into the game, looking for the places that are marked on the map, the first weapon is a firearm.
-He still has two more weapons to go, to get to the place where he will face the creepy zombies.
-The player must walk a lot, climb trees and mountains to get the next weapon, he finds it in a waterfall, it is a knife.
-Although tired, he continues his way, until he finds in a cave the next weapon, there are the bullets of the firearm.
-With these things he should be ready to face the challenge. Although in zombieverse everything can change in a moment.
-
 ## Ch3: 2nd Challenge
 
-@MariaVerde
+(@MariaVerde)
 After finishing the first challenge, the three pass through the portal to a new city, but none of them know where the other is. They don't know if they are alive or dead. 
 They arrive in a cyberpunk city, many years ahead of its time. Technology overflows everywhere. That's when the three realize they are alive.
 They meet the governor, a guy eager for money and technology. He's the only human alive in that city; the others were turned into robots and Bitcoin mining machines.
@@ -199,7 +124,7 @@ Here is your second challenge -he says with a wicked smile on his face- you will
 The challenge begins and the three of them run off on their quest. The first attack against the ASIC miners begins and they give the high voltage attack but manage to dodge it.
 
 
-@dazerine
+(@dazerine)
 The host laughes in a menacing way, clearing enojoying watching the friends scramble around to survive. They have fought terrible monsters, overcoming fears and even had to hunt down the first Bitcoin and they were now exhausted and weary. Only adrenaline propelled them on now. And the hope of reaching home alive.
 "So you have made it this far" the host jeered, "possibly just by luck, but let us test that theory. Your next challenge is a maze and you must reach the center. It is surrounded by high hedges with thorns dig into your skin. There are also some plants that have grown a taste for the human flesh, but this should not be a worry to you wonder kids!" 
 On the other side of the room they were in a door creaked open slowly. It lead out into the darkness where the faint rustle of leaves on the wind could be heard.
@@ -279,8 +204,6 @@ With a nudge he twisted the lock and the gate squealed open to reveal the final 
 
 ## Ch4: Final Challenge - The Crucible
 
-@jimhapax 
-**Go here to edit this section** >> https://docs.google.com/document/d/1Q-MHUYYDWxXgBCQ9jfy3FYRpZazfZi3vtcPq-WdaFrs/edit?usp=sharing
 
 Emily and Charlie, when confronted about the last challenge, go through the portal and wind up at the front of a giant cave - the Zombie Dragon’s lair.
 
@@ -315,10 +238,22 @@ Charlie and Emily look each other in the eyes, one last time, before turning bac
 
 Charlie is too dazed to see Emily dissolve next to him. Chris has already been taken up by the hypnotic gaze. Everything melts, and there is darkness.
 
-> INSERT SCENE OF CHARLIE BATTLING BEING SHY TO GIRLS - OVERCOMES IT!
+(@MariaVerde) "It was just an ordinary day at school. Everyone talking to their friends, playing games, boys flirting girls....
+For Charlie it was the most important day of his life. The day before he had decided (after several years of not even talking to girls), that he was going to declare his love to Natalie, his classmate who stole all his attention.
+Natalie was talking to her friends, when Charlie walks up, sweating and shaking. 
+"H... Hel... Hi Natalie. Um... I was wondering if... You'd like .... Hang out with me today."
+There wasn't even a word; not even a yes or no. There was only laughter, and lots of it. 
+Instead of running away as did years before, he understood that Natalie wasn't the only girl in the world. At least he dared to talk to her.
 
 
-> INSERT SCENE OF EMILY BATTLING ABUSIVE FATHER - OVERCOMES IT! 
+(@MariaVerde & @Jim) "Emily is stuck on the dragon’s gaze, falls unconscious on the floor beside charlie. 
+
+Emily’s Stepdad is banging on her door. 
+
+
+Charlie is talking to girls in memory that are bratty and superficial. Realises that Emily is a bookworm but what he really wants and needs for good love. He metaphorically wipes the cheap make up off the bratty girls, realises he is over it.
+Now he’s free from the trance. Sees Emily facing her fear; her father. Now he has the strength to tell Emily he loves her, and her hearing this in the dream of her father finds the strength to find safety and comfort in a guy who values and respects her. Now she stands up to the memory of her abusive father - now SHES free."
+
 
 
 They approach the scenes of their dark memories differently, because they have become stronger people.
@@ -362,10 +297,97 @@ Chris, through friendship of Emily and Charlie, help him overcome his greatest f
 ---
 
 
+## Ch5: You Can Return Home Now...
+
+(@MariaVerde) They all made it through the last mission.
+"We did it!" they said as they hugged each other.
+A lot of bravery was needed to make it to the end. But something inside them was not 100% happy about returning to the real world. 
+"Here is the magic candy that will bring you back to real life. You can eat it and never return here, or you can choose to become zombies and wait every Halloween to scare and kill other Discord users who log in the metaverse," the dragon said.
+The three of them take it but stare at it for quite a while. The dragon smiles because he knows what they are thinking.
+"No, we're staying in the Zombieverse," they say in unison.
+At the same time Charlie and Emily begin to change into what will now be their new look. The three of them walk together into the Zombieverse, their now new home.
+
+
+## OUTLINE / TODOS / CONTRIBUTIONS
+
+* [CH1: Enter the Zombieverse](#ch1---game-on-or-game-over)
+    - [x] Outline rough idea (@EZ, @philofaustin)
+    - [ ] First Draft
+    - [ ] Editing
+    - [ ] Illustration
+    - [ ] Finalize / transfer to master story page
+* [CH2: 1st challenge](#ch2-1st-challenge)
+    - [x] Outline rough idea (@MariaVerde, @careverdeazul, @dazerine)
+    - [x] First Draft (@MariaVerde, @careverdeazul, @dazerine)
+    - [ ] Editing
+    - [ ] Illustration
+    - [ ] Finalize / transfer to master story page
+* [CH3: 2nd challenge](#ch3-2nd-challenge)
+    - [x] Outline rough idea (@d0nim0)
+    - [x] First Draft (@d0nim0)
+    - [ ] Editing
+    - [ ] Illustration
+    - [ ] Finalize / transfer to master story page
+* [CH4: final challenge (???)](#ch4-final-challenge---the-crucible)
+    - [ ] Outline rough idea
+    - [ ] First Draft
+    - [ ] Editing
+    - [ ] Illustration
+    - [ ] Finalize / transfer to master story page
+* [CH5: return to the real world (???)](#ch5-return-home)
+    - [ ] Outline rough idea
+    - [ ] First Draft
+    - [ ] Editing
+    - [ ] Illustration
+    - [ ] Finalize / transfer to master story page
+* Misc:
+    - [x] NFTBook cover (@MARIAVERDE)
+
+### ARTIST NOTES
+
+- [ ] CH1 illustration: Show what first Zombieverse scene would look like. (???)
+- [ ] CH2 illustration (???)
+- [ ] CH3 illustration (???)
+- [ ] CH4 illustration (???)
+- [ ] CH5 illustration (???)
+
+## Characters
+@MariaVerde:
+- Charlie: brown eyes, adventurous spirit, brown hair, NFT collector.
+- Emily: blue eyes, competitive, brown hair. Ready to win.
+- Chris: blue eyes, brown hair, scary. His fears are stronger than he is. Protagonist: 
+
+---
+
+-----
+~~Somebody comes out to greet them (NPC ofcourse)... "WELCOME! DO YOU WANT TO PLAY A GAME?"~~
+
+--- 
+> BY @MARIAVERDE contribution made on 10/16...
+
+When they enter the portal they arrive at the meta host parcel where they must complete the first mission to move on to the next one. Whoever fails to do so dies. 
+
+"Okay, the first mission is this: each of you must put on these virtual reality glasses.  You will each see different things; three creepy things for each of you. You will have to face them and take each of them down before time runs out."
+They each have 10 minutes to complete the mission, if they fail they will be immortalized in a NFT that he will put in his NFT gallery. And will never know the real world again. 
+In 3, 2, 1...
+The three of them put on their glasses and the journey begins. One of them had to fight wild Apes. Another will have to fight Yetis and the last one will have to fight zombies, hungry for blood and guts.
+
+Unfortunately, the last one's greatest fear has always been zombies. He couldn't do much, he was instantly eaten by the zombies.
+Game over.
+
+The other two will have to go on their way, while he spends the rest of his days as part of the meta host's gallery. 
+In the Zombieverse there is no time for fear.
 
 
 
-## Ch5: Return home
+BY @careverdeazul contribution made on 10/20
+
+The friends must fight with zombies, and go through places where they will overcome challenges, a kind of labyrinth.
+The first participant who has to face the zombies, is with nothing but a map where he can get weapons to face one of those creepy things that the meta host assigned to them. He goes deep into the game, looking for the places that are marked on the map, the first weapon is a firearm.
+He still has two more weapons to go, to get to the place where he will face the creepy zombies.
+The player must walk a lot, climb trees and mountains to get the next weapon, he finds it in a waterfall, it is a knife.
+Although tired, he continues his way, until he finds in a cave the next weapon, there are the bullets of the firearm.
+With these things he should be ready to face the challenge. Although in zombieverse everything can change in a moment.
 
 @EZ / PHIL NOTES (live show)
 
@@ -395,3 +417,7 @@ What if the crucible is they have get a dragon's scale to add to the crucible an
 @D0NIM0: I wanted Emily and Charlie's to have to battle Chris, where Chris has been transformed into a some devilish beast. There would be guilt, psychological conflict followed by survivors remorse
 
 @D0NIM0: Well when they went through the portal, the claw that reached through I wanted to leave a tiny flesh wound, that would later be revealed to have coursed through his veins changing his DNA. It would eventually turn him, but he shows courage and strength whilst still in human form to help the other two friends escape. Chris becomes a fallen hero. Something like that **(EZ LIKES THIS)**
+
+@jimhapax 
+**Go here to edit this section** >> https://docs.google.com/document/d/1Q-MHUYYDWxXgBCQ9jfy3FYRpZazfZi3vtcPq-WdaFrs/edit?usp=sharing
+
