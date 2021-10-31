@@ -62,7 +62,15 @@ At 3:33 a.m. the three of them log in.
 (@Dylan) Chris was the oddball of the group. He didn't play any sports, and he'd only ever touched his BasicVRKit 2211 a few times before the fateful day. The third invitation to the party came to his wallet and he didn't even notice it was there until it activated at 11:59PM. He knew he shouldn't stay up this late, but it wasn't a school night and he had to finish a project for school. Until he met his new friends in-world, Chris had seriously been considering simply removing the headset and throwing it onto the floor. He could have gotten some sleep, and who knows? Maybe the fucking thing would work the next day.
 
 (@Dylan) Lightning struck and Charlie heard the thunder start to rumble, but then with a brief cry of surprise, he found he couldn't hear it anymore. His eyes still showed him the same image he'd been seeing before, but he wasn't wearing the headset anymore. He reached up and rubbed his eyes.
-He'd never seen Emily or Chris before, but there they both were too. In blocky pixels, but he was sure this was what they looked like otherwise because his own body was so close it had taken him a moment to make the connection between the blockiness and the VR environment
+He'd never seen Emily or Chris before, but there they both were too. In blocky pixels, but he was sure this was what they looked like otherwise because his own body was so close it had taken him a moment to make the connection between the blockiness and the VR environment.
+
+I'm in the game! he thought, panicking.
+
+For his part, Charlie wasn't as surprised as Chris and Emily seemed. The vestiges of his panic were diminished by his second emotion, shock, as Emily began to scream and Chris let out a long string of loud swear words that seemed to be primarily directed toward his headset. He seemed to think it was malfunctioning. 
+
+"What's wrong with your set, bro?" he asked.
+
+Chris looked up and saw him, and something seemed to click for him. 
 
 
 
@@ -119,26 +127,34 @@ After finishing the first challenge, the three pass through the portal to a new 
 They arrive in a cyberpunk city, many years ahead of its time. Technology overflows everywhere. That's when the three realize they are alive.
 They meet the governor, a guy eager for money and technology. He's the only human alive in that city; the others were turned into robots and Bitcoin mining machines.
 
-Here is your second challenge -he says with a wicked smile on his face- you will have to get the first Bitcoin ever created. You will have to navigate among the thousands of robots and technology in the city. But it won't be easy; in that same search there are also the ASIC miners. Good luck, hahaha.
+Here is your second challenge -he says with a wicked smile on his face- you will have to get the first Bitcoin ever created. You will have to navigate among the thousands of robots and all the hostile technology in the city. But it won't be easy; in that same search there are also the ASIC miners. Good luck, hahaha.
 
-The challenge begins and the three of them run off on their quest. The first attack against the ASIC miners begins and they give the high voltage attack but manage to dodge it.
+The challenge begins and the three of them run off on their quest. The first attack against the ASIC miners begins and they give the high voltage attack but the heroes manage to dodge it.
 
 
 (@dazerine)
-The host laughes in a menacing way, clearing enojoying watching the friends scramble around to survive. They have fought terrible monsters, overcoming fears and even had to hunt down the first Bitcoin and they were now exhausted and weary. Only adrenaline propelled them on now. And the hope of reaching home alive.
-"So you have made it this far" the host jeered, "possibly just by luck, but let us test that theory. Your next challenge is a maze and you must reach the center. It is surrounded by high hedges with thorns dig into your skin. There are also some plants that have grown a taste for the human flesh, but this should not be a worry to you wonder kids!" 
+The meta host laughes in a menacing way, clearing enojoying watching the friends scramble around to survive. They have fought terrible monsters, overcoming fears and even had to hunt down the first Bitcoin and they were now exhausted and weary. Only adrenaline propelled them on now. And the hope of reaching home alive.
+
+"So you have made it this far" the host jeered, "possibly just by luck, but let us test that theory. Your next challenge is a maze and you must reach the center. It is surrounded by high hedges with thorns that will dig into your skin. There are also some plants that have grown a taste for the human flesh, but this should not be a worry to you wonder kids!" 
+
 On the other side of the room they were in a door creaked open slowly. It lead out into the darkness where the faint rustle of leaves on the wind could be heard.
-"So just a maze?" the main character asks, thinking this is all too easy compared to the other ordeals they've had to endure.
-"Yes, but there is a keeper of the maze also. You will have to be quicker then him to get to the portal!" He laughed again in a sinister way.
+"So just a maze?" Charlie asks, thinking this is all too easy compared to the other ordeals they've had to endure.
+
+"Yes, but there is a keeper of the maze also. You will have to be quicker than him to get to the portal!" He laughed again in a sinister way. "Bwahahaha."
 
 The group stepped up to the door and looked out into the night. The maze seemed expansive and tall. There was no way to climb it and no way to walk the perimeter, it seemed to stretch on as far as the eye could see.
+
 A loud thudding suddenly filled the air. Like footsteps, but louder and slower. They turned in unison to see an ogre the size of a bus lumbering toward them. "The keeper!" they squealed as they all ran into the maze. They could here the footsteps pounding behind them.
 
 They searched and scrambled for any path, but it was all too confusing and no path or way was evident. They hurried on more to keep a distance from the ogre who never seemed too far behind.
+
 All the hedges looked the same and a cloudy night meant they could not use stars as navigation. They thought they could use leaves to mark where they had been, but as soon as they approached a hedge to rip one off, a giant mouth appeared from the plant and attempted to swallow them while. They stuck to the middle of the path form then on.
+
 The had been in the maze for what felt like ages when they closed in near the center. They could see the portals light reflecting off the leaves and hear the slow, buzzing hum of the power. But alas! They were on the other side of the hedge and were faced with a dead end. 
+
 "I have an idea," main character said and he put both his hands to his mouth and bellowed loudly "Ogre! Ogre, one of my friends has fallen in some gravy!"
 A distant rumbling could be heard. Footsteps as loud as battle drums came closer and closer. They could also hear the breaking down of the hedges as a hungry ogre smashed through them to find the straightest line to a quick treat. 
+
 They stood aside just in time to see him crash through one hedge, and he did not even see them as his momentum carried him through the next. Large holes as wide as small cottages where in the hedge grove now and as they heard the ogre continue to break through the rest, they stepped through one and into the portal 
 
 ![Ogre-scene](https://user-images.githubusercontent.com/92602939/139521826-e049e2d3-ed26-49f4-896c-f4674e05398a.png)
@@ -161,7 +177,7 @@ They both turned in tandem to see Charlie’s face drain of blood.
 
 No sooner had the three stood and motioned back away from the portal, the hand swiped. It was close enough to snag Chris’s hoodie and enough motivation for him to leap backwards, almost knocking Charlie down this time.
 
-The room there were in was darkly, large and cavernous. A faint cool damp breeze passed across their cheeks. Charlies trekking instincts kicked in fuelled by renewed adrenaline.
+The room there were in was darkly, large and cavernous. A faint cool damp breeze passed across their cheeks. Charlie's trekking instincts kicked in fuelled by renewed adrenaline.
 
 “Follow that breeze!” “It’s damp, which means there is water nearby”
 
@@ -174,17 +190,17 @@ The sound of rushing water could be heard. The mouth of the tunnel gave way to b
 “Damned if I know” Emily replied “…but we’d best thing of something..fast!!” She wheeled around and gestured in the direction they had come from. A gut wrenching roar emanated from the tunnels mouth. seismic foot steps could be heard gathering pace. Time was short.
 
 “SPLIT UP IN DIFFERENT DIRECTIONS!’ Charlie yelled. 
-“…and go where? Replied Emily. “ That orge is looking for a toothpick. Track and field was never my strength, remember? I don’t run and I swear it can smell me the most!” She had faced demons, orcs and fifth level mages countless times in her time playing Dungeons ’n’ Dragons for many years…as a board game. The closet thing she had ever faced to an orge in her short life had been on the big screen during a marathon movie night.
+“…and go where? Replied Emily. “ That ogre is looking for a toothpick. Track and field was never my strength, remember? I don’t run and I swear it can smell me the most!” She had faced demons, orcs and fifth level mages countless times in her time playing Dungeons ’n’ Dragons for many years…as a board game. The closet thing she had ever faced to an ogre in her short life had been on the big screen during a marathon movie night.
 
-Chris paused for a moment. As adventurous as he had been growing up, nothing had prepared him for battle with the undead, not least a house shaped orge with breathe could make steel buckle. “I’ll keep shouting to draw its attention. 
+Chris paused for a moment. As adventurous as he had been growing up, nothing had prepared him for battle with the undead, not least a house-shaped ogre with breathe could make steel buckle. “I’ll keep shouting to draw its attention. 
 
 “..you go left! Chris, you go right. I’ll stand here. Press up against the ledge. “I have an idea…”
 
 The crushing footsteps were growing louder and more rapid. Nothing that large should be able to move that fast thought Charlie. As Emily went on way and Chris the other, Charlie saw two large boulders either side of the tunnels entrance. He reach behind and drew his climbing rope from his backpack. Tying it around one boulder he fashioned a mask shift trip rope and stepped it into the ground.
 
-Barely had he made it twice around the second boulder with the rope, when an almighty roar and the orge with it rampaged from the tunnel. He pulled the rope. Just as the orge lifted his right leg, it caught the rope. Charlie leaned back hard on it, to maximize the tension. The boulder shifted, just a little. It was not enough. It held it’s footing while the orge did not. It caught the rope with its foot, stumbled forwards clumsily, turning in the same motion to see Charlie beside the rock. It had such size and forward momentum, that it could not stop in time. It fell, breaking the flow of the water falling either side of the invisible expanse. Chris looked down to witness the confusion etched across the beast face as it slowly turned in to complete fear and panic.
+Barely had he made it twice around the second boulder with the rope, when an almighty roar and the ogre with it rampaged from the tunnel. He pulled the rope. Just as the ogre lifted his right leg, it caught the rope. Charlie leaned back hard on it, to maximize the tension. The boulder shifted, just a little. It was not enough. It held it’s footing while the ogre did not. It caught the rope with its foot, stumbled forwards clumsily, turning in the same motion to see Charlie beside the rock. It had such size and forward momentum, that it could not stop in time. It fell, breaking the flow of the water falling either side of the invisible expanse. Chris looked down to witness the confusion etched across the beast face as it slowly turned in to complete fear and panic.
 
-The orge turned as it bounced of what looked like nothing. It wheeled and spun, falling hysterically down into the abyss. It’s earsplitting shriek shrinking as quickly has the orge did. Then…nothing. Nothing but the continued rush of falling water and the pulse of beating pulses in their ear. The trio each drew a large breath, giggling at their success. 
+The ogre turned as it bounced of what looked like nothing. It wheeled and spun, falling hysterically down into the abyss. It’s earsplitting shriek shrinking as quickly has the ogre did. Then…nothing. Nothing but the continued rush of falling water and the pulse of beating pulses in their ear. The trio each drew a large breath, giggling at their success. 
 
 “We did it!” Chris yelled. Charlie nodded, bent over while he recovered from his exertion. 
 
@@ -192,24 +208,30 @@ The orge turned as it bounced of what looked like nothing. It wheeled and spun, 
 
 Enlightened by this idea, Charlie stepped forward, sliding his foot where the bridge should be. He applied pressure and there was resistance. He turned to gave a thumbs up to the others. With renewed vigor they splashed their way over the abyss, enjoying the refreshing mist of the waters on their parched lips. When the reached the far side they collapsed under the gate. 
 
-“Could this be the final challenge?” asked Emily. “I don’t think I can take much of of this”.
+“Could this be the final challenge?” asked Emily. “I don’t think I can take much more of this”.
 
-“Och, we can take on anything we put our minds to” Chris replied in a tone of confidence that was a stark contrast to the convert terror behind his eyes.
+“Och, we can take on anything we put our minds to!” Chris replied in a tone of confidence that was a stark contrast to the convert terror behind his eyes.
 
-Charlie stood up “…well…there is nothing like the present to find out”
+Charlie stood up “…well…there is no time like the present to find out!”
 
-With a nudge he twisted the lock and the gate squealed open to reveal the final challenge... the Crucible….
+A zombie had popped up behind Chris, and Charlie thought he should be able to easily dodge it. But Chris still hadn't taken the nonverbal hint. Emily was even following Charlie now, and still Chris just stood there, terror plastered all over his slightly pudgy face. The zombie was latched onto him now, and Emily had sped up to a full sprint.
+
+Charlie ran away from Chris's screams until they faded away into the distance completely, following Emily into a blind alley with a locked gate at the end of it. The lock was a combination lock, but Charlie already knew it. He'd been through this way before, and he'd already earned the POAP for solving the riddle. He entered the combination without a second thought. 
+
+With a nudge he twisted the lock and the gate squealed open to reveal the final challenge: the Crucible. He pushed the gate open and Emily stepped through, then he closed it behind them and scrambled the lock to put off any would-be pursuers.
 
 ---
 
 ## Ch4: Final Challenge - The Crucible
 
 
-Emily and Charlie, when confronted about the last challenge, go through the portal and wind up at the front of a giant cave - the Zombie Dragon’s lair.
+Emily and Charlie hear moans behind them for a ways as they pace through the cavern to reach a surprisingly bright portal at the other end. They step through the portal and wind up at the front of a giant cave - the Zombie Dragon’s lair.
 
-Zombie Chris is not far behind - following them with a stupor; never strong to begin with, but the connection they have as friends leaves him aimless, not sure whether he wants catharsis and overcoming, or the brains of his friends. Emily and Charlie may need to fend him off of the hunger - perhaps squirrel brains, or anything dead or rotten scraps lying around.
+Zombie Chris is not far behind - following them with a stupor; never strong to begin with, but the connection they have as friends leaves him aimless, not sure whether he wants catharsis and overcoming; or to feast upon the brains of his friends. Emily and Charlie may need to fend him off of the hunger - perhaps squirrel brains, or anything dead or rotten scraps lying around.
 
-The friends become more hot and humid as they delve deeper into the cave. Golds, rubies, sapphires pile up as plentiful as the skeletons of those who dared pass before. At the end, there is an opening, and an enormous sombre being sleeps.
+"He doesn't seem hungry," Emily says. The pair of eyes in his head still looks like Chris. And though he doesn't appear to be aggressive toward Charlie and Emily, another virtual avatar walking by is not so lucky. Chris quickly devours the hapless gamer's brains, and Charlie subdues the new zombie because it might not be as friendly as Chris. 
+
+The friends sweat and glisten as they delve deeper into the cave. Gold, rubies, and animated sapphires pile up as plentiful as the skeletons of those who dared pass this way before, and a winding path snakes through the piles of abandoned treasure-cum-graveyard. At the end, there is an opening, and an enormous sombre being sleeps.
 
 “Hello?” Charlie utters, and the beast is disturbed from his dormancy.
 
