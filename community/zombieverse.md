@@ -268,12 +268,13 @@ There wasn't even a word; not even a yes or no. There was only laughter, and lot
 Instead of running away as did years before, he understood that Natalie wasn't the only girl in the world. At least he dared to talk to her.
 
 
-(@MariaVerde & @Jim) "Emily is stuck on the dragon’s gaze, falls unconscious on the floor beside charlie. 
+(@MariaVerde & @Jim) "Emily is stuck on the dragon’s gaze, falls unconscious on the floor beside Charlie. 
 
 Emily’s Stepdad is banging on her door. 
 
 
 Charlie is talking to girls in memory that are bratty and superficial. Realises that Emily is a bookworm but what he really wants and needs for good love. He metaphorically wipes the cheap make up off the bratty girls, realises he is over it.
+
 Now he’s free from the trance. Sees Emily facing her fear; her father. Now he has the strength to tell Emily he loves her, and her hearing this in the dream of her father finds the strength to find safety and comfort in a guy who values and respects her. Now she stands up to the memory of her abusive father - now SHES free."
 
 
@@ -327,7 +328,7 @@ A lot of bravery was needed to make it to the end. But something inside them was
 "Here is the magic candy that will bring you back to real life. You can eat it and never return here, or you can choose to become zombies and wait every Halloween to scare and kill other Discord users who log in the metaverse," the dragon said.
 The three of them take it but stare at it for quite a while. The dragon smiles because he knows what they are thinking.
 "No, we're staying in the Zombieverse," they say in unison.
-At the same time Charlie and Emily begin to change into what will now be their new look. The three of them walk together into the Zombieverse, their now new home.
+At the same time Charlie and Emily begin to change into what will now be their new look. They are now zombies. The three of them walk together into the Zombieverse, their now new home. Another player approaches, and they all grin at each other. The player enters the room and the three friends attack.
 
 
 ## OUTLINE / TODOS / CONTRIBUTIONS
