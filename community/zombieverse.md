@@ -115,7 +115,7 @@ Charlie ran away. It was a totally unexpected asshole move.
 
 Emily loped ahead of him, unaware of what had taken place behind her.
 
-They blast out of the portal into a new foreign place.
+They blast out of the portal into a new foreign place, while the zombies arrived where Chris was. To everyone's surprise, he managed to dodge and arrived to the portal.    
 
 
 ---
@@ -125,7 +125,9 @@ They blast out of the portal into a new foreign place.
 (@MariaVerde)
 After finishing the first challenge, the three pass through the portal to a new city, but none of them know where the other is. They don't know if they are alive or dead. 
 They arrive in a cyberpunk city, many years ahead of its time. Technology overflows everywhere. That's when the three realize they are alive.
-They meet the governor, a guy eager for money and technology. He's the only human alive in that city; the others were turned into robots and Bitcoin mining machines.
+"Dude, what the... Why did you leave me alone with the zombies?", said Chris.
+Charlie was going to answer, but suddenly they see a big man coming.
+That's when they meet the governor, a guy eager for money and technology. He's the only human alive in that city; the others were turned into robots and Bitcoin mining machines.
 
 Here is your second challenge -he says with a wicked smile on his face- you will have to get the first Bitcoin ever created. You will have to navigate among the thousands of robots and all the hostile technology in the city. But it won't be easy; in that same search there are also the ASIC miners. Good luck, hahaha.
 
@@ -161,7 +163,7 @@ They stood aside just in time to see him crash through one hedge, and he did not
 Credit: @MariaVerde
 
 d0nim0#6749
-Courageous as he thought it sounded, in retrospect it dawned on Charlie that baiting a starving Orge, the size of a two story building, was beginning to feel like a bad idea. As they tumbled out of the far side of the portal, for a moment all was dark. It was cold. It was silent.
+Courageous as he thought it sounded, in retrospect it dawned on Charlie that baiting a starving Ogre, the size of a two story building, was beginning to feel like a bad idea. As they tumbled out of the far side of the portal, for a moment all was dark. It was cold. It was silent.
 
 “Ha! We made it! We are safe” cheered Chris. He picked himself up off Emily who had served as a cushion to his fall, with a sigh of relief.
 
@@ -177,22 +179,22 @@ They both turned in tandem to see Charlie’s face drain of blood.
 
 No sooner had the three stood and motioned back away from the portal, the hand swiped. It was close enough to snag Chris’s hoodie and enough motivation for him to leap backwards, almost knocking Charlie down this time.
 
-The room there were in was darkly, large and cavernous. A faint cool damp breeze passed across their cheeks. Charlie's trekking instincts kicked in fuelled by renewed adrenaline.
+The room they were in was darkly, large and cavernous. A faint cool damp breeze passed across their cheeks. Charlie's trekking instincts kicked in fuelled by renewed adrenaline.
 
 “Follow that breeze!” “It’s damp, which means there is water nearby”
 
 The three launched themselves forward along a narrow path. Their forward sight was reduced. They used their hands to feel their way along a wall. This wall became a tunnel. The tunnel was moist to the touch: sparkly as a distant ray of light bounced upon it.
 
-The sound of rushing water could be heard. The mouth of the tunnel gave way to bright light and bright blue sky. As they emerged, the halted abruptly. The was no more ground. The entrance ended where a sheer cliff face below began. In front of them was a what appeared to be a cascading water fall on either side of the path ahead…but there was no path. It was as if the water appeared from mid air down into a never ending distance. They could a shiny gate on the far side.
+The sound of rushing water could be heard. The mouth of the tunnel gave way to bright light and bright blue sky. As they emerged, the halted abruptly. The was no more ground. The entrance ended where a sheer cliff face below began. In front of them was a what appeared to be a cascading water fall on either side of the path ahead… but there was no path. It was as if the water appeared from mid air down into a never ending distance. They could see a shiny gate on the far side.
 
 “Holy….! There is nothing here! How are supposed to get to the other side?” Charlie mused.
 
-“Damned if I know” Emily replied “…but we’d best thing of something..fast!!” She wheeled around and gestured in the direction they had come from. A gut wrenching roar emanated from the tunnels mouth. seismic foot steps could be heard gathering pace. Time was short.
+“Damn if I know” Emily replied “…but we’d best think of something..fast!!” She wheeled around and gestured in the direction they had come from. A gut wrenching roar emanated from the tunnels mouth. Seismic foot steps could be heard gathering pace. Time was short.
 
 “SPLIT UP IN DIFFERENT DIRECTIONS!’ Charlie yelled. 
-“…and go where? Replied Emily. “ That ogre is looking for a toothpick. Track and field was never my strength, remember? I don’t run and I swear it can smell me the most!” She had faced demons, orcs and fifth level mages countless times in her time playing Dungeons ’n’ Dragons for many years…as a board game. The closet thing she had ever faced to an ogre in her short life had been on the big screen during a marathon movie night.
+“…and go where? Replied Emily. “ That ogre is looking for a toothpick. Track and field was never my strength, remember? I don’t run and I swear it can smell me the most!” She had faced demons, orcs and fifth level mages countless times in her time playing Dungeons ’n’ Dragons for many years… as a board game. The closest thing she had ever faced to an ogre in her short life had been on the big screen during a marathon movie night.
 
-Chris paused for a moment. As adventurous as he had been growing up, nothing had prepared him for battle with the undead, not least a house-shaped ogre with breathe could make steel buckle. “I’ll keep shouting to draw its attention. 
+Chris paused for a moment. As adventurous as he had been growing up, nothing had prepared him for battle with the undead, not least a house-shaped ogre with breathe could make steel buckle. “I’ll keep shouting to draw its attention." 
 
 “..you go left! Chris, you go right. I’ll stand here. Press up against the ledge. “I have an idea…”
 
@@ -200,7 +202,7 @@ The crushing footsteps were growing louder and more rapid. Nothing that large sh
 
 Barely had he made it twice around the second boulder with the rope, when an almighty roar and the ogre with it rampaged from the tunnel. He pulled the rope. Just as the ogre lifted his right leg, it caught the rope. Charlie leaned back hard on it, to maximize the tension. The boulder shifted, just a little. It was not enough. It held it’s footing while the ogre did not. It caught the rope with its foot, stumbled forwards clumsily, turning in the same motion to see Charlie beside the rock. It had such size and forward momentum, that it could not stop in time. It fell, breaking the flow of the water falling either side of the invisible expanse. Chris looked down to witness the confusion etched across the beast face as it slowly turned in to complete fear and panic.
 
-The ogre turned as it bounced of what looked like nothing. It wheeled and spun, falling hysterically down into the abyss. It’s earsplitting shriek shrinking as quickly has the ogre did. Then…nothing. Nothing but the continued rush of falling water and the pulse of beating pulses in their ear. The trio each drew a large breath, giggling at their success. 
+The ogre turned as it bounced of what looked like nothing. It wheeled and spun, falling hysterically down into the abyss. It’s earsplitting shriek shrinking as quickly has the ogre did. Then… nothing. Nothing but the continued rush of falling water and the pulse of beating pulses in their ear. The trio each drew a large breath, giggling at their success. 
 
 “We did it!” Chris yelled. Charlie nodded, bent over while he recovered from his exertion. 
 
@@ -212,7 +214,7 @@ Enlightened by this idea, Charlie stepped forward, sliding his foot where the br
 
 “Och, we can take on anything we put our minds to!” Chris replied in a tone of confidence that was a stark contrast to the convert terror behind his eyes.
 
-Charlie stood up “…well…there is no time like the present to find out!”
+Charlie stood up “…Well… There is no time like the present to find out!”
 
 A zombie had popped up behind Chris, and Charlie thought he should be able to easily dodge it. But Chris still hadn't taken the nonverbal hint. Emily was even following Charlie now, and still Chris just stood there, terror plastered all over his slightly pudgy face. The zombie was latched onto him now, and Emily had sped up to a full sprint.
 
@@ -227,7 +229,7 @@ With a nudge he twisted the lock and the gate squealed open to reveal the final 
 
 Emily and Charlie hear moans behind them for a ways as they pace through the cavern to reach a surprisingly bright portal at the other end. They step through the portal and wind up at the front of a giant cave - the Zombie Dragon’s lair.
 
-Zombie Chris is not far behind - following them with a stupor; never strong to begin with, but the connection they have as friends leaves him aimless, not sure whether he wants catharsis and overcoming; or to feast upon the brains of his friends. Emily and Charlie may need to fend him off of the hunger - perhaps squirrel brains, or anything dead or rotten scraps lying around.
+Zombie Chris is not far behind - following them with a stupor; never strong to begin with, not sure whether he wants catharsis and overcoming; or to feast upon the brains of them. Emily and Charlie may need to fend him off of the hunger - perhaps squirrel brains, or anything dead or rotten scraps lying around.
 
 "He doesn't seem hungry," Emily says. The pair of eyes in his head still looks like Chris. And though he doesn't appear to be aggressive toward Charlie and Emily, another virtual avatar walking by is not so lucky. Chris quickly devours the hapless gamer's brains, and Charlie subdues the new zombie because it might not be as friendly as Chris. 
 
@@ -267,17 +269,9 @@ Natalie was talking to her friends, when Charlie walks up, sweating and shaking.
 There wasn't even a word; not even a yes or no. There was only laughter, and lots of it. 
 Instead of running away as did years before, he understood that Natalie wasn't the only girl in the world. At least he dared to talk to her.
 
+(@Jim) At the same time, Emily is stuck on the dragon’s gaze, falls unconscious on the floor beside Charlie. 
 
-(@MariaVerde & @Jim) "Emily is stuck on the dragon’s gaze, falls unconscious on the floor beside Charlie. 
-
-Emily’s Stepdad is banging on her door. 
-
-
-Charlie is talking to girls in memory that are bratty and superficial. Realises that Emily is a bookworm but what he really wants and needs for good love. He metaphorically wipes the cheap make up off the bratty girls, realises he is over it.
-
-Now he’s free from the trance. Sees Emily facing her fear; her father. Now he has the strength to tell Emily he loves her, and her hearing this in the dream of her father finds the strength to find safety and comfort in a guy who values and respects her. Now she stands up to the memory of her abusive father - now SHES free."
-
-
+Emily’s Stepdad is banging on her door, but she is stranger now. "I hate you! You don't have control over me. I wish you were dead!!". Now she stands up to the memory of her abusive father - now SHES free."
 
 They approach the scenes of their dark memories differently, because they have become stronger people.
 
@@ -311,10 +305,7 @@ The children applaud Chris on.
 
 Of course, Chris would not say this as a 6 year old. But, Chris is not 6. The memory is the same; but Chris has changed.
 
-And everything goes dark. And then two faces appear. Emily, and Charlie, in an empty cave - no dragon in sight, and a tunnel to the exit strewn with blue daylight.
-
-Chris, through friendship of Emily and Charlie, help him overcome his greatest fears - he is and has always been the most afraid, but overcomes his fear like no-one else, and so is given the title of the highest heroism - overcoming his zombificiation, and earning some wonderful privilege! 
-
+And everything goes dark. And then two faces appear. Emily, and Charlie.
 
 
 ---
