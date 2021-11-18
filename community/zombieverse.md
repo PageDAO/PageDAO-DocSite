@@ -20,12 +20,19 @@ The PageDAO is providing 20k PAGE to fund the creation of this project to be pai
 - 10,000 PAGE > Writers
 - 10,000 PAGE > Artists / Illustrators
 
-#### How to contribute
-LIVE DEMO HERE! https://www.loom.com/share/7b78f948a93d438e85741cb22605e761
+:::tip
+
+Start contributing to this story now!
+
 - Scroll to bottom of this page, and click EDIT to be redirected to Github page
 - Make your edits (add/edit text or graphics) in a commit, confirm
 - Make a Pull Request (PR) to be added to the live version
 - A maintainer will then review your PR and approve OR request edits
+
+LIVE DEMO HERE! https://www.loom.com/share/7b78f948a93d438e85741cb22605e761
+
+
+:::
 
 #### Join the #zombieverse chat in Discord [here](https://bit.ly/wipp-discord)
 ![WIPP Discord](https://user-images.githubusercontent.com/84144261/138964916-5fc07506-fd9b-401b-994c-8fddb091af1f.png)

@@ -20,7 +20,7 @@ const FeatureList = [
     description: (
       <>
         Our $PAGE utility token serves as a currency within the PAGE Network to reward literary creatives and supporters for their contributions in the DAO.
-        <br></br><div class="button"><a href = "https://v2.info.uniswap.org/pair/0x9a25d21e204f10177738edb0c3345bd88478aaa2">Trade on Uniswap</a></div>
+        <br></br><div class="button"><a href = "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x60e683c6514edd5f758a55b6f393bebbafaa8d5e">Trade on Uniswap</a></div>
       </>
     ),
   },
