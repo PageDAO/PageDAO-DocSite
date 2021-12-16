@@ -9,7 +9,7 @@ const FeatureList = [
     description: (
       <>
         Our community is comprised of writers, readers and all creatives working to bring literature to blockchain. 
-        <br></br><div class="button"><a href = "https://discord.com/invite/MTWhQjnMVh">Join the discord</a></div>
+        <br></br><div class="button"><a href = "https://bit.ly/pagedao-discord">Join the discord</a></div>
       </>
     ),
     
