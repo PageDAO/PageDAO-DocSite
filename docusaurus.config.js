@@ -96,7 +96,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               
               {
                 label: 'Discord',
-                href: 'https://bit.ly/wipp-discord',
+                href: 'https://bit.ly/pagedao-discord',
               },
               {
                 label: 'Snapshot',
