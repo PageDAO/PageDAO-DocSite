@@ -53,11 +53,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             position: 'left',
             label: 'Docs',
           },
-          {
-            label: 'Community',
-            to: 'community/space-pirates',
-            activeBaseRegex: 'community/.*',
-          },
+          
           {
             label: 'Join the Guild',
             href: 'https://airtable.com/shrwskd6403xPAQSW',
