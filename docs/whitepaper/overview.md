@@ -15,7 +15,7 @@ Welcome to a revolution in literary technology.
 
 
 **The PAGE Founding Team**
-* T. Dylan Daniel, founder & leader.
+* T. Dylan Daniel, founder & leader. email: dylan@wippublishing.com
 * David Noya, founder & back-end.
 * Robbie Pollock, founder & smart contract dev.
 * Erick Stow, founder & artist.
