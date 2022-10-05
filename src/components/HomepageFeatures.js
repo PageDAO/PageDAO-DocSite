@@ -37,7 +37,8 @@ const FeatureList = [
         Our decentralized autonomous organization is self-governed by $PAGE and the Membership NFTs. We work collectively to bring Web 3.0 literature to life.
         <br></br><div class="button"><a href = "https://vote.pagedao.org/#/pagedao.eth">Snapshot Governance</a></div>
         <br></br><div class="button"><a href = "https://membership.nftbookbazaar.com">Mint Your Membership NFT</a></div>
-        
+        <br></br><div class="button"><a href = "https://opensea.io/collection/readme-books">ReadMe Books NFTBooks on Opensea</a></div>
+
       </>
     ),
   },
