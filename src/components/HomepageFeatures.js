@@ -19,8 +19,10 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_transfer_money.svg').default,
     description: (
       <>
-        Our $PAGE utility token serves as a currency within the PAGE Network to reward literary creatives and supporters for their contributions in the DAO.
+        Welcome to $PAGE, the writer's cryptocurrency. $PAGE grants govenance weight, access to DAO member perks, and can be used to pay for writing on our Dework Board.
         <br></br><div class="button"><a href = "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x60e683c6514edd5f758a55b6f393bebbafaa8d5e">Trade on Uniswap</a></div>
+        <br></br><div class="button"><a href = "https://app.dework.xyz/pagedao-web3-writers">PageDAO on Dework</a></div>
+
       </>
     ),
   },
