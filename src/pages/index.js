@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Our mission is to fuel creative literary pursuits in the metaverse and beyond.">
+      description="We are a DAO founded to empower writers, readers, and publishers using Web3 technology.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
