@@ -8,8 +8,10 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_Working.svg').default,
     description: (
       <>
-        Our community is comprised of writers, readers and all creatives working to bring literature to blockchain. 
-        <br></br><div class="button"><a href = "https://bit.ly/pagedao-discord">Join the discord</a></div>
+        Our community is comprised of writers, readers and all creatives working to bring permissionless decentralized literature to Web3. 
+        <br></br><div class="button"><a href = "https://bit.ly/pagedao-discord">Join PageDAO Discord</a></div>
+        <br></br><div class="button"><a href = "https://page.cent.co">Follow our Cent Page for email updates!</a></div>
+
       </>
     ),
     
@@ -31,8 +33,10 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_conference_speaker.svg').default,
     description: (
       <>
-        Our decentralized autonomous organization is self-governing and works collectively to further our vision to bring Web 3.0 literature to life.
+        Our decentralized autonomous organization is self-governed by $PAGE and the Membership NFTs. We work collectively to bring Web 3.0 literature to life.
         <br></br><div class="button"><a href = "https://vote.pagedao.org/#/pagedao.eth">Snapshot Governance</a></div>
+        <br></br><div class="button"><a href = "https://membership.nftbookbazaar.com">Mint Your Membership NFT</a></div>
+        
       </>
     ),
   },
