@@ -11,6 +11,7 @@ const FeatureList = [
         Our community is comprised of writers, readers and all creatives working to bring permissionless decentralized literature to Web3. 
         <br></br><div class="button"><a href = "https://bit.ly/pagedao-discord">Join PageDAO Discord</a></div>
         <br></br><div class="button"><a href = "https://page.cent.co">Follow our Cent Page for email updates!</a></div>
+        <br></br><div class="button"><a href = "https://mint.nftbookbazaar.com">Mint your book to the Polygon blockchain</a></div>
 
       </>
     ),
