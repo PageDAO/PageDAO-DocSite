@@ -96,5 +96,3 @@ Again, same as with Uniswap, if its the first time you are using this service yo
 **NOTE:** Staking requires you to provide the same amount of **BOTH Tokens**, in this case, ETH and PAGE.
 
 When the transactions are done, you can just wait and be rewarded! 
-
-TESTING some change
