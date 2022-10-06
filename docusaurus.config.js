@@ -87,35 +87,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'PageDAO: Salve for Authors',
-                to: '/docs/salve',
-              },
-              {
-                label: 'PageDAO First Anniversary',
-                to: 'https://ipfs.nftbookbazaar.com/ipfs/QmUQPhzfGcYjGeoJ1Dsz8bmDLWR6oDX1LmEFvvmdCd7JHF',
-              },
-              {
-                label: 'Web3 Social Media: PageDAO',
-                to: 'https://ipfs.nftbookbazaar.com/ipfs/QmXgXtcUUhc2XNp2jaiGNHfTr9XJKDR8hyBktFGvLfW87D',
-              },
-              {
-                label: 'First Annual Report',
-                to: 'https://ipfs.nftbookbazaar.com/ipfs/QmSe8k6mHBseLd8DQxDHH4CBuSXztgpyVi6NoWfxf2eUug',
-              },
-              {
-                label: 'Whitepaper',
-                to: '/docs/whitepaper',
-              },
 
-            ],
-          },
           {
             title: 'Community',
             items: [
+
               {
                 label: 'Snapshot Governance',
                 href: 'https://vote.pagedao.org/#/pagedao.eth',
@@ -125,9 +101,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 href: 'https://github.com/PageDAO/PageDAO-DocSite',
               },
               {
-                label: 'Join the PageDAO',
-                href: 'https://membership.nftbookbazaar.com',
+                label: 'Scholar and Scribe',
+                href: 'https://scholarandscribe.com/',
               },
+              {
+                label: 'NFTBook Store',
+                href: 'https://nftbookstore.com',
+              },
+
             ],
           },
           {
@@ -175,6 +156,24 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 label: 'Coingecko',
                 href: 'https://www.coingecko.com/en/coins/page',
               }
+            ],
+          },
+          {
+            title: 'Partners',
+            items: [
+
+              {
+                label: 'Meta-Builders',
+                href: 'https://meta-builders.com',
+              },
+              {
+                label: 'Cent',
+                href: 'https://cent.co',
+              },
+              {
+                label: 'Polygon',
+                href: 'https://www.polygon.technology/',
+              },
             ],
           },
         ],
