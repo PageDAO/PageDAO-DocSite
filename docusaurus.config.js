@@ -197,7 +197,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
               {
                 label: 'Polygon',
-                href: 'https://www.polygon.com/',
+                href: 'https://www.polygon.technology/',
               },
             ],
           },
