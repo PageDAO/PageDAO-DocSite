@@ -37,40 +37,7 @@ const FeatureList = [
       </>
     ),
     },
-    {
-      title: 'Meta-Builders',
-      Svg: require('../../static/img/undraw_certificate.svg').default,
-      description: (
-        <>
-          PageDAO is proud to introduce you to our partner, Meta-Builders, a DAO for Web3 Buidlers to grow the space and help Web2 keep up. Visit PageDAO on the Meta-Builders Dework Board.
-          <br></br><div class="button"><a href = "https://app.dework.xyz/meta-builders/page-dao-writers-gui">Meta-Builders Dework Board</a></div>
-  
-        </>
-      ),
-      },
-      {
-        title: 'Cent',
-        Svg: require('../../static/img/Cent_sign.svg').default,
-        description: (
-          <>
-            PageDAO was founded by Centians to help further the Cent mission of making it pay to be creative. Follow our Cent Page to get email updates, collectible NFTs, and more!
-            <br></br><div class="button"><a href = "https://page.cent.co">Follow us on Cent</a></div>
-    
-          </>
-        ),
-        },
-        {
-          title: 'Cryptoversal Books',
-          Svg: require('../../static/img/undraw_certificate.svg').default,
-          description: (
-            <>
-              PageDAO builds architecture that businesses like Cryptoversal Books use to attract writers and readers to the Web3 space. Visit the Cryptoversal Books NFTBook Store to see current NFTBooks!
-              <br></br><div class="button"><a href = "https://nftbookstore.xyz/">Explore the NFTBook Store</a></div>
-      
-            </>
-          ),
-        
-  },
+
 ];
 
 function Feature({Svg, title, description}) {
