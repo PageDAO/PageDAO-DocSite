@@ -55,8 +55,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           },
           
           {
-            label: 'Join the Guild',
-            href: 'https://airtable.com/shrwskd6403xPAQSW',
+            label: 'Become a PageDAO Member',
+            href: 'https://membership.nftbookbazaar.com',
             position: 'left',
           },
           
@@ -82,7 +82,22 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 label: 'Whitepaper',
                 to: '/docs/whitepaper/intro',
               },
-              
+              {
+                label: 'PageDAO: Salve for Authors in a Struggling Industry',
+                to: 'https://ipfs.nftbookbazaar.com/ipfs/QmVj9YvqFBicwbi66FfEXxcaoBPbKeTHi68jGyvbXFSknD',
+              },
+              {
+                label: 'PageDAO First Anniversary',
+                to: 'https://ipfs.nftbookbazaar.com/ipfs/QmUQPhzfGcYjGeoJ1Dsz8bmDLWR6oDX1LmEFvvmdCd7JHF',
+              },
+              {
+                label: 'Web3 Social Media: PageDAO Role',
+                to: 'https://ipfs.nftbookbazaar.com/ipfs/QmXgXtcUUhc2XNp2jaiGNHfTr9XJKDR8hyBktFGvLfW87D',
+              },
+              {
+                label: 'First Annual Report',
+                to: 'https://ipfs.nftbookbazaar.com/ipfs/QmSe8k6mHBseLd8DQxDHH4CBuSXztgpyVi6NoWfxf2eUug',
+              },
 
             ],
           },
