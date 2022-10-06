@@ -50,7 +50,7 @@ const FeatureList = [
       },
       {
         title: 'Cent',
-        Svg: require('../../static/img/cent_sign.svg').default,
+        Svg: require('../../static/img/undraw_work_in_progress_re_byic').default,
         description: (
           <>
             PageDAO was founded by Centians to help further the Cent mission of making it pay to be creative. Follow our Cent Page to get email updates, collectible NFTs, and more!
