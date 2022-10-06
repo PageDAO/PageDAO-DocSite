@@ -39,7 +39,7 @@ const FeatureList = [
     },
     {
       title: 'Meta-Builders',
-      Svg: require('../../static/img/undraw_books_re_8gea.svg').default,
+      Svg: require('../../static/img/undraw_certificate.svg').default,
       description: (
         <>
           PageDAO is proud to introduce you to our partner, Meta-Builders, a DAO for Web3 Buidlers to grow the space and help Web2 keep up. Visit PageDAO on the Meta-Builders Dework Board.
@@ -50,7 +50,7 @@ const FeatureList = [
       },
       {
         title: 'Cent',
-        Svg: require('../../static/img/undraw_new_ideas_re_asn4').default,
+        Svg: require('../../static/img/Cent_sign.svg').default,
         description: (
           <>
             PageDAO was founded by Centians to help further the Cent mission of making it pay to be creative. Follow our Cent Page to get email updates, collectible NFTs, and more!
