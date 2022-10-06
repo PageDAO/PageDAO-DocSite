@@ -104,18 +104,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           {
             title: 'Community',
             items: [
-              
               {
-                label: 'Discord',
-                href: 'https://bit.ly/pagedao-discord',
+                label: 'PageDAO ReadMe Books NFTBooks on OpenSea',
+                href: 'https://opensea.io/collection/readme-books',
               },
+
               {
                 label: 'Snapshot Governance',
                 href: 'https://vote.pagedao.org/#/pagedao.eth',
-              },
-              {
-                label: 'Discourse',
-                href: 'https://forum.pagedao.org/',
               },
               {
                 label: 'GitHub',
@@ -131,20 +127,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'Socials',
             items: [
               {
-                label: 'Cent Pages',
-                href: 'https://page.cent.co',
+                label: 'Discord',
+                href: 'https://bit.ly/pagedao-discord',
               },
               {
-                label: 'PageDAO ReadMe Books NFTBooks on OpenSea',
-                href: 'https://opensea.io/collection/readme-books',
+                label: 'Cent Pages',
+                href: 'https://page.cent.co',
               },
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/page_dao',
               },
               {
-                label: 'Medium',
-                href: 'https://medium.com/work-in-progress-publishing',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/company/pagedao/',
               },
               
             ],
