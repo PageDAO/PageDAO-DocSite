@@ -117,11 +117,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'Community',
             items: [
               {
-                label: 'PageDAO ReadMe Books NFTBooks on OpenSea',
-                href: 'https://opensea.io/collection/readme-books',
-              },
-
-              {
                 label: 'Snapshot Governance',
                 href: 'https://vote.pagedao.org/#/pagedao.eth',
               },
