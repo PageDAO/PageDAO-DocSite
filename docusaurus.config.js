@@ -80,7 +80,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'PageDAO: Salve for Authors',
-                to: '/docs/salve.md',
+                to: '/docs/salve',
               },
               {
                 label: 'PageDAO First Anniversary',
@@ -96,7 +96,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
               {
                 label: 'Whitepaper',
-                to: '/docs/whitepaper.md',
+                to: '/docs/whitepaper',
               },
 
             ],
