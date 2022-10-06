@@ -39,7 +39,7 @@ const FeatureList = [
     },
     {
       title: 'Meta-Builders',
-      Svg: require('../../static/img/undraw_books_re_8gea.svg').default,
+      Svg: require('../../static/img/undraw_certificate.svg').default,
       description: (
         <>
           PageDAO is proud to introduce you to our partner, Meta-Builders, a DAO for Web3 Buidlers to grow the space and help Web2 keep up. Visit PageDAO on the Meta-Builders Dework Board.
@@ -50,7 +50,7 @@ const FeatureList = [
       },
       {
         title: 'Cent',
-        Svg: require('../../static/img/undraw_work_in_progress_re_byic').default,
+        Svg: require('../../static/img/Cent_sign.svg').default,
         description: (
           <>
             PageDAO was founded by Centians to help further the Cent mission of making it pay to be creative. Follow our Cent Page to get email updates, collectible NFTs, and more!
@@ -61,11 +61,11 @@ const FeatureList = [
         },
         {
           title: 'Cryptoversal Books',
-          Svg: require('../../static/img/undraw_work_in_progress.svg').default,
+          Svg: require('../../static/img/undraw_certificate.svg').default,
           description: (
             <>
-              PageDAO builds architecture that businesses like Cryptoversal Books use to attract writers and readers to the Web3 space.
-              <br></br><div class="button"><a href = "https://cryptoversalbooks.io">Visit Cryptoversal Books</a></div>
+              PageDAO builds architecture that businesses like Cryptoversal Books use to attract writers and readers to the Web3 space. Visit the Cryptoversal Books NFTBook Store to see current NFTBooks!
+              <br></br><div class="button"><a href = "https://nftbookstore.xyz/">Explore the NFTBook Store</a></div>
       
             </>
           ),
