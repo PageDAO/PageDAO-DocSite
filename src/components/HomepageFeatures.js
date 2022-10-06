@@ -64,8 +64,8 @@ const FeatureList = [
           Svg: require('../../static/img/undraw_work_in_progress.svg').default,
           description: (
             <>
-              PageDAO builds architecture that businesses like Cryptoversal Books use to attract writers and readers to the Web3 space.
-              <br></br><div class="button"><a href = "https://cryptoversalbooks.io">Visit Cryptoversal Books</a></div>
+              PageDAO builds architecture that businesses like Cryptoversal Books use to attract writers and readers to the Web3 space. Visit the Cryptoversal Books NFTBook Store to see current NFTBooks!
+              <br></br><div class="button"><a href = "https://nftbookstore.xyz/">Explore the NFTBook Store</a></div>
       
             </>
           ),
