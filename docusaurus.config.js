@@ -83,7 +83,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 to: '/docs/whitepaper/intro',
               },
               {
-                label: 'PageDAO: Salve for Authors in a Struggling Industry',
+                label: 'PageDAO: Salve for Authors',
                 to: 'https://ipfs.nftbookbazaar.com/ipfs/QmVj9YvqFBicwbi66FfEXxcaoBPbKeTHi68jGyvbXFSknD',
               },
               {
@@ -91,7 +91,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 to: 'https://ipfs.nftbookbazaar.com/ipfs/QmUQPhzfGcYjGeoJ1Dsz8bmDLWR6oDX1LmEFvvmdCd7JHF',
               },
               {
-                label: 'Web3 Social Media: PageDAO Role',
+                label: 'Web3 Social Media: PageDAO',
                 to: 'https://ipfs.nftbookbazaar.com/ipfs/QmXgXtcUUhc2XNp2jaiGNHfTr9XJKDR8hyBktFGvLfW87D',
               },
               {
@@ -122,14 +122,22 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 href: 'https://github.com/PageDAO/PageDAO-DocSite',
               },
               {
-                label: 'Join the PageDAO Guild',
-                href: 'https://airtable.com/shrwskd6403xPAQSW',
+                label: 'Join the PageDAO',
+                href: 'https://membership.nftbookbazaar.com',
               },
             ],
           },
           {
-            title: 'Social',
+            title: 'Socials',
             items: [
+              {
+                label: 'Cent Pages',
+                href: 'https://page.cent.co',
+              },
+              {
+                label: 'PageDAO ReadMe Books NFTBooks on OpenSea',
+                href: 'https://opensea.io/collection/readme-books',
+              },
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/page_dao',
