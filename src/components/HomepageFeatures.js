@@ -53,8 +53,8 @@ const FeatureList = [
         Svg: require('../../static/img/undraw_conference_speaker.svg').default,
         description: (
           <>
-            PageDAO was founded by Centians to help further the Cent mission of making it pay to be creative.
-            <br></br><div class="button"><a href = "https://cent.co">Join Cent</a></div>
+            PageDAO was founded by Centians to help further the Cent mission of making it pay to be creative. Follow our Cent Page to get email updates, collectible NFTs, and more!
+            <br></br><div class="button"><a href = "https://page.cent.co">Follow us on Cent</a></div>
     
           </>
         ),
