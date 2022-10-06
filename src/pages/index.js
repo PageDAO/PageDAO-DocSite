@@ -16,8 +16,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs">
-            Read The Docs
+            to="https://membership.nftbookbazaar.com">
+            Get Your Official PageDAO Membership NFT!
           </Link>
         </div>
       </div>
