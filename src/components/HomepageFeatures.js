@@ -42,8 +42,8 @@ const FeatureList = [
       Svg: require('../../static/img/undraw_conference_speaker.svg').default,
       description: (
         <>
-          PageDAO is proud to introduce you to our partner, Meta-Builders, a DAO for Web3 Buidlers to grow the space and help Web2 keep up.
-          <br></br><div class="button"><a href = "https://meta-builders.com">Visit Meta-Builders</a></div>
+          PageDAO is proud to introduce you to our partner, Meta-Builders, a DAO for Web3 Buidlers to grow the space and help Web2 keep up. Visit PageDAO on the Meta-Builders Dework Board.
+          <br></br><div class="button"><a href = "https://app.dework.xyz/meta-builders/page-dao-writers-gui">Meta-Builders Dework Board</a></div>
   
         </>
       ),
@@ -65,7 +65,7 @@ const FeatureList = [
           description: (
             <>
               PageDAO builds architecture that businesses like Cryptoversal Books use to attract writers and readers to the Web3 space.
-              <br></br><div class="button"><a href = "https://cryptoversalbooks.io">Cryptoversal Books</a></div>
+              <br></br><div class="button"><a href = "https://cryptoversalbooks.io">Visit Cryptoversal Books</a></div>
       
             </>
           ),
