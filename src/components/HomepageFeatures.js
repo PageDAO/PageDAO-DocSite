@@ -36,7 +36,7 @@ const FeatureList = [
 
       </>
     ),
-
+    },
     {
       title: 'Meta-Builders',
       Svg: require('../../static/img/undraw_conference_speaker.svg').default,
@@ -47,7 +47,7 @@ const FeatureList = [
   
         </>
       ),
-
+      },
       {
         title: 'Cent',
         Svg: require('../../static/img/undraw_conference_speaker.svg').default,
@@ -58,7 +58,7 @@ const FeatureList = [
     
           </>
         ),
-
+        },
         {
           title: 'Cryptoversal Books',
           Svg: require('../../static/img/undraw_conference_speaker.svg').default,
@@ -69,6 +69,7 @@ const FeatureList = [
       
             </>
           ),
+        
   },
 ];
 
