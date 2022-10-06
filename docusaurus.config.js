@@ -126,9 +126,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 href: 'https://github.com/PageDAO/PageDAO-DocSite',
               },
               {
-                label: 'Join the PageDAO',
-                href: 'https://membership.nftbookbazaar.com',
+                label: 'Scholar and Scribe',
+                href: 'https://scholarandscribe.com/',
               },
+              {
+                label: 'NFTBook Store',
+                href: 'https://nftbookstore.com',
+              },
+
             ],
           },
           {
