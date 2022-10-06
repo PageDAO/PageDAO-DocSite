@@ -61,8 +61,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           },
           
           {
-            href: 'https://forum.pagedao.org',
-            label: 'Forum',
+            href: 'https://snapshot.org/#/pagedao.eth',
+            label: 'Governance',
             position: 'right',
           },
           {
@@ -110,7 +110,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 href: 'https://bit.ly/pagedao-discord',
               },
               {
-                label: 'Snapshot',
+                label: 'Snapshot Governance',
                 href: 'https://vote.pagedao.org/#/pagedao.eth',
               },
               {
