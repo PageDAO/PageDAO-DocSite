@@ -79,12 +79,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'Docs',
             items: [
               {
-                label: 'Whitepaper',
-                to: '/docs/whitepaper/intro',
-              },
-              {
                 label: 'PageDAO: Salve for Authors',
-                to: 'https://ipfs.nftbookbazaar.com/ipfs/QmVj9YvqFBicwbi66FfEXxcaoBPbKeTHi68jGyvbXFSknD',
+                to: '/docs/Salve for Authors.md',
               },
               {
                 label: 'PageDAO First Anniversary',
@@ -97,6 +93,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               {
                 label: 'First Annual Report',
                 to: 'https://ipfs.nftbookbazaar.com/ipfs/QmSe8k6mHBseLd8DQxDHH4CBuSXztgpyVi6NoWfxf2eUug',
+              },
+              {
+                label: 'Whitepaper',
+                to: '/docs/whitepaper/',
               },
 
             ],
