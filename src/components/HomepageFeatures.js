@@ -61,7 +61,7 @@ const FeatureList = [
         },
         {
           title: 'Cryptoversal Books',
-          Svg: require('../../static/img/undraw_work_in_progress.svg').default,
+          Svg: require('../../static/img/undraw_certificate.svg').default,
           description: (
             <>
               PageDAO builds architecture that businesses like Cryptoversal Books use to attract writers and readers to the Web3 space. Visit the Cryptoversal Books NFTBook Store to see current NFTBooks!
