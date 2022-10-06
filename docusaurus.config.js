@@ -49,7 +49,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         items: [
           {
             type: 'doc',
-            docId: 'whitepaper',
+            docId: 'faq',
             position: 'left',
             label: 'Project Docs',
           },
@@ -60,6 +60,18 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             position: 'left',
           },
           
+          {
+            label: 'Mint an NFTBook',
+            href: 'https://mint.nftbookbazaar.com',
+            position: 'left',
+          },
+          
+          {
+            label: 'ReadMe Books on OpenSea',
+            href: 'https://opensea.io/collection/readme-books',
+            position: 'right',
+          },
+
           {
             href: 'https://snapshot.org/#/pagedao.eth',
             label: 'Governance',
