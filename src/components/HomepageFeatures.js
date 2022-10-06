@@ -36,6 +36,39 @@ const FeatureList = [
 
       </>
     ),
+
+    {
+      title: 'Meta-Builders',
+      Svg: require('../../static/img/undraw_conference_speaker.svg').default,
+      description: (
+        <>
+          PageDAO is proud to introduce you to our partner, Meta-Builders, a DAO for Web3 Buidlers to grow the space and help Web2 keep up.
+          <br></br><div class="button"><a href = "https://meta-builders.com">Visit Meta-Builders</a></div>
+  
+        </>
+      ),
+
+      {
+        title: 'Cent',
+        Svg: require('../../static/img/undraw_conference_speaker.svg').default,
+        description: (
+          <>
+            PageDAO was founded by Centians to help further the Cent mission of making it pay to be creative.
+            <br></br><div class="button"><a href = "https://cent.co">Join Cent</a></div>
+    
+          </>
+        ),
+
+        {
+          title: 'Cryptoversal Books',
+          Svg: require('../../static/img/undraw_conference_speaker.svg').default,
+          description: (
+            <>
+              PageDAO builds architecture that businesses like Cryptoversal Books use to attract writers and readers to the Web3 space.
+              <br></br><div class="button"><a href = "https://cryptoversalbooks.io">Cryptoversal Books</a></div>
+      
+            </>
+          ),
   },
 ];
 
