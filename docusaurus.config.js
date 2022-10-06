@@ -102,7 +102,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
               {
                 label: 'Scholar and Scribe',
-                href: 'https://scholarandscribe.com/',
+                href: 'https://peakd.com/c/hive-199275/created',
               },
               {
                 label: 'NFTBook Store',
