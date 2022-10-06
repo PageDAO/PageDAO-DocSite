@@ -49,7 +49,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         items: [
           {
             type: 'doc',
-            docId: 'whitepaper',
+            docId: 'whitepaper.md',
             position: 'left',
             label: 'Docs',
           },
@@ -80,7 +80,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'PageDAO: Salve for Authors',
-                to: '/docs/Salve for Authors.md',
+                to: '/docs/salve.md',
               },
               {
                 label: 'PageDAO First Anniversary',
@@ -96,7 +96,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
               {
                 label: 'Whitepaper',
-                to: '/docs/whitepaper/',
+                to: '/docs/whitepaper.md',
               },
 
             ],
