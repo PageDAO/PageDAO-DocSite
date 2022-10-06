@@ -116,6 +116,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           {
             title: 'Community',
             items: [
+
               {
                 label: 'Snapshot Governance',
                 href: 'https://vote.pagedao.org/#/pagedao.eth',
@@ -175,6 +176,24 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 label: 'Coingecko',
                 href: 'https://www.coingecko.com/en/coins/page',
               }
+            ],
+          },
+          {
+            title: 'Partners',
+            items: [
+
+              {
+                label: 'Meta-Builders',
+                href: 'https://meta-builders.com',
+              },
+              {
+                label: 'Cent',
+                href: 'https://cent.co',
+              },
+              {
+                label: 'Polygon',
+                href: 'https://www.polygon.com/',
+              },
             ],
           },
         ],
