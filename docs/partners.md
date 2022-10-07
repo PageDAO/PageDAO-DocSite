@@ -17,8 +17,8 @@ PageDAO Partners are organizations throughout the Metaverse who share the goals 
 
 8. TokenSmart. https://discord.gg/nft
 
-9. Panvala. https://www.panvala.com/members/pagedao
-    <br> Panvala is a funding partner for PageDAO. To participate in Panvala community funding campaigns, please visit Panvala's Stamps page https://www.panvala.com/stamps and select a Stamp to earn. Do what the description asks, and receive your stamp. Then name PageDAO as the community to benefit from your participation and Panvala will help fund PageDAO activities and growth, to the tune of the amount of stamps earned by PageDAO community members who make this selection. </br>
+9. Panvala. <br> https://www.panvala.com/members/pagedao
+    <br> <br> Panvala is a funding partner for PageDAO. To participate in Panvala community funding campaigns, please visit Panvala's Stamps page https://www.panvala.com/stamps and select a Stamp to earn. Do what the description asks, and receive your stamp. Then name PageDAO as the community to benefit from your participation and Panvala will help fund PageDAO activities and growth, to the tune of the amount of stamps earned by PageDAO community members who make this selection.
 
 
 There are many others who hold PAGE from the DAO drop or have bought in with the intention of setting up partnerships yet to come. Times are exciting, reach out to dylan@wippublishing.com to learn more about partnerships with PageDAO today!
