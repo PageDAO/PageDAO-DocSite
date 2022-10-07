@@ -20,5 +20,6 @@ PageDAO Partners are organizations throughout the Metaverse who share the goals 
 9. Panvala. <br> https://www.panvala.com/members/pagedao
     <br> <br> Panvala is a funding partner for PageDAO. To participate in Panvala community funding campaigns, please visit Panvala's Stamps page https://www.panvala.com/stamps and select a Stamp to earn. Do what the description asks, and receive your stamp. Then name PageDAO as the community to benefit from your participation and Panvala will help fund PageDAO activities and growth, to the tune of the amount of stamps earned by PageDAO community members who make this selection.
 
+10. Vagobond Magazine <br> https://www.vagobond.com/ <br> <br> Vagobond Magazine is a multimedia Web3 Community and Publication for creatives https://discord.gg/k58hz4fe5K . In particular Vagobond Magazine is focused on the ongoing development of Web3 as both a technology and a community as well as the evolution of storytelling through generative NFTs, immersive Web3 projects, and forward thinking use-cases and iterations of concepts like book, magazine, and even reading itself.
 
 There are many others who hold PAGE from the DAO drop or have bought in with the intention of setting up partnerships yet to come. Times are exciting, reach out to dylan@wippublishing.com to learn more about partnerships with PageDAO today!
