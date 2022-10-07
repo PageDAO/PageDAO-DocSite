@@ -60,7 +60,7 @@ Buying is not the only way to get **PAGE**, you can go to our [Discord](https://
 
 ## What can I do with my PAGE?
 
-The most popular use of $PAGE is to pay bounties on [Dework]([url](https://app.dework.xyz/pagedao-web3-writers)) for writing. 
+The most popular use of $PAGE is to pay bounties on [Dework] for writing. 
 
 Page tokens grant weight to governance votes, though Snapshot is currently operated on a one-person, one-vote basis. 
 
@@ -68,7 +68,7 @@ Page grants access (100 or more) to the PageDAO private discord channels.
 
 1000 Page tokens can be exchanged for a Membership NFT. (100 Memberships only!)
 
-If you LP on Uniswap, you can [stake your LP tokens into our LP Mining pool to earn rewards in Page]([url](https://app.tosdis.finance/poolView?chain_id=1&farmingpool=0xafee6e3a2f029d87456d500119603d8a1f600272)).
+If you LP on Uniswap, you can [stake your LP tokens into our LP Mining pool to earn rewards in Page].
 
 
 ## How do I stake my PAGE?
