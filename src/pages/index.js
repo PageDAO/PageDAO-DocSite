@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="https://membership.nftbookbazaar.com">
-            Get Your Official PageDAO Membership NFT!
+            Official PageDAO Membership
           </Link>
         </div>
       </div>
