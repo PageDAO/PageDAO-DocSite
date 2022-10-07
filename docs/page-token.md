@@ -1,4 +1,4 @@
-Page Token
+## Page Token
 
 The Page Token was deployed on July 28, 2021 with an initial supply cap at 10M tokens. 
 
@@ -6,7 +6,7 @@ To protect investors and DAO members who were to earn/be granted tokens, the sup
 
 3M were locked into TosDis for LP Mining Incentivization: https://app.tosdis.finance/poolView?chain_id=1&farmingpool=0xafee6e3a2f029d87456d500119603d8a1f600272
 
-3M were locked into a Unicrypt smart contract for Development/Strategic Reserve purposes, managed by WIP Publishing, INC. Lock ID 419.  <img width="585" alt="Screen Shot 2022-10-07 at 3 15 27 AM" src="https://user-images.githubusercontent.com/40326908/194506268-a6e1c95e-02af-4d06-a238-cd2918dcdfcf.png">
+3M were locked into a Unicrypt smart contract for Development/Strategic Reserve purposes, managed by WIP Publishing, INC. Lock ID 419.  
 
 500k were locked into a Unicrypt smart contract for the Founders of the Project. They finish vesting and will be distributed in January, 2023. 
 
