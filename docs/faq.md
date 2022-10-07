@@ -71,11 +71,11 @@ Page grants access (100 or more) to the PageDAO private discord channels.
 If you LP on Uniswap, you can [stake your LP tokens into our LP Mining pool to earn rewards in Page].
 
 
-## How do I stake my PAGE?
+## How do I stake my PAGE LP Tokens once I LP on Uniswap?
 
 - ### Step 1: Go to Tosdis.Finance
 
-Tosdis is the platform that is currently giving PAGE DAO the Staking as a Service. So as with uniswap, go to their main [site](https://tosdis.finance/) and launch de app. Or to be quicker, you can follow this [link](https://app.tosdis.finance/poolView?pool=0xafee6e3a2f029d87456d500119603d8a1f600272) to go to our staking pool directly
+Follow this [link](https://app.tosdis.finance/poolView?pool=0xafee6e3a2f029d87456d500119603d8a1f600272) to go to our staking pool directly
 
 - ### Step 2: Stake it!
 
@@ -93,7 +93,7 @@ When the transactions are done, you can just wait and be rewarded!
 
 
 
-**How Do I Mint an NFTBook?**
+## **How Do I Mint an NFTBook?**
 
 Go to https://membership.nftbookbazaar.com to get a Membership NFT if you don't already have one.
 
