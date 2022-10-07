@@ -56,7 +56,11 @@ Again, as in the Metamask case, **PAGE** will not be listed on the dropdown menu
 After the desired amount is entered, you can just click on **"Swap"** Button and the proccess will begin. Usually, is just 1 transaction, but if it is the first time you swap that token, it will ask you first for a token aproval, and then for the swap. **So it will be a total of 2 transactions on Ethereum to pay gas for**.
 
 ## How to earn PAGE
-Buying is not the only way to get **PAGE**, you can go to our [Discord](https://discord.gg/zzuTJh2xQn) become part of our **NFTBooks** Lovers comunity, be active, and interact with all the cool stuff that happens there. We Have several events a week and activities you can earn some PAGE for participating into! and we have also bounties, wich are little tasks to help the project/community that you will be rewarded to the first person doing them.
+You can earn $PAGE in a variety of ways, including Dework boards by PageDAO and Meta-Builders that offer writers the opportunity to write for cryptocurrency. 
+
+The PageDAO section of the Meta-Builders Dework board is here: https://app.dework.xyz/meta-builders/page-dao-writers-gui
+
+And the PageDAO has its own independent Dework board here: https://app.dework.xyz/pagedao-web3-writers
 
 ## What can I do with my PAGE?
 
