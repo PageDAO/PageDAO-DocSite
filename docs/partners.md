@@ -16,7 +16,9 @@ PageDAO Partners are organizations throughout the Metaverse who share the goals 
 
 ### 6. SitkaWorld. https://sitkaworld.com
 
-### 7. NiftyLit. https://niftylit.io
+### 7. NiftyLit. 
+https://niftylit.io
+NiftyLit, LLC is a literary magazine and publishing company publishing curated, short-form literary works paired with bespoke illustrations as unlockable-content literary NFTs. Leveraging blockchain technology, NiftyLit’s mission is to create a more equitable publishing ecosystem, one in which artists and writers can earn meaningful compensation for their work. The magazine publishes issues monthly and anthologies quarterly, and the company is set to publish its first full length works in early 2023. Read the NiftyLit Pledge, crafted by the NiftyLit team, at https://niftylit.io/pledge/. 
 
 ### 8. TokenSmart. https://discord.gg/nft 
 
