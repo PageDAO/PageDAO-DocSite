@@ -46,18 +46,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           alt: 'Page Logo',
           src: 'img/logo.svg',
         },
-        items: [
+        items: [       
           {
-            type: 'doc',
-            docId: 'faq',
-            position: 'left',
-            label: 'Project Docs',
-          },
-          
-          {
-            label: 'Become a PageDAO Member',
+            label: 'PageDAO Membership',
             href: 'https://membership.nftbookbazaar.com',
-            position: 'left',
+            position: 'right',
           },
           
           {
@@ -69,7 +62,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           {
             label: 'ReadMe Books on OpenSea',
             href: 'https://opensea.io/collection/readme-books',
-            position: 'right',
+            position: 'left',
           },
 
           {
@@ -80,7 +73,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           {
           href: 'https://github.com/PageDAO/PageDAO-DocSite',
           label: 'GitHub',
-          position: 'right',
+          position: 'left',
+          },
+          {
+            type: 'doc',
+            docId: 'faq',
+            position: 'right',
+            label: 'Project Docs',
           },
         ],
       },
@@ -102,7 +101,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
 
               {
-                label: 'Metaverse',
+                label: 'PageDAO in the Monaverse',
                 href: 'https://monaverse.com/spaces/pagedao-library-of-alexandria?invite=T0Rjd05UWTVOUTp1cy8q',
               },
               {
