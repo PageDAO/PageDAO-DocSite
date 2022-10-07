@@ -100,6 +100,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 label: 'GitHub',
                 href: 'https://github.com/PageDAO/PageDAO-DocSite',
               },
+
+              {
+                label: 'Metaverse',
+                href: 'https://monaverse.com/spaces/pagedao-library-of-alexandria?invite=T0Rjd05UWTVOUTp1cy8q',
+              },
               {
                 label: 'Scholar and Scribe',
                 href: 'https://peakd.com/c/hive-199275/created',
