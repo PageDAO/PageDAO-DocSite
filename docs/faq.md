@@ -5,14 +5,6 @@ title: FAQ
 
 # FAQ
 
-## How do I get PAGE?
-
-To be able to hold any amount of PAGE, ETH or any other crypto currrency, this is, currencies based on Ethereum Blockchain, you will need a cryptowallet, wich allows you to interact with the Blockchain and all its Decentralized Applications (Dapps), like for example, **Metamask**.
-
-## What is Metamask?
-
-Metamask is a **free crypto wallet** that is used as a browser extension. Basically it **acts as a "bridge"** between your computer, conventional websites and the blockchain (in this case Ethereum). It can be used with **Chrome, Firefox, Edge and Brave** and there are apps for **Android** and **iOS**.
-
 ## How to create a new crypto wallet with Metamask?
 
 - ### Step 1: Download and install the app add-on
@@ -23,10 +15,10 @@ The first thing you have to do is **install the add-on in your Chrome browser** 
 - ### Step 2: Follow the help wizard to create your wallet
 To start creating an account, simply hit the fox icon in your browser and select **"Start Now"** . It will ask you if you want to **import a wallet or create a new one** . Click on create a new one. It will generate a unique Seed phrase and prompt you to write a password that should be different to the ones you have on other sites such as email or Facebook to ensure good security. 
 
-- ### Step 3: We write down the seed phrase
+- ### Step 3: Write down the seed phrase
 The **seed phrase** is **the most important part** of the entire process of creating an account in Metamask. In fact, it is not by chance that Metamask does a double check to see that we have it correctly writed down. 
 
-The seed phrase is the key you will use to **restore access to our wallet** on any device. With this phrase, **anyone can acces and use your founds**. It is **very important to** store this phrase in safely, either on a physical format and hide it so only you know where it is, use a Hardware wallet like Trezor or Ledger, or something like that. **Never  ever** **store this security phrase on a digital medium with internet access and no security** .
+The seed phrase is the key you will use to **restore access to our wallet** on any device. With this phrase, **anyone can access and use your funds**. It is **very important to** store this phrase in safely, either on a physical format and hide it so only you know where it is, use a Hardware wallet like Trezor or Ledger, or something like that. **Never  ever** **store this security phrase on a digital medium with internet access and no security** .
 
 Once we have written it down and thought of a **safe place** to save it, we will double check in Metamask by completing the seed phrase in the right order.
 
@@ -68,13 +60,15 @@ Buying is not the only way to get **PAGE**, you can go to our [Discord](https://
 
 ## What can I do with my PAGE?
 
-In the future? A lot of stuff, governing the DAO, buying books, and a lot more! Right now, what you can do is participating on the staking program, and keep earning those juicy PAGE!
+The most popular use of $PAGE is to pay bounties on [Dework]([url](https://app.dework.xyz/pagedao-web3-writers)) for writing. 
 
-### But, what is staking?
+Page tokens grant weight to governance votes, though Snapshot is currently operated on a one-person, one-vote basis. 
 
-Staking is a way to put your crypto to work and earn rewards on it. Staking cryptocurrencies comes in 2 forms **a process that involves committing your crypto assets to support a blockchain network and confirm transactions, on a Proof of Stake Blockchain** or **a process that involves committing your crypto assets to support a crypto project and be rewarded by doing it**. Page DAO is the second form.
+Page grants access (100 or more) to the PageDAO private discord channels. 
 
-We have reserved some PAGE to reward people that decide, not only to buy our token, but to **block and hold their assets**. This is proof that they are trusting on the project, and we can relatively discard that people is just gonna "dump" our Token into the market. For that, we will reward those individuals with more PAGE.
+1000 Page tokens can be exchanged for a Membership NFT. (100 Memberships only!)
+
+If you LP on Uniswap, you can [stake your LP tokens into our LP Mining pool to earn rewards in Page]([url](https://app.tosdis.finance/poolView?chain_id=1&farmingpool=0xafee6e3a2f029d87456d500119603d8a1f600272)).
 
 
 ## How do I stake my PAGE?
@@ -96,3 +90,11 @@ Again, same as with Uniswap, if its the first time you are using this service yo
 **NOTE:** Staking requires you to provide the same amount of **BOTH Tokens**, in this case, ETH and PAGE.
 
 When the transactions are done, you can just wait and be rewarded! 
+
+
+
+**How Do I Mint an NFTBook?**
+
+Go to https://membership.nftbookbazaar.com to get a Membership NFT if you don't already have one.
+
+Open https://mint.nftbookbazaar.com and connect your wallet to the Polygon network. Follow the steps to upload your book's PDF and art, then visit your wallet address on OpenSea to list them on the market if you like.
