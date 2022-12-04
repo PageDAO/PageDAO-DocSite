@@ -22,7 +22,6 @@ const FeatureList = [
       <>
         Welcome to $PAGE, the writer's cryptocurrency. 
       <br></br> $PAGE grants govenance weight, access to DAO member perks, and can be used to buy custom content on our <a href = "https://app.dework.xyz/pagedao-web3-writers"> Community Dework Board. </a> 
-      <br></br> Authentic $PAGE on Ethereum Mainnet will always have 0x60e683c6514edd5f758a55b6f393bebbafaa8d5e as contract address. <a href = "https://www.dextools.io/app/en/ether/pair-explorer/0x9a25d21e204f10177738edb0c3345bd88478aaa2"> View on Dextools </a> 
         <br></br><div class="button"><a href = "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x60e683c6514edd5f758a55b6f393bebbafaa8d5e">Trade Page on Uniswap</a></div>
 
 
