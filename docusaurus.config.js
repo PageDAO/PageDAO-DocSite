@@ -138,8 +138,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
           {
-            title: 'Trading',
+            title: 'Page Token',
             items: [
+              {
+                label: 'Page Contract Address: 0x60e683c6514edd5f758a55b6f393bebbafaa8d5e',
+                href: 'https://etherscan.io/address/0x60e683c6514edd5f758a55b6f393bebbafaa8d5e',
+              }
+              
               {
                 label: 'Swap on Uniswap',
                 href: 'https://bit.ly/swap-page',
