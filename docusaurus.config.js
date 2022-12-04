@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
   title: 'PageDAO: Web3 Publishing Community',
-  tagline: 'The future of publishing will involve digital collectibles and Web3 technologies. PageDAO is an organization founded by writers to develop new, community-owned tools for writers in the age of blockchain technologies.',
+  tagline: 'The future of publishing will involve digital collectibles and Web3 technologies. PageDAO is an organization founded by writers to develop new, community-owned publishing tools in the age of blockchain technologies.',
   url: 'https://pagedao.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
