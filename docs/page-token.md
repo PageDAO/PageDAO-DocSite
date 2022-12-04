@@ -1,4 +1,10 @@
-## Page Token
+# Governance Efforts: Update Page Tokenomics to suit the DAO's needs moving forward.
+
+View updated Page tokenomics in google drive here:
+
+https://docs.google.com/document/d/1M5-MguZnH7KB1TluETgwMzWC7pwoPWLupP3F-grYaJo/edit?usp=sharing
+
+## A Brief History of the Page Token
 
 The Page Token was deployed on July 28, 2021 with an initial supply cap at 10M tokens. 
 
