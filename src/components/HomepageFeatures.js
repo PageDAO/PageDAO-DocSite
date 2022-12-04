@@ -4,12 +4,12 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Metaverse Writers Guild',
+    title: 'Metaverse Publishing DAO',
     Svg: require('../../static/img/undraw_Working.svg').default,
     description: (
       <>
-        Our community is comprised of writers, readers and all creatives working to bring permissionless decentralized literature to Web3. Join us to bring Web3 Publishing to life, the way YOU see it! 
-        <br></br><div class="button"><a href = "https://app.dework.xyz/pagedao-web3-writers">PageDAO on Dework</a></div>
+        Our PageDAO community is jointly owned by its membership comprised of writers, readers and lovers of literature. We are working to bring permissionless decentralized publishing to Web3. Join us to bring Web3 Publishing to life, the way YOU see it! 
+        <br></br><div class="button"><a href = "https://mint.nftbookbazaar.com">Mint your written work as an NFT today.</a></div>
       </>
     ),
     
