@@ -31,7 +31,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_conference_speaker.svg').default,
     description: (
       <>
-        Our decentralized autonomous organization is self-governed by $PAGE and the Membership NFTs. We work collectively to bring Web 3.0 literature to life.
+        Our decentralized autonomous organization is self-governed by $PAGE and the Membership NFTs. We work collectively to put writers and developers in touch with each other about what really matters, and then we build together.
         <br></br><div class="button"><a href = "https://membership.nftbookbazaar.com">Mint Your Membership NFT</a></div>
 
       </>
