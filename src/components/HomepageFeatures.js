@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_Working.svg').default,
     description: (
       <>
-        Our community is comprised of writers, readers and all creatives working to bring permissionless decentralized literature to Web3. 
+        Our community is comprised of writers, readers and all creatives working to bring permissionless decentralized literature to Web3. Join us to bring Web3 Publishing to life, the way YOU see it! 
         <br></br><div class="button"><a href = "https://app.dework.xyz/pagedao-web3-writers">PageDAO on Dework</a></div>
       </>
     ),
@@ -19,8 +19,8 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_transfer_money.svg').default,
     description: (
       <>
-        Welcome to $PAGE, the writer's cryptocurrency. $PAGE grants govenance weight, access to DAO member perks, and can be used to pay for writing on our Dework Board.
-        <br></br><div class="button"><a href = "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x60e683c6514edd5f758a55b6f393bebbafaa8d5e">Trade on Uniswap</a></div>
+        Welcome to $PAGE, the writer's cryptocurrency. $PAGE grants govenance weight, access to DAO member perks, and can be used to pay for writing on our <a href = "https://app.dework.xyz/pagedao-web3-writers"> Community Dework Board </a>. 
+        <br></br><div class="button"><a href = "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x60e683c6514edd5f758a55b6f393bebbafaa8d5e">Trade Page on Uniswap</a></div>
 
 
       </>
