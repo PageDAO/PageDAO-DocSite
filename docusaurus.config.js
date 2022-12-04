@@ -141,7 +141,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'Page Token',
             items: [
               {
-                label: 'Page Contract Address: 0x60e683c6514edd5f758a55b6f393bebbafaa8d5e',
+                label: 'ETH Address: 0x60e683c6514edd5f758a55b6f393bebbafaa8d5e',
                 href: 'https://etherscan.io/address/0x60e683c6514edd5f758a55b6f393bebbafaa8d5e',
               },
               
@@ -156,10 +156,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               {
                 label: 'View on DexTools',
                 href: 'https://bit.ly/page-dt',
-              },
-              {
-                label: 'Etherscan',
-                href: 'https://etherscan.io/address/0x60e683c6514edd5f758a55b6f393bebbafaa8d5e',
               },
               {
                 label: 'Coingecko',
