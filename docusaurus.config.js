@@ -4,8 +4,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'We are PageDAO',
-  tagline: 'Our mission is to fuel creative literary pursuits in blockchain, the metaverse and beyond.',
+  title: 'PageDAO: Web3 Publishing Community',
+  tagline: 'The future of publishing will involve digital collectibles and Web3 technologies. PageDAO is an organization founded by writers to develop new, community-owned tools for writers in the age of blockchain technologies.',
   url: 'https://pagedao.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
