@@ -48,8 +48,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         },
         items: [       
           {
-            label: 'PageDAO Membership',
-            href: 'https://membership.nftbookbazaar.com',
+            label: 'Commonwealth Forum',
+            href: 'https://commonwealth.im/official-pagedao-membership/discussions',
             position: 'right',
           },
           
@@ -67,7 +67,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
           {
             href: 'https://snapshot.org/#/pagedao.eth',
-            label: 'Governance',
+            label: 'Snapshot Governance',
             position: 'right',
           },
           {
