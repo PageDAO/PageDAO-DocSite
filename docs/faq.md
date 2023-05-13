@@ -55,47 +55,6 @@ Again, as in the Metamask case, **PAGE** will not be listed on the dropdown menu
 
 After the desired amount is entered, you can just click on **"Swap"** Button and the proccess will begin. Usually, is just 1 transaction, but if it is the first time you swap that token, it will ask you first for a token aproval, and then for the swap. **So it will be a total of 2 transactions on Ethereum to pay gas for**.
 
-## How to earn PAGE
-You can earn $PAGE in a variety of ways, including Dework boards by PageDAO and Meta-Builders that offer writers the opportunity to write for cryptocurrency. 
-
-The PageDAO section of the Meta-Builders Dework board is here: https://app.dework.xyz/meta-builders/page-dao-writers-gui
-
-And the PageDAO has its own independent Dework board here: https://app.dework.xyz/pagedao-web3-writers
-
-## What can I do with my PAGE?
-
-The most popular use of $PAGE is to pay bounties on [Dework] for writing. 
-
-Page tokens grant weight to governance votes, though Snapshot is currently operated on a one-person, one-vote basis. 
-
-Page grants access (100 or more) to the PageDAO private discord channels. 
-
-1000 Page tokens can be exchanged for a Membership NFT. (100 Memberships only!)
-
-If you LP on Uniswap, you can [stake your LP tokens into our LP Mining pool to earn rewards in Page].
-
-
-## How do I stake my PAGE LP Tokens once I LP on Uniswap?
-
-- ### Step 1: Go to Tosdis.Finance
-
-Follow this [link](https://app.tosdis.finance/poolView?pool=0xafee6e3a2f029d87456d500119603d8a1f600272) to go to our staking pool directly
-
-- ### Step 2: Stake it!
-
-As with any other Dapp, if you have not already, connect your metamask on the upper right corner of the app.
-
-Now you will be in a page like this:
-
-![enter image description here](https://lh3.googleusercontent.com/pw/AM-JKLUXA7OOuAreWADwEFpkB-NDT6FfIU-xk2SQbvAO9g1i7AptPc2gw7s1ThLyoo6I46LmUooYQ7gdONuc0hRzQqkBX0lG0P-Mf66C38PGexKmvOiCvGOB08tDYtRSV7vwUF2a7RoIMWbXCIRddgktS94=w812-h645-no?authuser=0)
-
-Again, same as with Uniswap, if its the first time you are using this service you will have to do 2 transactions on Ethereum, 1 to approve, and the other the actual amount that you will stake.
-
-**NOTE:** Staking requires you to provide the same amount of **BOTH Tokens**, in this case, ETH and PAGE.
-
-When the transactions are done, you can just wait and be rewarded! 
-
-
 
 ## **How Do I Mint an NFTBook?**
 
