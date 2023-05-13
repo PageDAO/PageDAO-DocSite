@@ -22,13 +22,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/PageDAO/PageDAO-DocSite/edit/master',
+          editUrl: 'https://github.com/PageDAO/PageDAO-DocSite/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/PageDAO/PageDAO-DocSite/edit/master',
+            'https://github.com/PageDAO/PageDAO-DocSite/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -48,19 +48,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         },
         items: [       
           {
-            label: 'Commonwealth Forum',
-            href: 'https://commonwealth.im/official-pagedao-membership/discussions',
-            position: 'right',
-          },
-          
-          {
             label: 'Mint an NFTBook',
             href: 'https://mint.nftbookbazaar.com',
             position: 'left',
           },
           
           {
-            label: 'ReadMe Books on OpenSea',
+            label: 'Readme Books on OpenSea',
             href: 'https://opensea.io/collection/readme-books',
             position: 'left',
           },
@@ -69,11 +63,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             href: 'https://snapshot.org/#/pagedao.eth',
             label: 'Snapshot Governance',
             position: 'right',
-          },
-          {
-          href: 'https://github.com/PageDAO/PageDAO-DocSite',
-          label: 'GitHub',
-          position: 'left',
           },
           {
             type: 'doc',
@@ -94,19 +83,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               {
                 label: 'Snapshot Governance',
                 href: 'https://vote.pagedao.org/#/pagedao.eth',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/PageDAO/PageDAO-DocSite',
-              },
-
-              {
-                label: 'PageDAO in the Monaverse',
-                href: 'https://monaverse.com/spaces/pagedao-library-of-alexandria?invite=T0Rjd05UWTVOUTp1cy8q',
-              },
-              {
-                label: 'Scholar and Scribe',
-                href: 'https://peakd.com/c/hive-199275/created',
               },
               {
                 label: 'NFTBook Store',
@@ -148,10 +124,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               {
                 label: 'Swap on Uniswap',
                 href: 'https://bit.ly/swap-page',
-              },
-              {
-                label: 'Stake on Tosdis',
-                href: 'https://bit.ly/page-staking',
               },
               {
                 label: 'View on DexTools',

@@ -3,9 +3,27 @@
   align-items: center;
   padding: 2rem 0;
   width: 100%;
+  border: black, solid, 10px;
 }
-
+.featureList {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: black, solid, 10px;
+}
 .featureSvg {
   height: 200px;
   width: 200px;
+}
+.button {
+  background-color: var(--ifm-color-primary);
+  border: black, solid, 10px;
+  border-radius: 0.25rem;
+  transition: background-color 0.2s ease;
+}
+.features > div {
+  margin: 0 1rem;
+  flex: 1;
+  border: black, solid, 10px;
 }
