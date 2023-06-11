@@ -117,10 +117,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'Page Token',
             items: [
               {
-                label: 'ETH Address: 0x60e683c6514edd5f758a55b6f393bebbafaa8d5e',
+                label: 'Etherscan',
                 href: 'https://etherscan.io/address/0x60e683c6514edd5f758a55b6f393bebbafaa8d5e',
               },
-              
+              {
+                label: 'Polygonscan',
+                href: 'https://polygonscan.com/token/0x9ceE70895726B0ea14E6019C961dAf32222a7C2f',
+              },
               {
                 label: 'Swap on Uniswap',
                 href: 'https://bit.ly/swap-page',
@@ -132,6 +135,60 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               {
                 label: 'Coingecko',
                 href: 'https://www.coingecko.com/en/coins/page',
+              },
+              {
+                html: `<a href="#" onclick="
+                if (window.ethereum) {
+                  ethereum.request({method: 'eth_chainId'})
+                  .then((currentChainId)=>{
+                    if (currentChainId=='0x1') {
+                      ethereum.request({
+                        method: 'wallet_watchAsset',
+                        params: {
+                          type: 'ERC20',
+                          options: {
+                            address: '0x60e683c6514edd5f758a55b6f393bebbafaa8d5e',
+                            symbol: 'PAGE',
+                            decimals: 8,
+                            image: 'https://pagedao.org/img/logo.svg',
+                          }
+                        }
+                      })
+                      .then((success) => {
+                        if (success) {
+                          console.log('PAGE successfully added to wallet');
+                        } else {
+                          console.log('unfortunate error');
+                        }
+                      });
+                    }
+                    if (currentChainId=='0x89') {
+                      ethereum.request({
+                        method: 'wallet_watchAsset',
+                        params: {
+                          type: 'ERC20',
+                          options: {
+                            address: '0x9ceE70895726B0ea14E6019C961dAf32222a7C2f',
+                            symbol: 'PAGE',
+                            decimals: 8,
+                            image: 'https://pagedao.org/img/logo.svg',
+                          }
+                        }
+                      })
+                      .then((success) => {
+                        if (success) {
+                          console.log('PAGE successfully added to wallet');
+                        } else {
+                          console.log('unfortunate error');
+                        }
+                      });
+                    }
+                  });
+                }
+
+                  
+                 
+                ">Add PAGE to Metamask</a>`
               }
             ],
           },
