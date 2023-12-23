@@ -60,8 +60,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           },
 
           {
-            href: 'https://snapshot.org/#/pagedao.eth',
-            label: 'Snapshot Governance',
+            href: 'https://daodao.zone/dao/osmo1a40j922z0kwqhw2nn0nx66ycyk88vyzcs73fyjrd092cjgyvyjksrd8dp7/home',
+            label: 'Governance',
             position: 'right',
           },
           {
@@ -127,6 +127,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               {
                 label: 'Swap on Uniswap',
                 href: 'https://bit.ly/swap-page',
+              },
+              {
+                label: 'Swap on Osmosis',
+                href: 'https://app.osmosis.zone/pool/1344',
               },
               {
                 label: 'View on DexTools',
