@@ -81,13 +81,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
 
               {
-                label: 'Snapshot Governance',
-                href: 'https://vote.pagedao.org/#/pagedao.eth',
+                label: 'Governance',
+                href: 'https://daodao.zone/dao/osmo1a40j922z0kwqhw2nn0nx66ycyk88vyzcs73fyjrd092cjgyvyjksrd8dp7/home',
+
               },
-              {
-                label: 'NFTBook Store',
-                href: 'https://nftbookstore.com',
-              },
+              
 
             ],
           },
