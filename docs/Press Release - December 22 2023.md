@@ -1,26 +1,26 @@
 Read this press release in your browser via Readme Books technology: https://ipfs.nftbookbazaar.com/ipfs/QmW87oT919moQLWRpAatzjAQDCmNXHa3A5isJzXok5rFUn
 
-###FOR IMMEDIATE RELEASE
+### FOR IMMEDIATE RELEASE
 PageDAO Announces Major Upgrade with Osmosis Integration and Token Relaunch
 December 22, 2023 - PageDAO, a pioneering decentralized autonomous organization in the literary and blockchain space, is thrilled to announce a significant upgrade and expansion of its operations. In a move designed to enhance user experience and governance, PageDAO is bridging its operations to the Osmosis blockchain to capitalize on the user-friendly Cosmos ecosystem of technologies.
 
-###Bridging for Enhanced Accessibility
+### Bridging for Enhanced Accessibility
 PageDAO recognizes the importance of flexibility and accessibility in the digital age. To this end, new features will be available to PageDAO members on Osmosis, ensuring a seamless and integrated financial layer for their use. IBC, the Cosmos-native interblockchain communication layer, will facilitate transactions between all versions of $PAGE tokens, allowing users to effortlessly move their tokens back and forth between application environments across blockchains including Ethereum, the Cosmos Hub, Secret Network, Osmosis, Optimism, Arbitrum, and others.
 
-###$PAGE Token Gets a Major Upgrade
+### $PAGE Token Gets a Major Upgrade
 PageDAO is excited to announce several key upgrades to the $PAGE token:
 - Relocation of Governance: Governance operations are being relocated to a cutting-edge DAODAO application on the Osmosis blockchain, replacing a cumbersome network of multisignature wallets and offchain governance. View the new governance module here: https://daodao.zone/dao/osmo1a40j922z0kwqhw2nn0nx66ycyk88vyzcs73fyjrd092cjgyvyjksrd8dp7 
 - New Governance-driven Multisig: A new multisig wallet driven by governance is built into the DAODAO application, enabling users to vote and propose on-chain actions for the community to execute including fully transparent treasury management. The treasury is available for public viewing here: https://daodao.zone/dao/osmo1a40j922z0kwqhw2nn0nx66ycyk88vyzcs73fyjrd092cjgyvyjksrd8dp7/treasury
 - New LP Deployment on Osmosis: To bolster liquidity and user engagement, a new Liquidity Pool (LP) is being deployed on the Osmosis blockchain to be managed by the PageDAO Governance Application. This new LP is ID #1344 on Osmosis and can be found here: https://app.osmosis.zone/pool/1344 
 - Issuance of 30M $PAGE Tokens: In conjunction with this relaunch, PageDAO is issuing 30 million $PAGE tokens. This issuance, which will 4x the current $PAGE token supply, is aimed at boosting community growth, traffic, and activity.
 
-###A New Chapter for PageDAO
+### A New Chapter for PageDAO
 These developments mark a new chapter in PageDAO’s journey, underlining our commitment to innovation, community-driven governance, and the seamless integration of literature with blockchain technology. We believe these changes will not only enhance our platform’s functionality but also solidify our position as a leader in the development of literature technologies in a blockchain environment.
 
-###Books on the Blockchain - Readme Books
+### Books on the Blockchain - Readme Books
 In conjunction with these exciting developments, PageDAO is proud to highlight the success of Readme Books, our innovative on-chain book minting platform. Readme Books has already become a beloved tool for authors to publish their works directly on the blockchain, revolutionizing the traditional publishing model by making truly decentralized content publishing possible for the first time. The platform boasts a diverse and growing library, featuring everything from the avant-garde pieces in Vagabond Magazine to the groundbreaking Cryptoversal Gutenberg, the first on-chain Bible. Additionally, it hosts a wide array of works spanning various genres, including compelling philosophical treatises and contemporary literary works by bestselling authors. This NFT-based publishing platform exemplifies PageDAO's commitment to empowering authors with complete control over their creations, ensuring fair compensation, and amplifying their reach in the digital world. The integration with Osmosis further enhances Readme Books along governance and financial vectors, promising an increasing level of quality in the experience for both authors and readers in the blockchain space.
 
-###About PageDAO
+### About PageDAO
 PageDAO is a decentralized autonomous organization that leverages blockchain technology to revolutionize the world of literature. By fostering a community of writers, readers, and tech enthusiasts, PageDAO is at the forefront of redefining storytelling in the digital age. From here, PageDAO plans to continue executing on the project of the Web3 Books Standards Group of 2023 as well as the more generalized tooling that the Page Open Source Project was founded to provide to the space.
 
 For more information about PageDAO and our latest upgrades, please visit https://pagedao.org/.
