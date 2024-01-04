@@ -31,3 +31,11 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 
 /* Custom CSS that Phil added ^_^ */
 
+.card {
+  width: 20vw;
+  margin: 20px;
+}
+
+.booksview {
+  padding-top: 20px;
+}
