@@ -24,6 +24,8 @@
     "docusaurus": "^1.14.7",
     "file-loader": "^6.2.0",
     "nodemon": "^2.0.12",
+    "patch-package": "^8.0.0",
+    "postinstall-postinstall": "^2.1.0",
     "prism-react-renderer": "^1.2.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
