@@ -132,13 +132,11 @@ function HomepageTimeline() {
           icon={<GroupWork />}
         >
           <h3 className="vertical-timeline-element-title">Community Growth</h3>
-          <p>
             <ul>
               <li>100+ live writing events on discord</li>
               <li>100+ original published books</li>
               <li>Mountains of user feedback acquired</li>
             </ul>
-          </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
