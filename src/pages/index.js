@@ -39,7 +39,7 @@ function HomepageBooks() {
             <img
               src="https://ipfs.nftbookbazaar.com/ipfs/QmSMkX9oEZTdcaC2BbxYCzfrsL9kUT2qv69VhMotfXo33w"
               alt="Vagobond Magazine"
-              title="Logo Title Text 1" />
+              title="Vagobond Magazine" />
           </div>
           <div className="card__body">
             <h4>Vagobond Magazine</h4>
@@ -55,9 +55,9 @@ function HomepageBooks() {
         <div className="card">
           <div className="card__image">
             <img
-              src="https://ipfs.nftbookbazaar.com/ipfs/QmZiacbhRQQPs3KttE2k28NJuU4Wd1ZCVLYbMohTwQxYGu"
+              src="https://ipfs.nftbookbazaar.com/ipfs/QmVA6QMb3nNTT4KfSLuawfqx1wPuR24F6NctPQJxL2xvfB"
               alt="Fraud: A How-To Guide"
-              title="Logo Title Text 1" />
+              title="Fraud: A How-To Guide" />
           </div>
           <div className="card__body">
             <h4>Fraud: A How-To Guide</h4>
@@ -75,7 +75,7 @@ function HomepageBooks() {
             <img
               src="https://ipfs.nftbookbazaar.com/ipfs/QmZKpMrE2j45bL7qgLd1Nw8G4jfnQLZnEPLxvz51tVFv85"
               alt="Effective Cybernetic Coordination"
-              title="Logo Title Text 1" />
+              title="Effective Cybernetic Coordination" />
           </div>
           <div className="card__body">
             <h4>Effective Cybernetic Coordination</h4>
