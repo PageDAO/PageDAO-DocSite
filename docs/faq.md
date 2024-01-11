@@ -5,6 +5,18 @@ title: FAQ
 
 # FAQ
 
+## How to bridge your $PAGE tokens
+
+See <a href="./bridge">Bridging Guide</a> for more information
+
+## How to create a new crypto wallet for the Cosmos ecosystem?
+
+- ### Step 1. Download the Keplr Wallet extension and install
+
+- ### Step 2. Create your account and secure your mnemonic phrase
+
+- ### Step 3. Connect to governance on DAODAO or trading on Osmosis
+
 ## How to create a new crypto wallet with Metamask?
 
 - ### Step 1: Download and install the app add-on
