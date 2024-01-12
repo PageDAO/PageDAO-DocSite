@@ -11,11 +11,13 @@ See <a href="./bridge">Bridging Guide</a> for more information
 
 ## How to create a new crypto wallet for the Cosmos ecosystem?
 
-- ### Step 1. Download the Keplr Wallet extension and install
+<b>Step 1.</b> Go to <a href="https://www.keplr.app/download">keplr.app/download</a> and install the Keplr Wallet extension<br/>
 
-- ### Step 2. Create your account and secure your mnemonic phrase
+<b>Step 2.</b> Create your account and secure your mnemonic phrase. Copy your wallet address for the Osmosis chain.<br/><img style={{padding: '2em'}} src="/img/faq/copy-osmosis-address.png"/><br/>
 
-- ### Step 3. Connect to governance on DAODAO or trading on Osmosis
+<b>Step 3.</b> To fund your new Osmosis account you can visit <a href="https://www.kado.money/assets/osmosis">kado.money/assets/osmosis</a><br/><img style={{padding: '2em'}} src="/img/faq/buy-osmo-with-kado.png"/><br/>
+
+<b>Step 4.</b> Connect to <a href="https://daodao.zone/dao/osmo1a40j922z0kwqhw2nn0nx66ycyk88vyzcs73fyjrd092cjgyvyjksrd8dp7/home">governance on DAODAO</a> or start trading on <a href="https://app.osmosis.zone">app.osmosis.zone</a><br/>
 
 ## How to create a new crypto wallet with Metamask?
 
