@@ -34,10 +34,15 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 .card {
   width: 20vw;
   margin: 20px;
+  min-width: 364px !important;
   background-color:goldenrod !important;
   
 }
 
 .booksview {
   padding-top: 20px;
+}
+
+.row {
+  justify-content: center;
 }

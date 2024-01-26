@@ -25,7 +25,7 @@ function HomepageHeader() {
         </div>
 
         <div class="row">
-        <div className={styles.card} class="card">
+        <div class="card">
           <div class="card__header">
             <h3>New Bridging Guide</h3>
           </div>
