@@ -1,7 +1,9 @@
 ---
-sidebar_position: 2
+sidebar_position: 5
 title: FAQ
 ---
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 # FAQ
 
@@ -54,6 +56,9 @@ Sometimes the token you are looking for will not appear in the default list, lik
 
 ## How to buy/sell PAGE
 
+<Tabs>
+<TabItem value="ethereum-swap" label="On Ethereum">
+
 - ### Step 1: Purchase ETH
 So now that you have your own crypto wallet, you will need to fund it with some ETH, to be able to buy PAGE. To do this, go to any of the major exchanges like [Coinbase](https://www.coinbase.com/) and follow their instructions to purchase.
 - ### Step 2: Transfer ETH to your Metamask wallet
@@ -68,7 +73,13 @@ Go to [Uniswap](https://bit.ly/swap-page) and enter an amount of ETH you would l
 Again, as in the Metamask case, **PAGE** will not be listed on the dropdown menu, but when you click it you can just paste the PAGE contract address on the Searchbar like you did on Metamask, and it will register it.
 
 After the desired amount is entered, you can just click on **"Swap"** Button and the proccess will begin. Usually, is just 1 transaction, but if it is the first time you swap that token, it will ask you first for a token aproval, and then for the swap. **So it will be a total of 2 transactions on Ethereum to pay gas for**.
+</TabItem>
+<TabItem value="osmosis-swap" label="On Osmosis">
+Go to <a href="https://pro.osmosis.zone/osmosis/trade/protrade?from=uosmo&to=ibc%2F23A62409E4AD8133116C249B1FA38EED30E500A115D7B153109462CD82C1CD99&market=Osmosis">Osmosis Pro Trading interface</a> to buy $PAGE with $OSMO.
 
+<img style={{padding: '2em'}} src="/img/faq/osmo-trade-page.png"/><br/>
+</TabItem>
+</Tabs>
 
 ## **How Do I Mint an NFTBook?**
 

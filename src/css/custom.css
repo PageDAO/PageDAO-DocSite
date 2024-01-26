@@ -34,6 +34,8 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 .card {
   width: 20vw;
   margin: 20px;
+  background-color:goldenrod !important;
+  
 }
 
 .booksview {

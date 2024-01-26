@@ -19,9 +19,57 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://membership.nftbookbazaar.com">
-            Official PageDAO Membership
+            to="https://story-5219.myshopify.com/collections/pagedao-community-coming-soon">
+            Get PageDAO Merch and Support Our Cause!
           </Link>
+        </div>
+
+        <div class="row">
+        <div className={styles.card} class="card">
+          <div class="card__header">
+            <h3>New Bridging Guide</h3>
+          </div>
+          <div className="card__body">
+            <p>
+              Have $PAGE on Polygon or Ethereum and want to bridge? Check out our quick bridging guide.
+            </p>
+          </div>
+          <div className="card__footer">
+            <a href="/docs/bridge">
+              <button class="button button--secondary button--block">Read More</button>
+            </a>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card__header">
+            <h3>PageDAO and Secret Network</h3>
+          </div>
+          <div class="card__body">
+            <p>
+              PageDAO is a recent Q1 2024 grant recipient from Secret Network. Our goal is to build the next generation of privacy-first publishing. We'll see you at Eth Denver!
+            </p>
+          </div>
+          <div class="card__footer">
+            <a href="/docs/press-release-q1-2024">
+              <button class="button button--secondary button--block">Read More</button>
+            </a>
+          </div>
+          </div>
+          <div class="card">
+          <div class="card__header">
+            <h3>Stake your $PAGE to Vote</h3>
+          </div>
+          <div class="card__body">
+            <p>
+              We need your voice! If you are a reader, writer, or publisher interested in the direction, design, economics, and future of PageDAO, stake your tokens in our DAODAO governance platform to vote and create proposals.
+            </p>
+          </div>
+          <div class="card__footer">
+            <a href="/docs/governance">
+              <button class="button button--secondary button--block">Read More</button>
+            </a>
+          </div>
+          </div>
         </div>
       </div>
     </header>
