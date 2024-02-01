@@ -9,67 +9,206 @@ import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeli
 import 'react-vertical-timeline-component/style.min.css';
 import { GroupWork } from '@material-ui/icons';
 
+const shopifyHeroHTML = `<div id='product-component-1706711854584'></div>
+<script type="text/javascript">
+/*<![CDATA[*/
+(function () {
+  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+  if (window.ShopifyBuy) {
+    if (window.ShopifyBuy.UI) {
+      ShopifyBuyInit();
+    } else {
+      loadScript();
+    }
+  } else {
+    loadScript();
+  }
+  function loadScript() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = scriptURL;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+    script.onload = ShopifyBuyInit;
+  }
+  function ShopifyBuyInit() {
+    var client = ShopifyBuy.buildClient({
+      domain: 'story-5219.myshopify.com',
+      storefrontAccessToken: 'f6bcf4ff1829aeca974f075eb19b8576',
+    });
+    ShopifyBuy.UI.onReady(client).then(function (ui) {
+      ui.createComponent('product', {
+        id: '8904872788280',
+        node: document.getElementById('product-component-1706711854584'),
+        moneyFormat: '%24%7B%7Bamount%7D%7D',
+        options: {
+  "product": {
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "calc(25% - 20px)",
+          "margin-left": "20px",
+          "margin-bottom": "50px"
+        }
+      },
+      "button": {
+        "background-color": "#0a0a0a",
+        ":hover": {
+          "background-color": "#111111"
+        },
+        ":focus": {
+          "background-color": "#111111"
+        }
+      }
+    }
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "background-color": "#0a0a0a",
+        ":hover": {
+          "background-color": "#111111"
+        },
+        ":focus": {
+          "background-color": "#111111"
+        }
+      }
+    }
+  },
+  "cart": {
+    "styles": {
+      "button": {
+        "background-color": "#0a0a0a",
+        ":hover": {
+          "background-color": "#111111"
+        },
+        ":focus": {
+          "background-color": "#111111"
+        }
+      }
+    }
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "background-color": "#0a0a0a",
+        ":hover": {
+          "background-color": "#111111"
+        },
+        ":focus": {
+          "background-color": "#111111"
+        }
+      }
+    }
+  }
+},
+      });
+    });
+  }
+})();
+/*]]>*/
+</script>`;
+
+import { useRef, useEffect } from 'react';
+
+function ShopifyBuyNowElement(props) {
+  const divRef = useRef();
+
+  const htmlString = shopifyHeroHTML;
+
+  useEffect(() => {
+    const fragment = document.createRange().createContextualFragment(htmlString);
+    divRef.current.append(fragment);
+  }, []);
+
+  return <div ref={divRef} />;
+}
+
+function HomepageActions() {
+  const { siteConfig } = useDocusaurusContext();
+  return (
+    <div className={clsx('hero hero--primary', styles.actionsRow)}>
+    <div className={clsx('row')}>
+    <div className="card">
+      <div className="card__header">
+        <h3>New Bridging Guide</h3>
+      </div>
+      <div className="card__body">
+        <p>
+          Have $PAGE on Polygon or Ethereum and want to bridge? Check out our quick bridging guide.
+        </p>
+      </div>
+      <div className="card__footer">
+        <a href="/docs/bridge">
+          <button className="button button--secondary button--block">Read More</button>
+        </a>
+      </div>
+    </div>
+    <div className="card">
+      <div className="card__header">
+        <h3>PageDAO and Secret Network</h3>
+      </div>
+      <div className="card__body">
+        <p>
+          PageDAO is a recent Q1 2024 grant recipient from Secret Network. Our goal is to build the next generation of privacy-first publishing. We'll see you at Eth Denver!
+        </p>
+      </div>
+      <div className="card__footer">
+        <a href="/docs/press-release-q1-2024">
+          <button className="button button--secondary button--block">Read More</button>
+        </a>
+      </div>
+      </div>
+      <div className="card">
+      <div className="card__header">
+        <h3>Stake your $PAGE to Vote</h3>
+      </div>
+      <div className="card__body">
+        <p>
+          We need your voice! If you are a reader, writer, or publisher interested in the direction, design, economics, and future of PageDAO, stake your tokens in our DAODAO governance platform to vote and create proposals.
+        </p>
+      </div>
+      <div className="card__footer">
+        <a href="/docs/governance">
+          <button className="button button--secondary button--block">Read More</button>
+        </a>
+      </div>
+      </div>
+    </div>
+    </div>
+
+  );
+}
+
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="https://story-5219.myshopify.com/collections/pagedao-community-coming-soon">
-            Get PageDAO Merch and Support Our Cause!
-          </Link>
-        </div>
-
-        <div class="row">
-        <div class="card">
-          <div class="card__header">
-            <h3>New Bridging Guide</h3>
+        <div className="row">
+          <div className="col">
+            <p className={clsx(styles.heroText)}>{siteConfig.tagline}</p>
           </div>
-          <div className="card__body">
-            <p>
-              Have $PAGE on Polygon or Ethereum and want to bridge? Check out our quick bridging guide.
-            </p>
-          </div>
-          <div className="card__footer">
-            <a href="/docs/bridge">
-              <button class="button button--secondary button--block">Read More</button>
-            </a>
-          </div>
-        </div>
-        <div class="card">
-          <div class="card__header">
-            <h3>PageDAO and Secret Network</h3>
-          </div>
-          <div class="card__body">
-            <p>
-              PageDAO is a recent Q1 2024 grant recipient from Secret Network. Our goal is to build the next generation of privacy-first publishing. We'll see you at Eth Denver!
-            </p>
-          </div>
-          <div class="card__footer">
-            <a href="/docs/press-release-q1-2024">
-              <button class="button button--secondary button--block">Read More</button>
-            </a>
-          </div>
-          </div>
-          <div class="card">
-          <div class="card__header">
-            <h3>Stake your $PAGE to Vote</h3>
-          </div>
-          <div class="card__body">
-            <p>
-              We need your voice! If you are a reader, writer, or publisher interested in the direction, design, economics, and future of PageDAO, stake your tokens in our DAODAO governance platform to vote and create proposals.
-            </p>
-          </div>
-          <div class="card__footer">
-            <a href="/docs/governance">
-              <button class="button button--secondary button--block">Read More</button>
-            </a>
-          </div>
-          </div>
+          <div className={clsx(styles.shopifyBuy)}><h1>EthDenver Deal</h1><ShopifyBuyNowElement/></div>
         </div>
       </div>
     </header>
@@ -145,7 +284,7 @@ function HomepageBooks() {
 function HomepageTimeline() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <div><h1 className="hero__title">PageDAO Milestones</h1>
+    <div><h1 className={clsx(styles.TimelineTitle)}>PageDAO Milestones</h1>
       <VerticalTimeline>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
@@ -327,6 +466,7 @@ export default function Home() {
       title={`${siteConfig.title}`}
       description="We are a DAO founded to empower writers, readers, and publishers using Web3 technology.">
       <HomepageHeader />
+      <HomepageActions />
       <HomepageBooks />
       <main>
         <HomepageTimeline />

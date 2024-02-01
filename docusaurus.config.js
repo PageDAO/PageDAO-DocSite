@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
   title: 'PageDAO',
-  tagline: 'PageDAO was founded in 2021 and has enabled 150+ writers to publish their work on-chain. We are developing chain-agnostic, privacy-first tools for publishing, sharing, and reading books.',
+  tagline: 'PageDAO is heading to EthDenver Feb 26-Mar 3rd.',
   url: 'https://pagedao.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -40,6 +40,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: false
+      },
       navbar: {
         title: 'PageDAO',
         logo: {
@@ -216,11 +221,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         copyright: `Copyright © ${new Date().getFullYear()} PageDAO`,
       },
       prism: {
-        theme: lightCodeTheme,
+        theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
-
     plugins: [
       [
         '@docusaurus/plugin-content-docs',
