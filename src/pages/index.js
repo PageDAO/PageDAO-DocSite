@@ -366,6 +366,25 @@ function HomepageTimeline() {
   );
 }
 
+function HomepageImportant() {
+  const { siteConfig } = useDocusaurusContext();
+  return (
+    <div className="hero hero--dark">
+      <div className="container">
+        <h1 className="hero__title">Partner with us!</h1>
+        <p className="hero__subtitle">PageDAO welcomes organizations with a shared mission of decentralized literature. Is your org helping to publish work in Web3? We'd love to have your voice heard in our operations!</p>
+        <div>
+          <a href="/docs/partner">
+            <button className="button button--primary button--outline button--lg">
+              Read More
+            </button>
+          </a>
+        </div>
+      </div>
+    </div>
+  );
+}
+
 function HomepageMisc() {
   const { siteConfig } = useDocusaurusContext();
   return (
@@ -466,6 +485,7 @@ export default function Home() {
       title={`${siteConfig.title}`}
       description="We are a DAO founded to empower writers, readers, and publishers using Web3 technology.">
       <HomepageHeader />
+      <HomepageImportant />
       <HomepageActions />
       <HomepageBooks />
       <main>
