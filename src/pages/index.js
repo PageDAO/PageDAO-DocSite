@@ -37,7 +37,7 @@ const shopifyHeroHTML = `<div id='product-component-1706711854584'></div>
     });
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
-        id: '8904872788280',
+        id: '8990986010936',
         node: document.getElementById('product-component-1706711854584'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
@@ -372,7 +372,7 @@ function HomepageImportant() {
     <div className="hero hero--dark">
       <div className="container">
         <h1 className="hero__title">Partner with us!</h1>
-        <p className="hero__subtitle">PageDAO welcomes organizations with a shared mission of decentralized literature. Is your org helping to publish work in Web3? We'd love to have your voice heard in our operations!</p>
+        <p className="hero__subtitle">PageDAO welcomes organizations with a shared mission of supporting decentralized literature. Is your org helping to publish work in Web3? We'd love to have your voice heard in our operations!</p>
         <div>
           <a href="/docs/partner">
             <button className="button button--primary button--outline button--lg">
