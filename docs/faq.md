@@ -7,11 +7,49 @@ import TabItem from '@theme/TabItem';
 
 # FAQ
 
+## How to get $PAGE on Osmosis
+
+The PAGE token is available in a liquidity pool on Osmosis and can be automatically swapped for any asset listed on the Osmosis DEX. If you have never transacted on the Osmosis DEX there are a few pathways to deposit funds to your Osmosis account: 
+
+### Funding Your account
+<Tabs>
+    <TabItem value="coinbase" label="Using Coinbase">
+        <summary><h4>Purchase ATOM on Coinbase and Deposit to Cosmos (Keplr)</h4></summary>
+        <ul>
+            <li>Make sure you have Keplr wallet installed (see "<a href="#install-keplr">How to create a new crypto wallet for the Cosmos ecosystem</a>" for instructions).</li>
+            <li>Copy your Cosmos Hub address.</li>
+            <li>Purchase ATOM using coinbase.</li>
+            <li>Send the ATOM from your Coinbase account to your Cosmos Hub address</li>
+            <li>Use app.osmosis.zone to deposit your Cosmos Hub ATOM to Osmosis</li> 
+        </ul>
+    </TabItem>
+    <TabItem value="kado" label="Using Kado">
+        <summary><h4>Using Kado to buy OSMO with Fiat   </h4></summary>
+        <ul>
+            <li>visit <a href="https://www.kado.money/assets/osmosis">kado.money/assets/osmosis</a><br/><img style={{padding: '2em'}} src="/img/faq/buy-osmo-with-kado.png"/></li>
+        </ul>
+    </TabItem>
+</Tabs> 
+Once your account has funds, you can swap any currency for PAGE directly. If you are interested in joining the incentivized Liquidity Pool please see "<a href="#add-liquidity">How to add liquidity to the PAGE/OSMO Osmosis pool</a>".
+
+## How to add liquidity to the PAGE/OSMO Osmosis pool
+Liquidity pools have been around for a while, but here is <a href="https://medium.com/osmosis/osmosis-liquidity-mining-101-2fa58d0e9d4d#:~:text=distributed%20on%20Osmosis.-,Liquidity%20Providing,-Providing%20liquidity%20(called">a good primer on medium for how Osmosis liquidity pools work</a>. <i>Note: This guide is not investment adivce. Do your own research, and all liquidity pools have risks of loss.</i>
+
+- If you have OSMO and PAGE in equal value
+  - navigate to <a href="https://app.osmosis.zone/pool/1344">app.osmosis.zone/pool/1344</a> and press the "Add Liquidity" button
+  - select the amount (you can click on the number amount to populate the input box)
+- If you only have OSMO you can go to the pool link above and select Single Sided Asset
+
+:::tip Bond your liquidity for rewards
+  As of February 2024, for a limited time, PageDAO is providing incentives for providers of liquidity on Osmosis. To bond your liquidity, choose "Bond Liquidity" as the final step. This locks your tokens and in exchange for the boosted reward, your tokens can only be unbonded after a 14 day waiting period. 
+:::
+ 
+
 ## How to bridge your $PAGE tokens
 
 See <a href="./bridge">Bridging Guide</a> for more information
 
-## How to create a new crypto wallet for the Cosmos ecosystem?
+## How to create a new crypto wallet for the Cosmos ecosystem? {#install-keplr}
 
 <b>Step 1.</b> Go to <a href="https://www.keplr.app/download">keplr.app/download</a> and install the Keplr Wallet extension<br/>
 
@@ -75,7 +113,7 @@ Again, as in the Metamask case, **PAGE** will not be listed on the dropdown menu
 After the desired amount is entered, you can just click on **"Swap"** Button and the proccess will begin. Usually, is just 1 transaction, but if it is the first time you swap that token, it will ask you first for a token aproval, and then for the swap. **So it will be a total of 2 transactions on Ethereum to pay gas for**.
 </TabItem>
 <TabItem value="osmosis-swap" label="On Osmosis">
-Go to <a href="https://pro.osmosis.zone/osmosis/trade/protrade?from=uosmo&to=ibc%2F23A62409E4AD8133116C249B1FA38EED30E500A115D7B153109462CD82C1CD99&market=Osmosis">Osmosis Pro Trading interface</a> to buy $PAGE with $OSMO.
+Go to <a href="https://pro.osmosis.zone/osmosis/trade/protrade?from=uosmo&to=ibc%2F23A62409E4AD8133116C249B1FA38EED30E500A115D7B153109462CD82C1CD99&market=Osmosis">Osmosis Pro Trading interface</a> or the PAGE/OSMO pool at <a href="https://app.osmosis.zone/pool/1344">app.osmosis.zone/pool/1344</a> to buy $PAGE with $OSMO.
 
 <img style={{padding: '2em'}} src="/img/faq/osmo-trade-page.png"/><br/>
 </TabItem>
