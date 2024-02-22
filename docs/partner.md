@@ -3,7 +3,7 @@ sidebar_position: 3
 title: Partner with PageDAO
 ---
 
-PageDAO welcomes you to partner with us! Your collaboration strengthens our ability to leverage innovation, literature, and blockchain technology to create an exceptional ecosystem, owned by our users and partners. We are happy to discuss token swaps, $PAGE grants and collaboration opportunities with you. Reach out to us on <a href="https://x.com/page_dao">twitter</a> or <a href="https://discord.gg/PeXUtbWHQs">discord</a>.
+PageDAO welcomes you to partner with us! Your collaboration strengthens our ability to leverage innovation, literature, and blockchain technology to create an exceptional ecosystem, owned by our users and partners. We are happy to discuss token swaps, $PAGE grants and collaboration opportunities with you. Reach out to us on <a href="https://x.com/page_dao">twitter</a> or <a href="https://discord.gg/PeXUtbWHQs">discord</a>. If you are an individual, please see our [guide for participating in governance](./governance).
 
 ### Video instructions for staking $PAGE as an organization
 <video controls width="100%">
