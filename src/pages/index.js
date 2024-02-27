@@ -130,7 +130,7 @@ const shopifyHeroHTML = `<div id='product-component-1706711854584'></div>
 
 import { useRef, useEffect } from 'react';
 
-function ShopifyBuyNowElement(props) {
+function ShopifyBuyNowElementUnused(props) {
   const divRef = useRef();
 
   const htmlString = shopifyHeroHTML;
@@ -141,6 +141,18 @@ function ShopifyBuyNowElement(props) {
   }, []);
 
   return <div ref={divRef} />;
+}
+
+function ShopifyBuyNowElement(props) {
+  const { siteConfig } = useDocusaurusContext();
+  return (
+    <div><p className={styles.contents}>PageDAO ETHDenver 2024<br/>**Limited Time Only**<br/>Unisex Softstyle T-Shirt</p><br/>
+      <img width="250px" src="./img/ETHDenverShirt.png" alt="PageDAO ETHDenver 2024 T-Shirt" />
+      <Link to="https://story-5219.myshopify.com/discount/ETHDENVER2024?redirect=/products/pagedao-ethdenver-2024-limited-time-only-unisex-softstyle-t-shirt">
+      <button className="button button--secondary button--block">Buy Now</button>
+      </Link>
+    </div>
+  );
 }
 
 function HomepageActions() {
