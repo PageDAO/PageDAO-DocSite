@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useState} from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
@@ -8,6 +8,7 @@ import HomepageFeatures from '../components/HomepageFeatures';
 import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
 import { GroupWork } from '@material-ui/icons';
+import Carousel from 'react-bootstrap/Carousel';
 
 const shopifyHeroHTML = `<div id='product-component-1706711854584'></div>
 <script type="text/javascript">
@@ -154,6 +155,43 @@ function ShopifyBuyNowElement(props) {
     </div>
   );
 }
+
+function HomepageCarousel() {
+    const [index, setIndex] = useState(0);
+  
+    const handleSelect = (selectedIndex) => {
+      setIndex(selectedIndex);
+    };
+  
+    return (
+      <Carousel activeIndex={index} onSelect={handleSelect}>
+        <Carousel.Item>
+          <img className={styles.CarouselImage} src="./img/ethdenver/dylan_at_frictionless.jpg"/>
+          <Carousel.Caption>
+            <h3>Dylan speaks at Frictionless</h3>
+            <p>Sharing the vision of creators getting paid for their work.</p>
+          </Carousel.Caption>
+        </Carousel.Item>
+        <Carousel.Item>
+          <img className={styles.CarouselImage} src="./img/ethdenver/PageDAO_ETHDenver_2024_billboard.png"/>
+          <Carousel.Caption>
+            <h3>Our mobile billboard</h3>
+            <p>PageDAO got to roll through Denver in style!</p>
+          </Carousel.Caption>
+        </Carousel.Item>
+        <Carousel.Item>
+          <img className={styles.CarouselImage} src="./img/ethdenver/team_at_secret_booth.jpg"/>
+          <Carousel.Caption>
+            <h3>Dylan, Robbie, and Phil and company</h3>
+            <p>
+              We had a blast at the Secret Network booth!
+            </p>
+          </Carousel.Caption>
+        </Carousel.Item>
+      </Carousel>
+    );
+ }
+
 
 function HomepageActions() {
   const { siteConfig } = useDocusaurusContext();
@@ -496,7 +534,8 @@ export default function Home() {
     <Layout
       title={`${siteConfig.title}`}
       description="We are a DAO founded to empower writers, readers, and publishers using Web3 technology.">
-      <HomepageHeader />
+      
+      <HomepageCarousel />
       <HomepageImportant />
       <HomepageActions />
       <HomepageBooks />
@@ -508,3 +547,4 @@ export default function Home() {
     </Layout>
   );
 }
+//<HomepageHeader />

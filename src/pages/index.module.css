@@ -54,3 +54,11 @@
 .TimelineTitle {
   padding-left: 16vw;
 }
+
+.CarouselImage {
+  width: 100%;
+  height: 80vh;
+  object-fit: cover;
+  object-position: center;
+  vertical-align: middle;
+}
