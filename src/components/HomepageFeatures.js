@@ -4,40 +4,38 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Metaverse Writers Guild',
-    Svg: require('../../static/img/undraw_Working.svg').default,
+    title: 'Decentralized Book Publishing',
+    Svg: require('../../static/img/undraw_book_lover_re_rwjy.svg').default,
     description: (
       <>
-        Our community is comprised of writers, readers and all creatives working to bring permissionless decentralized literature to Web3. 
-        <br></br><div class="button"><a href = "https://app.dework.xyz/pagedao-web3-writers">PageDAO on Dework</a></div>
+     <div class="button"><a href = "https://mint.nftbookbazaar.com">Mint your written work as a V1 NFTBook today.</a></div>
       </>
+      
     ),
     
   },
-  {
-    title: 'PAGE',
-    Svg: require('../../static/img/undraw_transfer_money.svg').default,
-    description: (
-      <>
-        Welcome to $PAGE, the writer's cryptocurrency. $PAGE grants govenance weight, access to DAO member perks, and can be used to pay for writing on our Dework Board.
-        <br></br><div class="button"><a href = "https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x60e683c6514edd5f758a55b6f393bebbafaa8d5e">Trade on Uniswap</a></div>
-
-
-      </>
-    ),
-  },
-  {
-    title: 'DAO',
-    Svg: require('../../static/img/undraw_conference_speaker.svg').default,
-    description: (
-      <>
-        Our decentralized autonomous organization is self-governed by $PAGE and the Membership NFTs. We work collectively to bring Web 3.0 literature to life.
-        <br></br><div class="button"><a href = "https://membership.nftbookbazaar.com">Mint Your Membership NFT</a></div>
-
-      </>
-    ),
+    {
+      title: 'Web3 Publishing Standard',
+      Svg: require('../../static/img/undraw_bookshelves_re_lxoy.svg').default,
+      description: (
+        <>
+       <div class="button"><a href = "https://discord.gg/AJYAjC6gDA">Join the Web3 Publishing Standard Project.</a></div>
+        </>
+      ),
+      
     },
-
+    {
+      title: 'Ethereum + IPFS',
+      Svg: require('../../static/img/undraw_new_ideas_re_asn4.svg').default,
+      description: (
+        <>
+        <div class="button"><a href = "https://github.com/PageDAO/Minter-Minting-DApp">See our Minter on GitHub</a></div>
+  
+  
+        </>
+      ),
+    },
+    
 ];
 
 function Feature({Svg, title, description}) {

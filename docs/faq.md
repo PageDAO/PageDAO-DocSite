@@ -1,17 +1,63 @@
 ---
-sidebar_position: 2
+sidebar_position: 5
 title: FAQ
 ---
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 # FAQ
 
-## How do I get PAGE?
+## How to get $PAGE on Osmosis
 
-To be able to hold any amount of PAGE, ETH or any other crypto currrency, this is, currencies based on Ethereum Blockchain, you will need a cryptowallet, wich allows you to interact with the Blockchain and all its Decentralized Applications (Dapps), like for example, **Metamask**.
+The PAGE token is available in a liquidity pool on Osmosis and can be automatically swapped for any asset listed on the Osmosis DEX. If you have never transacted on the Osmosis DEX there are a few pathways to deposit funds to your Osmosis account: 
 
-## What is Metamask?
+### Funding Your account
+<Tabs>
+    <TabItem value="coinbase" label="Using Coinbase">
+        <summary><h4>Purchase ATOM on Coinbase and Deposit to Cosmos (Keplr)</h4></summary>
+        <ul>
+            <li>Make sure you have Keplr wallet installed (see "<a href="#install-keplr">How to create a new crypto wallet for the Cosmos ecosystem</a>" for instructions).</li>
+            <li>Copy your Cosmos Hub address.</li>
+            <li>Purchase ATOM using coinbase.</li>
+            <li>Send the ATOM from your Coinbase account to your Cosmos Hub address</li>
+            <li>Use app.osmosis.zone to deposit your Cosmos Hub ATOM to Osmosis</li> 
+        </ul>
+    </TabItem>
+    <TabItem value="kado" label="Using Kado">
+        <summary><h4>Using Kado to buy OSMO with Fiat   </h4></summary>
+        <ul>
+            <li>visit <a href="https://www.kado.money/assets/osmosis">kado.money/assets/osmosis</a><br/><img style={{padding: '2em'}} src="/img/faq/buy-osmo-with-kado.png"/></li>
+        </ul>
+    </TabItem>
+</Tabs> 
+Once your account has funds, you can swap any currency for PAGE directly. If you are interested in joining the incentivized Liquidity Pool please see "<a href="#add-liquidity">How to add liquidity to the PAGE/OSMO Osmosis pool</a>".
 
-Metamask is a **free crypto wallet** that is used as a browser extension. Basically it **acts as a "bridge"** between your computer, conventional websites and the blockchain (in this case Ethereum). It can be used with **Chrome, Firefox, Edge and Brave** and there are apps for **Android** and **iOS**.
+## How to add liquidity to the PAGE/OSMO Osmosis pool
+Liquidity pools have been around for a while, but here is <a href="https://medium.com/osmosis/osmosis-liquidity-mining-101-2fa58d0e9d4d#:~:text=distributed%20on%20Osmosis.-,Liquidity%20Providing,-Providing%20liquidity%20(called">a good primer on medium for how Osmosis liquidity pools work</a>. <i>Note: This guide is not investment adivce. Do your own research, and all liquidity pools have risks of loss.</i>
+
+- If you have OSMO and PAGE in equal value
+  - navigate to <a href="https://app.osmosis.zone/pool/1344">app.osmosis.zone/pool/1344</a> and press the "Add Liquidity" button
+  - select the amount (you can click on the number amount to populate the input box)
+- If you only have OSMO you can go to the pool link above and select Single Sided Asset
+
+:::tip Bond your liquidity for rewards
+  As of February 2024, for a limited time, PageDAO is providing incentives for providers of liquidity on Osmosis. To bond your liquidity, choose "Bond Liquidity" as the final step. This locks your tokens and in exchange for the boosted reward, your tokens can only be unbonded after a 14 day waiting period. 
+:::
+ 
+
+## How to bridge your $PAGE tokens
+
+See <a href="./bridge">Bridging Guide</a> for more information
+
+## How to create a new crypto wallet for the Cosmos ecosystem? {#install-keplr}
+
+<b>Step 1.</b> Go to <a href="https://www.keplr.app/download">keplr.app/download</a> and install the Keplr Wallet extension<br/>
+
+<b>Step 2.</b> Create your account and secure your mnemonic phrase. Copy your wallet address for the Osmosis chain.<br/><img style={{padding: '2em'}} src="/img/faq/copy-osmosis-address.png"/><br/>
+
+<b>Step 3.</b> To fund your new Osmosis account you can visit <a href="https://www.kado.money/assets/osmosis">kado.money/assets/osmosis</a><br/><img style={{padding: '2em'}} src="/img/faq/buy-osmo-with-kado.png"/><br/>
+
+<b>Step 4.</b> Connect to <a href="https://daodao.zone/dao/osmo1a40j922z0kwqhw2nn0nx66ycyk88vyzcs73fyjrd092cjgyvyjksrd8dp7/home">governance on DAODAO</a> or start trading on <a href="https://app.osmosis.zone">app.osmosis.zone</a><br/>
 
 ## How to create a new crypto wallet with Metamask?
 
@@ -23,10 +69,10 @@ The first thing you have to do is **install the add-on in your Chrome browser** 
 - ### Step 2: Follow the help wizard to create your wallet
 To start creating an account, simply hit the fox icon in your browser and select **"Start Now"** . It will ask you if you want to **import a wallet or create a new one** . Click on create a new one. It will generate a unique Seed phrase and prompt you to write a password that should be different to the ones you have on other sites such as email or Facebook to ensure good security. 
 
-- ### Step 3: We write down the seed phrase
+- ### Step 3: Write down the seed phrase
 The **seed phrase** is **the most important part** of the entire process of creating an account in Metamask. In fact, it is not by chance that Metamask does a double check to see that we have it correctly writed down. 
 
-The seed phrase is the key you will use to **restore access to our wallet** on any device. With this phrase, **anyone can acces and use your founds**. It is **very important to** store this phrase in safely, either on a physical format and hide it so only you know where it is, use a Hardware wallet like Trezor or Ledger, or something like that. **Never  ever** **store this security phrase on a digital medium with internet access and no security** .
+The seed phrase is the key you will use to **restore access to our wallet** on any device. With this phrase, **anyone can access and use your funds**. It is **very important to** store this phrase in safely, either on a physical format and hide it so only you know where it is, use a Hardware wallet like Trezor or Ledger, or something like that. **Never  ever** **store this security phrase on a digital medium with internet access and no security** .
 
 Once we have written it down and thought of a **safe place** to save it, we will double check in Metamask by completing the seed phrase in the right order.
 
@@ -48,6 +94,9 @@ Sometimes the token you are looking for will not appear in the default list, lik
 
 ## How to buy/sell PAGE
 
+<Tabs>
+<TabItem value="ethereum-swap" label="On Ethereum">
+
 - ### Step 1: Purchase ETH
 So now that you have your own crypto wallet, you will need to fund it with some ETH, to be able to buy PAGE. To do this, go to any of the major exchanges like [Coinbase](https://www.coinbase.com/) and follow their instructions to purchase.
 - ### Step 2: Transfer ETH to your Metamask wallet
@@ -62,37 +111,16 @@ Go to [Uniswap](https://bit.ly/swap-page) and enter an amount of ETH you would l
 Again, as in the Metamask case, **PAGE** will not be listed on the dropdown menu, but when you click it you can just paste the PAGE contract address on the Searchbar like you did on Metamask, and it will register it.
 
 After the desired amount is entered, you can just click on **"Swap"** Button and the proccess will begin. Usually, is just 1 transaction, but if it is the first time you swap that token, it will ask you first for a token aproval, and then for the swap. **So it will be a total of 2 transactions on Ethereum to pay gas for**.
+</TabItem>
+<TabItem value="osmosis-swap" label="On Osmosis">
+Go to <a href="https://pro.osmosis.zone/osmosis/trade/protrade?from=uosmo&to=ibc%2F23A62409E4AD8133116C249B1FA38EED30E500A115D7B153109462CD82C1CD99&market=Osmosis">Osmosis Pro Trading interface</a> or the PAGE/OSMO pool at <a href="https://app.osmosis.zone/pool/1344">app.osmosis.zone/pool/1344</a> to buy $PAGE with $OSMO.
 
-## How to earn PAGE
-Buying is not the only way to get **PAGE**, you can go to our [Discord](https://discord.gg/zzuTJh2xQn) become part of our **NFTBooks** Lovers comunity, be active, and interact with all the cool stuff that happens there. We Have several events a week and activities you can earn some PAGE for participating into! and we have also bounties, wich are little tasks to help the project/community that you will be rewarded to the first person doing them.
+<img style={{padding: '2em'}} src="/img/faq/osmo-trade-page.png"/><br/>
+</TabItem>
+</Tabs>
 
-## What can I do with my PAGE?
+## **How Do I Mint an NFTBook?**
 
-In the future? A lot of stuff, governing the DAO, buying books, and a lot more! Right now, what you can do is participating on the staking program, and keep earning those juicy PAGE!
+Go to https://membership.nftbookbazaar.com to get a Membership NFT if you don't already have one.
 
-### But, what is staking?
-
-Staking is a way to put your crypto to work and earn rewards on it. Staking cryptocurrencies comes in 2 forms **a process that involves committing your crypto assets to support a blockchain network and confirm transactions, on a Proof of Stake Blockchain** or **a process that involves committing your crypto assets to support a crypto project and be rewarded by doing it**. Page DAO is the second form.
-
-We have reserved some PAGE to reward people that decide, not only to buy our token, but to **block and hold their assets**. This is proof that they are trusting on the project, and we can relatively discard that people is just gonna "dump" our Token into the market. For that, we will reward those individuals with more PAGE.
-
-
-## How do I stake my PAGE?
-
-- ### Step 1: Go to Tosdis.Finance
-
-Tosdis is the platform that is currently giving PAGE DAO the Staking as a Service. So as with uniswap, go to their main [site](https://tosdis.finance/) and launch de app. Or to be quicker, you can follow this [link](https://app.tosdis.finance/poolView?pool=0xafee6e3a2f029d87456d500119603d8a1f600272) to go to our staking pool directly
-
-- ### Step 2: Stake it!
-
-As with any other Dapp, if you have not already, connect your metamask on the upper right corner of the app.
-
-Now you will be in a page like this:
-
-![enter image description here](https://lh3.googleusercontent.com/pw/AM-JKLUXA7OOuAreWADwEFpkB-NDT6FfIU-xk2SQbvAO9g1i7AptPc2gw7s1ThLyoo6I46LmUooYQ7gdONuc0hRzQqkBX0lG0P-Mf66C38PGexKmvOiCvGOB08tDYtRSV7vwUF2a7RoIMWbXCIRddgktS94=w812-h645-no?authuser=0)
-
-Again, same as with Uniswap, if its the first time you are using this service you will have to do 2 transactions on Ethereum, 1 to approve, and the other the actual amount that you will stake.
-
-**NOTE:** Staking requires you to provide the same amount of **BOTH Tokens**, in this case, ETH and PAGE.
-
-When the transactions are done, you can just wait and be rewarded! 
+Open https://mint.nftbookbazaar.com and connect your wallet to the Polygon network. Follow the steps to upload your book's PDF and art, then visit your wallet address on OpenSea to list them on the market if you like.
