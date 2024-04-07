@@ -166,6 +166,13 @@ function HomepageCarousel() {
     return (
       <Carousel activeIndex={index} onSelect={handleSelect}>
         <Carousel.Item>
+          <img className={styles.CarouselImage} src="./img/nftnyc/decc-secret-network.jpg"/>
+          <Carousel.Caption>
+            <h3>Robbie speaks at NFT.NYC DeCC Event</h3>
+            <p>Why recovering our intuitive privacy values is important</p>
+          </Carousel.Caption>
+        </Carousel.Item>
+        <Carousel.Item>
           <img className={styles.CarouselImage} src="./img/ethdenver/dylan_at_frictionless.jpg"/>
           <Carousel.Caption>
             <h3>Dylan speaks at Frictionless</h3>
@@ -411,6 +418,30 @@ function HomepageTimeline() {
             $PAGE token launches on Osmosis DEX, DAODAO Governance launches
           </p>
         </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--education"
+          date="January 2024"
+          contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+          iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
+          icon={<GroupWork />}
+        >
+          <h3 className="vertical-timeline-element-title">PageDAO receives Secret Network Grant</h3>
+          <p>
+            PageDAO maps out a plan for decentralized unstoppable storage of protected content.
+          </p>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--education"
+          date="March 2024"
+          contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+          iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
+          icon={<GroupWork />}
+        >
+          <h3 className="vertical-timeline-element-title">Hackathons at ETH Denver</h3>
+          <p>
+            PageDAO builds a team and develops the framework for onchain secure key storage and a multichain frontend.
+          </p>
+        </VerticalTimelineElement>
       </VerticalTimeline>
     </div>
   );
@@ -474,7 +505,17 @@ function HomepageTeam() {
               </small>
             </div>
           </div>
-
+          <div className="avatar avatar--vertical col col--3">
+            <img
+              className="avatar__photo avatar__photo--xl"
+              src="/img/cdvagobond.png" />
+            <div className="avatar__intro">
+              <div className="avatar__name">CD Vagobond</div>
+              <small className="avatar__subtitle">
+              Web3 publisher, activist, and PageDAO promoter CD hosts Web3 spaces, is cofounder of blockchain advocacy groups, and a blockchain publishing evangelist.
+              </small>
+            </div>
+          </div>
           <div className="avatar avatar--vertical col col--3">
             <img
               className="avatar__photo avatar__photo--xl"
