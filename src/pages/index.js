@@ -166,6 +166,14 @@ function HomepageCarousel() {
     return (
       <Carousel activeIndex={index} onSelect={handleSelect}>
         <Carousel.Item>
+          <img className={styles.CarouselImage} src="./img/banner/Nat_Poety_Month_1920_x_1080_px.png"/>
+          <Carousel.Caption>
+            <Link to="https://docs.google.com/forms/d/e/1FAIpQLScluEPWP2mwzWKdFACrD1xv_sQl1liif3_pf4B7gW13j7fVIw/viewform">
+            <button className="button button--primary padding-horiz--md padding-vert--md">Submit with Vagobond Magazine</button>
+          </Link>
+          </Carousel.Caption>
+        </Carousel.Item>
+        <Carousel.Item>
           <img className={styles.CarouselImage} src="./img/nftnyc/decc-secret-network.jpg"/>
           <Carousel.Caption>
             <h3>Robbie speaks at NFT.NYC DeCC Event</h3>
