@@ -5,14 +5,14 @@ title: Tokenomics & Distribution
 [last updated Apr. 10, 2024]
 ## Current Condition of $PAGE token
 
-**Audit of major smart contracts on Ethereum**<br> 
+**Audit of major smart contracts on Ethereum**<br/> 
 40M $PAGE tokens have been issued to date. See distributions below.
 
 | Chain        | Treasury                                                                                                                                            | Liquidity Pools                                                                                               |
 |--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Osmosis  | **PageDAO**<br>- Main DAO - 10M $PAGE<br>- Core Team - 2.37M $PAGE<br>- C&P - 4.56M $PAGE<br>- C&P (MediaCraft) - 67.5K $PAGE<br>- R&D - 4.9M $PAGE | - $PAGE/$OSMO - Pool 1344 - https://app.osmosis.zone/pool/1344                                                |
-| Ethereum | **PageDAO**<br>- Gnosis Safe Multisig - 272,000 $PAGE - https://app.safe.global/balances?safe=eth:0xeEFe148D85Ef37Ec79ac62AD3c96A50411770a25        | - Uniswap v2 Pool - https://app.uniswap.org/explore/pools/ethereum/0x9a25d21e204f10177738edb0C3345BD88478AaA2 |
-| Polygon  | **PageDAO**<br>- Gnosis Safe Multisig - 0xF6D587f6091FD06157C661ea20D8139D7A89C46D                                                                  | - SushiSwap - https://www.sushi.com/pool/137:0xf48D6955569622a8F3886eBEc8EA2c60b37e5eF5                       |
+| Osmosis  | - Main DAO - 10M $PAGE<br/>- Core Team - 2.37M $PAGE<br/>- C&P - 4.56M $PAGE<br/>- C&P (MediaCraft) - 67.5K $PAGE<br/>- R&D - 4.9M $PAGE | - $PAGE/$OSMO - Pool 1344 - https://app.osmosis.zone/pool/1344                                                |
+| Ethereum | **PageDAO**<br/>- Gnosis Safe Multisig - 272,000 $PAGE - https://app.safe.global/balances?safe=eth:0xeEFe148D85Ef37Ec79ac62AD3c96A50411770a25        | - Uniswap v2 Pool - https://app.uniswap.org/explore/pools/ethereum/0x9a25d21e204f10177738edb0C3345BD88478AaA2 |
+| Polygon  | **PageDAO**<br/>- Gnosis Safe Multisig - 0xF6D587f6091FD06157C661ea20D8139D7A89C46D                                                                  | - SushiSwap - https://www.sushi.com/pool/137:0xf48D6955569622a8F3886eBEc8EA2c60b37e5eF5                       |
 | Optimism | n/a                                                                                                                                                 | - $PAGE/$ETH: 0x4a7b5da61326a6379179b40d00f57e5bbdc962c2                                                      |
 
 
