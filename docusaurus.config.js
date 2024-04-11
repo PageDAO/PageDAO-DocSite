@@ -22,13 +22,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/PageDAO/PageDAO-DocSite/',
+          editUrl: 'https://github.com/PageDAO/PageDAO-DocSite/edit/master/docs/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/PageDAO/PageDAO-DocSite/',
+            'https://github.com/PageDAO/PageDAO-DocSite/edit/master/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
