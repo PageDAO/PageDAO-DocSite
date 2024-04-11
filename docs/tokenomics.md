@@ -28,5 +28,7 @@ title: Tokenomics & Distribution
 | Research & Development  | Issued by R&D department to developers and other assisting community members.                            | 6,000,000  |
 | Airdrops                | Issue to aligned communities during 2024 to bootstrap a powerful community around PageDAO’s initiatives. | 6,000,000  |
 | Core Team & Team Growth | Issue to team to incentivize participation & involvement and bootstrap initiatives for team growth.      | 3,000,000  |
-| **Total**               |                                                                                                          | **30,000,000** |
-| **$PAGE Total Supply**  |                                                                                                          | **40,000,000** |
+| **Total Issued 1/1/2024** | Sum of all tokens issued on Jan. 1, 2024.                                                              | **30,000,000** |
+| **Circulating Supply**  | Total amount of $PAGE token currently in circulation.                                                    | **40,000,000** |
+| **Max Supply**    | Max amount of $PAGE that will ever be minted.                                                                  | **100,000,000** |
+
