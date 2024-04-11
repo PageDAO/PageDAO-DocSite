@@ -10,7 +10,7 @@ title: Tokenomics & Distribution
 
 ### Osmosis
 #### Treasury
-*PageDAO*
+**PageDAO**
 - Main DAO - 10M $PAGE
 - Core Team - 2.37M $PAGE
 - C&P - 4.56M $PAGE
@@ -21,14 +21,14 @@ title: Tokenomics & Distribution
 
 ### Ethereum
 #### Treasury
-*PageDAO*
+**PageDAO**
 - Gnosis Safe Multisig - 272,000 $PAGE - https://app.safe.global/balances?safe=eth:0xeEFe148D85Ef37Ec79ac62AD3c96A50411770a25
 #### Liquidity Pools
 - Uniswap v2 Pool - https://app.uniswap.org/explore/pools/ethereum/0x9a25d21e204f10177738edb0C3345BD88478AaA2
 
 ### Polygon
 #### Treasury
-*PageDAO*
+**PageDAO**
 - Gnosis Safe Multisig - 0xF6D587f6091FD06157C661ea20D8139D7A89C46D
 #### Liquidity Pools 
 - SushiSwap - https://www.sushi.com/pool/137:0xf48D6955569622a8F3886eBEc8EA2c60b37e5eF5
