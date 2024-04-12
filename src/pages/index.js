@@ -7,9 +7,10 @@ import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
 import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
-import { GroupWork } from '@material-ui/icons';
+//import { GroupWork } from '@material-ui/icons';
 import Carousel from 'react-bootstrap/Carousel';
 
+const GroupWork = {};
 const shopifyHeroHTML = `<div id='product-component-1706711854584'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
@@ -357,7 +358,7 @@ function HomepageTimeline() {
           contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
           date="August 2021"
           iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-          icon={<GroupWork />}
+          
         >
           <h3 className="vertical-timeline-element-title">DAO Inception</h3>
           <p>
@@ -369,7 +370,7 @@ function HomepageTimeline() {
           date="December 2021"
           contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
           iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-          icon={<GroupWork />}
+          
         >
           <h3 className="vertical-timeline-element-title">On-Chain Book Minter</h3>
           <p>
@@ -381,7 +382,7 @@ function HomepageTimeline() {
           date="June 2022"
           contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
           iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-          icon={<GroupWork />}
+          
         >
           <h3 className="vertical-timeline-element-title">Community Growth</h3>
             <ul>
@@ -395,7 +396,7 @@ function HomepageTimeline() {
           date="April 2023"
           contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
           iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-          icon={<GroupWork />}
+          
         >
           <h3 className="vertical-timeline-element-title">Core Team and Reseaerch</h3>
           <p>
@@ -407,7 +408,7 @@ function HomepageTimeline() {
           date="July 2023"
           contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
           iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
-          icon={<GroupWork />}
+          
         >
           <h3 className="vertical-timeline-element-title">Strategic Consulting Sessions</h3>
           <p>
@@ -419,7 +420,7 @@ function HomepageTimeline() {
           date="December 2023"
           contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
           iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
-          icon={<GroupWork />}
+          
         >
           <h3 className="vertical-timeline-element-title">PageDAO moves to Cosmos</h3>
           <p>
@@ -431,7 +432,7 @@ function HomepageTimeline() {
           date="January 2024"
           contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
           iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
-          icon={<GroupWork />}
+          
         >
           <h3 className="vertical-timeline-element-title">PageDAO receives Secret Network Grant</h3>
           <p>
@@ -443,7 +444,7 @@ function HomepageTimeline() {
           date="March 2024"
           contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
           iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
-          icon={<GroupWork />}
+          
         >
           <h3 className="vertical-timeline-element-title">Hackathons at ETH Denver</h3>
           <p>

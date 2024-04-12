@@ -40,9 +40,9 @@ mindmap
       Whitney Morgan Media
       Cryptoversal Books
       Vagobond Magazine
-    PizzaDAO
+      PizzaDAO
       Events
-        VMGM/W3WH
+        VMGM / W3WH
         Pass the PEN
         t2
     Research & Development
