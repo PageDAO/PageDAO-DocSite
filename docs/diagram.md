@@ -1,6 +1,57 @@
 ---
 title: Org Diagram
 ---
+import Mermaid from '@theme/Mermaid';
 
 ## PageDAO
-[![](https://mermaid.ink/img/pako:eNqNVMuOmzAU_RXLiyqR0jQJkAe7TBh1WokpylQTqWJzAzfgFtvINjMlUf69zpu0qRTBwhyf-zo-eEMTmSL1KWci5VDGghAlpWm1IsgwmH5rt3cQId8xyYUsZFYfvgmZI6QcH6T8pU-Q77NEitYKyAo-Lu1O-7RDyANqo7EoUOkLOMeMSXEGbD373sz2jkvNDB4TzqRC2xLwczM2jYCbkaWtKMW5ky8ixXt4QV2AuIc4U3Vp5JsFobiHH-WskKtppQ27I_9Mcl4JZmrygUTVsmA6ZyI7xYWYMpgpWJmLpk1Z_pXmfx0fcMS0CXyFBEUTeOGgTMAyZqCIoOYojL7aN1BPzZPkGMAxU2QjhC2Vs1Jf2jawrFiRNsywyJnl1SSUKgNxmOyWxOTKca-QyaUUKQkhgzUTx6ON2HoNDSs9vl13-hp-Dj8tnMXTBYpAa2JyJNHj8wU1g8N6jhpBJbk9hQDfsJDlbvYT71rypsOsj1SkULO0QbcCVBqsIo3qN0zxlwcjJX9i0pziGd9JyIRBFYvdQzuUo-LAUvtDb3a8mNqJOMbUt8uCZbmJaSy2lgiVkS-1SKhvVIUdWpUpGAwYZAo49VdQaIuWIKi_ob-pP3a77thzJu7I8ZzhYDjp0Jr6fdfrjhzXc0eDyXAy7PedbYeupbQZet2xO3QGPdfrOT1v4oxHHWrP1EgVHm6c_cWzL_FjH7DrY_sHYf9YAA?type=png)](https://mermaid.live/edit#pako:eNqNVMuOmzAU_RXLiyqR0jQJkAe7TBh1WokpylQTqWJzAzfgFtvINjMlUf69zpu0qRTBwhyf-zo-eEMTmSL1KWci5VDGghAlpWm1IsgwmH5rt3cQId8xyYUsZFYfvgmZI6QcH6T8pU-Q77NEitYKyAo-Lu1O-7RDyANqo7EoUOkLOMeMSXEGbD373sz2jkvNDB4TzqRC2xLwczM2jYCbkaWtKMW5ky8ixXt4QV2AuIc4U3Vp5JsFobiHH-WskKtppQ27I_9Mcl4JZmrygUTVsmA6ZyI7xYWYMpgpWJmLpk1Z_pXmfx0fcMS0CXyFBEUTeOGgTMAyZqCIoOYojL7aN1BPzZPkGMAxU2QjhC2Vs1Jf2jawrFiRNsywyJnl1SSUKgNxmOyWxOTKca-QyaUUKQkhgzUTx6ON2HoNDSs9vl13-hp-Dj8tnMXTBYpAa2JyJNHj8wU1g8N6jhpBJbk9hQDfsJDlbvYT71rypsOsj1SkULO0QbcCVBqsIo3qN0zxlwcjJX9i0pziGd9JyIRBFYvdQzuUo-LAUvtDb3a8mNqJOMbUt8uCZbmJaSy2lgiVkS-1SKhvVIUdWpUpGAwYZAo49VdQaIuWIKi_ob-pP3a77thzJu7I8ZzhYDjp0Jr6fdfrjhzXc0eDyXAy7PedbYeupbQZet2xO3QGPdfrOT1v4oxHHWrP1EgVHm6c_cWzL_FjH7DrY_sHYf9YAA)
+
+<Mermaid value={`
+mindmap
+  root((PageDAO))
+    Technology
+      ReadmeBooks
+      ::icon(fa fa-book)
+        Bestsellers
+        Regions
+      DAODAO
+      ::icon(fa fa-website)
+    Core Team
+      Rionna
+      ::icon(fa fa-person)
+      Inde
+      ::icon(fa fa-person)
+      Dylan
+      ::icon(fa fa-person)
+      Cryptoversal
+      ::icon(fa fa-person)
+      PhilofAustin
+      ::icon(fa fa-person)
+    Community & Publishing
+      MediaCraft
+        Team
+          Rionna
+          Cryptoversal
+          Creed
+          Jacen
+          SmartDigitalPayments
+          StayAtHomeDad
+    Partnerships
+      Metabuilders
+      Whitney Morgan Media
+      Cryptoversal Books
+      Vagobond Magazine
+    PizzaDAO
+      Events
+        VMGM/W3WH
+        Pass the PEN
+        t2
+    Research & Development
+      Team
+        Inde
+        DrPresident
+        Musashi
+        PhilofAustin
+        Dylan
+      Projects
+        New Minter
+`}/>
