@@ -8,7 +8,7 @@ title: Participate in Governance
 2. Go to the [PageDAO section of the DAODAO dApp](https://daodao.zone/dao/osmo1a40j922z0kwqhw2nn0nx66ycyk88vyzcs73fyjrd092cjgyvyjksrd8dp7/home) and log in with your wallet.
 <img style={{padding: '2em'}} src="/img/gov-1.png"/><br/>
 
-3. Go to "Manage your $PAGE.grv Stake" and select an amount to stake. <b>The amount you choose to stake reflects your voting weight.</b> Staking rewards will be enabled by the end of Q1 2024, and staking allows you to vote and participate in subdaos.
+3. Go to "Manage your $PAGE.grv Stake" and select an amount to stake. <b>The amount you choose to stake reflects your voting weight.</b> Staking rewards will be enabled by the end of Q2 2024, and staking allows you to vote and participate in subdaos.
 <img style={{padding: '2em'}} src="/img/gov-2.png"/><br/>
 
 ### Check out the Proposals
