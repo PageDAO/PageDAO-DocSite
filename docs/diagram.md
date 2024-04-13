@@ -24,8 +24,8 @@ mindmap
       ::icon(fa fa-person)
       Cryptoversal
       ::icon(fa fa-person)
-      PhilofAustin
-      ::icon(fa fa-person)
+      PhilofAustin (Ops Orchestrator)
+      ::icon(fa fa-chess-knight)
     Community & Publishing
       MediaCraft
         Team
