@@ -167,6 +167,13 @@ function HomepageCarousel() {
     return (
       <Carousel activeIndex={index} onSelect={handleSelect}>
         <Carousel.Item>
+          <img className={styles.CarouselImage} src="./img/banner/cd_vagobond_in_hawaii.jpg"/>
+          <Carousel.Caption>
+            <h3>CD Damitio presents</h3>
+              <p>Decentralized Hawaii members were excited to learn about PageDAO</p>
+          </Carousel.Caption>
+        </Carousel.Item>
+        <Carousel.Item>
           <img className={styles.CarouselImage} src="./img/banner/Nat_Poety_Month_1920_x_1080_px.png"/>
           <Carousel.Caption>
             <Link to="https://docs.google.com/forms/d/e/1FAIpQLScluEPWP2mwzWKdFACrD1xv_sQl1liif3_pf4B7gW13j7fVIw/viewform">
@@ -519,7 +526,7 @@ function HomepageTeam() {
               className="avatar__photo avatar__photo--xl"
               src="/img/cdvagobond.png" />
             <div className="avatar__intro">
-              <div className="avatar__name">CD Vagobond</div>
+              <div className="avatar__name">CD Damitio</div>
               <small className="avatar__subtitle">
               Web3 publisher, activist, and PageDAO promoter CD hosts Web3 spaces, is cofounder of blockchain advocacy groups, and a blockchain publishing evangelist.
               </small>
