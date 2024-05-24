@@ -19,8 +19,6 @@ title: Tokenomics & Distribution
 
 ## Page Token Issuance Schedule 2024
 
-**30,000,000 $PAGE Tokens Minted 1/1/2024**
-
 | **Allocations**         | **Notes**                                                                                                | **$PAGE Amount** |
 |-------------------------|----------------------------------------------------------------------------------------------------------|------------|
 | Liquidity & Incentives  | Issued throughout 2024.                                                                                  | 9,000,000  |
