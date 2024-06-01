@@ -4,8 +4,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'We are PageDAO',
-  tagline: 'Our mission is to fuel creative literary pursuits in blockchain, the metaverse and beyond.',
+  title: 'PageDAO',
+  tagline: 'PageDAO is heading to EthDenver Feb 26-Mar 3rd.',
   url: 'https://pagedao.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -22,13 +22,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/PageDAO/PageDAO-DocSite/edit/master',
+          editUrl: 'https://github.com/PageDAO/PageDAO-DocSite/edit/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/PageDAO/PageDAO-DocSite/edit/master',
+            'https://github.com/PageDAO/PageDAO-DocSite/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -36,10 +36,18 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       }),
     ],
   ],
-
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: false
+      },
       navbar: {
         title: 'PageDAO',
         logo: {
@@ -48,32 +56,21 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         },
         items: [       
           {
-            label: 'PageDAO Membership',
-            href: 'https://membership.nftbookbazaar.com',
-            position: 'right',
-          },
-          
-          {
             label: 'Mint an NFTBook',
             href: 'https://mint.nftbookbazaar.com',
             position: 'left',
           },
           
           {
-            label: 'ReadMe Books on OpenSea',
+            label: 'Readme Books on OpenSea',
             href: 'https://opensea.io/collection/readme-books',
             position: 'left',
           },
 
           {
-            href: 'https://snapshot.org/#/pagedao.eth',
+            href: 'https://daodao.zone/dao/osmo1a40j922z0kwqhw2nn0nx66ycyk88vyzcs73fyjrd092cjgyvyjksrd8dp7/home',
             label: 'Governance',
             position: 'right',
-          },
-          {
-          href: 'https://github.com/PageDAO/PageDAO-DocSite',
-          label: 'GitHub',
-          position: 'left',
           },
           {
             type: 'doc',
@@ -92,26 +89,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
 
               {
-                label: 'Snapshot Governance',
-                href: 'https://vote.pagedao.org/#/pagedao.eth',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/PageDAO/PageDAO-DocSite',
-              },
+                label: 'Governance',
+                href: 'https://daodao.zone/dao/osmo1a40j922z0kwqhw2nn0nx66ycyk88vyzcs73fyjrd092cjgyvyjksrd8dp7/home',
 
-              {
-                label: 'PageDAO in the Monaverse',
-                href: 'https://monaverse.com/spaces/pagedao-library-of-alexandria?invite=T0Rjd05UWTVOUTp1cy8q',
               },
-              {
-                label: 'Scholar and Scribe',
-                href: 'https://peakd.com/c/hive-199275/created',
-              },
-              {
-                label: 'NFTBook Store',
-                href: 'https://nftbookstore.com',
-              },
+              
 
             ],
           },
@@ -138,27 +120,85 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
           {
-            title: 'Trading',
+            title: 'Page Token',
             items: [
+              {
+                label: 'Etherscan',
+                href: 'https://etherscan.io/address/0x60e683c6514edd5f758a55b6f393bebbafaa8d5e',
+              },
+              {
+                label: 'Polygonscan',
+                href: 'https://polygonscan.com/token/0x9ceE70895726B0ea14E6019C961dAf32222a7C2f',
+              },
               {
                 label: 'Swap on Uniswap',
                 href: 'https://bit.ly/swap-page',
               },
               {
-                label: 'Stake on Tosdis',
-                href: 'https://bit.ly/page-staking',
+                label: 'Swap on Osmosis',
+                href: 'https://app.osmosis.zone/pool/1344',
               },
               {
                 label: 'View on DexTools',
                 href: 'https://bit.ly/page-dt',
               },
               {
-                label: 'Etherscan',
-                href: 'https://etherscan.io/address/0x60e683c6514edd5f758a55b6f393bebbafaa8d5e',
-              },
-              {
                 label: 'Coingecko',
                 href: 'https://www.coingecko.com/en/coins/page',
+              },
+              {
+                html: `<a href="#" onclick="
+                if (window.ethereum) {
+                  ethereum.request({method: 'eth_chainId'})
+                  .then((currentChainId)=>{
+                    if (currentChainId=='0x1') {
+                      ethereum.request({
+                        method: 'wallet_watchAsset',
+                        params: {
+                          type: 'ERC20',
+                          options: {
+                            address: '0x60e683c6514edd5f758a55b6f393bebbafaa8d5e',
+                            symbol: 'PAGE',
+                            decimals: 8,
+                            image: 'https://pagedao.org/img/logo.svg',
+                          }
+                        }
+                      })
+                      .then((success) => {
+                        if (success) {
+                          console.log('PAGE successfully added to wallet');
+                        } else {
+                          console.log('unfortunate error');
+                        }
+                      });
+                    }
+                    if (currentChainId=='0x89') {
+                      ethereum.request({
+                        method: 'wallet_watchAsset',
+                        params: {
+                          type: 'ERC20',
+                          options: {
+                            address: '0x9ceE70895726B0ea14E6019C961dAf32222a7C2f',
+                            symbol: 'PAGE',
+                            decimals: 8,
+                            image: 'https://pagedao.org/img/logo.svg',
+                          }
+                        }
+                      })
+                      .then((success) => {
+                        if (success) {
+                          console.log('PAGE successfully added to wallet');
+                        } else {
+                          console.log('unfortunate error');
+                        }
+                      });
+                    }
+                  });
+                }
+
+                  
+                 
+                ">Add PAGE to Metamask</a>`
               }
             ],
           },
@@ -184,11 +224,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         copyright: `Copyright © ${new Date().getFullYear()} PageDAO`,
       },
       prism: {
-        theme: lightCodeTheme,
+        theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
-
     plugins: [
       [
         '@docusaurus/plugin-content-docs',
