@@ -22,7 +22,6 @@ title: Tokenomics & Distribution
 
 | **Allocations**         | **Notes**                                                                                                | **$PAGE Amount** |
 |-------------------------|----------------------------------------------------------------------------------------------------------|------------|
-
 | **Staking Rewards**     | Source of all tokens to be issued from vesting contracts forward as of Jan. 1, 2025.                     | **57,500,000** |
 | **Circulating Supply**  | Total amount of $PAGE token currently in circulation.                                                    | **42,500,000** |
 | **Max Supply**          | Max amount of $PAGE that will ever be minted.                                                            | **100,000,000** |
