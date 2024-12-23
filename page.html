@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, viewport-fit=cover" />
+  <title>Page Not Found | Framer</title>
+  <link
+    rel="preload"
+    href="https://www.framer.com/fonts/GT-Walsheim/GT-Walsheim-Regular-subset.woff2"
+    as="font"
+    type="font/woff2"
+    crossorigin="anonymous"
+  />
+  <link
+    rel="preload"
+    href="https://www.framer.com/fonts/GT-Walsheim/GT-Walsheim-Medium-subset.woff2"
+    as="font"
+    type="font/woff2"
+    crossorigin="anonymous"
+  />
+  <link
+    rel="preload"
+    href="https://www.framer.com/fonts/GT-Walsheim/GT-Walsheim-Bold-subset.woff2"
+    as="font"
+    type="font/woff2"
+    crossorigin="anonymous"
+  />
+  <style>
+    :root {
+        --color-primary: #ffffff;
+        --color-secondary: #333333;
+        --color-tertiary: #777777;
+        --color-tint: #0099ff;
+        --font-size-body: 15px;
+        --font-size-title: 24px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        :root {
+            --color-primary: #1b1b1b;
+            --color-secondary: #ffffff;
+            --color-tertiary: #cccccc;
+        }
+    }
+
+    html, body {
+        padding: 0;
+        margin: 0;
+        width: 100%;
+        min-height: 100vh;
+    }
+
+    html {
+        box-sizing: border-box;
+        font-feature-settings: "liga", "clig";
+        font-variant-ligatures: common-ligatures;
+        text-rendering: optimizeLegibility;
+    }
+
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: var(--color-primary);
+        font-size: var(--font-size-body);
+    }
+
+    a {
+        text-decoration: none;
+        vertical-align: baseline
+    }
+
+    svg {
+        vertical-align: middle
+    }
+
+    @font-face {
+        font-display: swap;
+        font-family: GT Walsheim;
+        font-weight: 400;
+        src: url(https://www.framer.com/fonts/GT-Walsheim/GT-Walsheim-Regular-subset.woff2) format("woff2"), url(https://www.framer.com/fonts/GT-Walsheim/GT-Walsheim-Regular-subset.woff) format("woff")
+    }
+
+    @font-face {
+        font-display: swap;
+        font-family: GT Walsheim;
+        font-weight: 500;
+        src: url(https://www.framer.com/fonts/GT-Walsheim/GT-Walsheim-Medium-subset.woff2) format("woff2"), url(https://www.framer.com/fonts/GT-Walsheim/GT-Walsheim-Medium-subset.woff) format("woff")
+    }
+
+    @font-face {
+        font-display: swap;
+        font-family: GT Walsheim;
+        font-weight: 700;
+        src: url(https://www.framer.com/fonts/GT-Walsheim/GT-Walsheim-Bold-subset.woff2) format("woff2"), url(https://www.framer.com/fonts/GT-Walsheim/GT-Walsheim-Bold-subset.woff) format("woff")
+    }
+
+    main {
+        box-sizing: border-box;
+        font-family: "GT Walsheim", sans-serif;
+        font-weight: 400;
+        max-width: 555px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        padding: 0 20px;
+    }
+
+    .logo, .title {
+        color: var(--color-secondary);
+    }
+
+    .logo {
+        margin-bottom: 30px;
+    }
+
+    .title {
+        font-weight: 700;
+        margin: 0 0 15px 0;
+        font-size: var(--font-size-title);
+        letter-spacing: -0.4px;
+        line-height: 1.3em;
+        text-align: center;
+    }
+
+    .description {
+        color: var(--color-tertiary);
+        margin-bottom: 30px;
+        line-height: 1.5em;
+        text-align: center;
+    }
+
+    .btn--sign-up {
+        background-color: var(--color-tint);
+        color: #ffffff;
+        padding: 12px 24px;
+        border-radius: 10px;
+        line-height: 1.2;
+        font-weight: 500;
+    }
+  </style>
+
+  <main>
+    <div class="logo">
+      <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30">
+        <path
+          d="M 6 2 L 24 2 L 24 11 L 15 11 Z M 6 11 L 15 11 L 24 20 L 15 20 L 15 29 L 6 20 Z"
+          fill="currentColor"
+        ></path>
+      </svg>
+    </div>
+    <h1 class="title">Page Not Found</h1>
+    <div class="description">
+      The page you are looking for does not exist.<br />
+      Sign up for Framer to publish your own website.
+    </div>
+    <a
+      href="https://login.framer.com/sign-up/?ref=site-404&redirect=https%3A%2F%2Fframer.com%2F"
+      role="button"
+      class="btn--sign-up"
+      >Sign Up for Free</a
+    >
+  </main>
+</html>
